@@ -1,0 +1,425 @@
+,Player,Club,Position,Number,Date of Birth,Height,Foot,Joined,Market Value,Season
+0,Nenad Eric,FC Astana,Goalkeeper,1,"May 26, 1982 (35)",,"1,97m",right,€300k,2018
+1,Aleksandr Mokin,FC Astana,Goalkeeper,35,"Jun 19, 1981 (36)",,"1,94m",right,€100k,2018
+2,Stanislav Pavlov,FC Astana,Goalkeeper,53,"May 30, 1994 (23)",,"1,93m",right,€100k,2018
+3,Danil Podymskiy,FC Astana,Goalkeeper,-,"Jun 5, 1998 (19)",,"1,90m",right,-,2018
+4,Zarko Tomasevic,FC Astana,Centre-Back,6,"Feb 22, 1990 (27)",,"1,90m",left,€1.50m,2018
+5,Sergey Maliy,FC Astana,Centre-Back,-,"Jun 5, 1990 (27)",,"1,91m",right,€1.00m,2018
+6,Marin Anicic,FC Astana,Centre-Back,5,"Aug 17, 1989 (28)",,"1,92m",left,€900k,2018
+7,Evgeniy Postnikov,FC Astana,Centre-Back,44,"Apr 16, 1986 (31)",,"1,89m",right,€600k,2018
+8,Luka Simunovic,FC Astana,Centre-Back,24,"May 24, 1997 (20)",,"1,85m",right,€50k,2018
+9,Tenizbay Abdurakhmanov,FC Astana,Centre-Back,-,"Jun 29, 2002 (15)",,"1,90m",right,-,2018
+10,Ravil Ibragimov,FC Astana,Centre-Back,-,"Dec 25, 2000 (17)",,"1,86m",left,-,2018
+11,Dmitriy Shomko,FC Astana,Left-Back,77,"Mar 19, 1990 (27)",,"1,85m",left,€2.00m,2018
+12,Bakhtiyor Zaynutdinov,FC Astana,Left-Back,-,"Apr 2, 1998 (19)",,"1,83m",left,€500k,2018
+13,Antonio Rukavina,FC Astana,Right-Back,2,"Jan 26, 1984 (33)",,"1,77m",right,€1.50m,2018
+14,Abzal Beysebekov,FC Astana,Right-Back,15,"Nov 30, 1992 (25)",,"1,87m",right,€800k,2018
+15,Lev Skvortsov,FC Astana,Right-Back,42,"Feb 2, 2000 (17)",,"1,80m",both,-,2018
+16,Yuriy Logvinenko,FC Astana,Defensive Midfield,27,"Jul 22, 1988 (29)",,"1,87m",left,€1.20m,2018
+17,Ivan Maevskiy,FC Astana,Defensive Midfield,18,"May 5, 1988 (29)",,"1,90m",right,€800k,2018
+18,Rúnar Már Sigurjónsson,FC Astana,Central Midfield,10,"Jun 18, 1990 (27)",,"1,78m",right,€2.00m,2018
+19,Richard Almeyda,FC Astana,Central Midfield,-,"Mar 20, 1989 (28)",,"1,77m",left,€1.50m,2018
+20,Yuriy Pertsukh,FC Astana,Central Midfield,28,"May 13, 1996 (21)",,"1,86m",right,€500k,2018
+21,Marko Stanojevic,FC Astana,Central Midfield,-,"Jun 22, 1988 (29)",,"1,80m",right,€400k,2018
+22,Madi Zhakipbaev,FC Astana,Central Midfield,21,"Mar 21, 2000 (17)",,"1,74m",right,€200k,2018
+23,Sultan Sagnaev,FC Astana,Central Midfield,70,"Jan 14, 2000 (17)",,"1,72m",right,-,2018
+24,Zhaslan Kairkenov,FC Astana,Central Midfield,87,"Mar 27, 2000 (17)",,"1,75m",right,-,2018
+25,Serikzhan Muzhikov,FC Astana,Attacking Midfield,7,"Jun 17, 1989 (28)",,"1,69m",right,€800k,2018
+26,László Kleinheisler,FC Astana,Attacking Midfield,-,"Apr 8, 1994 (23)",,"1,73m",right,€750k,2018
+27,Roman Murtazaev,FC Astana,Left Winger,45,"Sep 10, 1993 (24)",,"1,88m",right,€1.00m,2018
+28,Didar Zhalmukan,FC Astana,Left Winger,73,"May 22, 1996 (21)",,"1,73m",right,€700k,2018
+29,Pedro Henrique,FC Astana,Right Winger,-,"Jun 16, 1990 (27)",,"1,79m",right,€3.00m,2018
+30,Dorin Rotariu,FC Astana,Right Winger,9,"Jul 29, 1995 (22)",,"1,80m",left,€2.00m,2018
+31,Marin Tomasov,FC Astana,Right Winger,14,"Aug 31, 1987 (30)",,"1,84m",left,€1.70m,2018
+32,Firmin Mubele,FC Astana,Centre-Forward,19,"Apr 17, 1994 (23)",,"1,75m",right,€2.50m,2018
+33,Junior Kabananga,FC Astana,Centre-Forward,30,"Apr 4, 1989 (28)",,"1,90m",left,€1.80m,2018
+34,Djordje Despotovic,FC Astana,Centre-Forward,-,"Mar 4, 1992 (25)",,"1,90m",left,€1.00m,2018
+35,Aleksey Shchetkin,FC Astana,Centre-Forward,-,"May 21, 1991 (26)",,"1,93m",right,€1.00m,2018
+36,Rangelo Janga,FC Astana,Centre-Forward,32,"Apr 16, 1992 (25)",,"1,92m",right,€600k,2018
+37,Sergey Khizhnichenko,FC Astana,Centre-Forward,91,"Jul 17, 1991 (26)",,"1,87m",right,€500k,2018
+38,Vladislav Prokopenko,FC Astana,Centre-Forward,80,"Jul 1, 2000 (17)",,"1,80m",right,€200k,2018
+39,Ramazan Karimov,FC Astana,Centre-Forward,81,"Jul 5, 1999 (18)",,"1,90m",right,-,2018
+40,Dmitriy Nepogodov,Tobol Kostanay,Goalkeeper,-,"Feb 17, 1988 (29)",,"1,96m",left,€600k,2018
+41,Andrey Pasechenko,Tobol Kostanay,Goalkeeper,-,"Aug 9, 1987 (30)",,"1,80m",right,€300k,2018
+42,Emil Balayev,Tobol Kostanay,Goalkeeper,12,"Apr 17, 1994 (23)",,"1,89m",left,€150k,2018
+43,Vyacheslav Kotlyar,Tobol Kostanay,Goalkeeper,-,"Mar 3, 1982 (35)",,"1,85m",right,€100k,2018
+44,Sultan Busurmanov,Tobol Kostanay,Goalkeeper,1,"May 10, 1996 (21)",,"1,86m",right,€100k,2018
+45,Zhasur Narzikulov,Tobol Kostanay,Goalkeeper,16,"Apr 13, 1984 (33)",,"1,89m",right,€100k,2018
+46,Ionuț Larie,Tobol Kostanay,Centre-Back,-,"Jan 16, 1987 (30)",,"1,91m",right,€800k,2018
+47,Viktor Dmitrenko,Tobol Kostanay,Centre-Back,8,"Apr 4, 1991 (26)",,"1,90m",right,€500k,2018
+48,Fernander Kassaï,Tobol Kostanay,Centre-Back,4,"Jul 1, 1987 (30)",,"1,84m",right,€350k,2018
+49,Aleksandr Kleshchenko,Tobol Kostanay,Centre-Back,-,"Nov 2, 1995 (22)",,"1,87m",left,€300k,2018
+50,Sultan Abilgazy,Tobol Kostanay,Centre-Back,21,"Feb 22, 1997 (20)",,"1,80m",right,€150k,2018
+51,Daniyar Semchenkov,Tobol Kostanay,Centre-Back,18,"Feb 12, 1997 (20)",,"1,86m",right,-,2018
+52,Vytautas Andriuskevicius,Tobol Kostanay,Left-Back,25,"Oct 8, 1990 (27)",,"1,88m",left,€700k,2018
+53,Grigoriy Sartakov,Tobol Kostanay,Left-Back,19,"Aug 19, 1994 (23)",,"1,85m",left,€600k,2018
+54,Roman Asrankulov,Tobol Kostanay,Left-Back,-,"Jul 30, 1999 (18)",,"1,86m",left,-,2018
+55,Dmitriy Miroshnichenko,Tobol Kostanay,Right-Back,7,"Feb 26, 1992 (25)",,"1,83m",right,€450k,2018
+56,Marat Bystrov,Tobol Kostanay,Right-Back,-,"Jun 19, 1992 (25)",,"1,81m",right,€400k,2018
+57,Timur Zhakupov,Tobol Kostanay,Right-Back,-,"Sep 6, 1995 (22)",,"1,77m",right,€300k,2018
+58,Jaba Kankava,Tobol Kostanay,Defensive Midfield,20,"Mar 18, 1986 (31)",,"1,76m",both,€1.00m,2018
+59,Nika Kvekveskiri,Tobol Kostanay,Defensive Midfield,10,"May 29, 1992 (25)",,"1,86m",right,€750k,2018
+60,Arturas Zulpa,Tobol Kostanay,Defensive Midfield,44,"Jun 10, 1990 (27)",,"1,88m",right,€700k,2018
+61,Shyngys Kazin,Tobol Kostanay,Midfielder,-,"Nov 9, 1999 (18)",,-,,-,2018
+62,Aleksandr Zhukov,Tobol Kostanay,Defensive Midfield,37,"Nov 4, 1997 (20)",,"1,78m",right,-,2018
+63,Aslan Darabaev,Tobol Kostanay,Central Midfield,-,"Jan 21, 1989 (28)",,"1,79m",right,€600k,2018
+64,Samat Zharynbetov,Tobol Kostanay,Central Midfield,14,"Jan 4, 1994 (23)",,"1,74m",right,€200k,2018
+65,Roman Ukhanov,Tobol Kostanay,Central Midfield,88,"Mar 12, 1998 (19)",,"1,79m",right,-,2018
+66,Ruslan Valiullin,Tobol Kostanay,Left Midfield,17,"Sep 9, 1994 (23)",,"1,80m",left,€350k,2018
+67,Nikita Bocharov,Tobol Kostanay,Attacking Midfield,69,"Jun 12, 1992 (25)",,"1,84m",right,€450k,2018
+68,Nurbol Zhumaskaliev,Tobol Kostanay,Attacking Midfield,-,"May 11, 1981 (36)",,"1,76m",left,€50k,2018
+69,Azat Nurgaliev,Tobol Kostanay,Left Winger,13,"Jun 30, 1986 (31)",,"1,73m",both,€500k,2018
+70,Zhaslan Zhumashev,Tobol Kostanay,Left Winger,-,"Sep 27, 2001 (16)",,"1,75m",both,-,2018
+71,Mikhail Gordeychuk,Tobol Kostanay,Right Winger,-,"Oct 23, 1989 (28)",,"1,76m",both,€2.20m,2018
+72,Maksim Fedin,Tobol Kostanay,Right Winger,96,"Jun 8, 1996 (21)",,"1,75m",right,€250k,2018
+73,Tanat Nuserbaev,Tobol Kostanay,Centre-Forward,-,"Jan 1, 1987 (30)",,"1,75m",right,€700k,2018
+74,Juan Lescano,Tobol Kostanay,Centre-Forward,-,"Oct 29, 1992 (25)",,"1,88m",right,€600k,2018
+75,Senin Sebai,Tobol Kostanay,Centre-Forward,23,"Dec 18, 1993 (24)",,"1,82m",right,€400k,2018
+76,Zhasulan Moldakaraev,Tobol Kostanay,Centre-Forward,-,"May 7, 1987 (30)",,"1,80m",right,€350k,2018
+77,Bauyrzhan Turysbek,Tobol Kostanay,Centre-Forward,15,"Oct 15, 1991 (26)",,"1,81m",right,€300k,2018
+78,Roman Tuktamyshev,Tobol Kostanay,Striker,-,"Aug 24, 1999 (18)",,-,,-,2018
+79,Artem Sherstov,Tobol Kostanay,Centre-Forward,46,"Oct 16, 1998 (19)",,"1,75m",right,-,2018
+80,Dmitriy Nepogodov,Ordabasy Shymkent,Goalkeeper,12,"Feb 17, 1988 (29)",,"1,96m",left,€600k,2018
+81,Bekkhan Shayzada,Ordabasy Shymkent,Goalkeeper,1,"Feb 28, 1998 (19)",,"1,88m",right,-,2018
+82,Pablo Fontanello,Ordabasy Shymkent,Centre-Back,29,"Sep 26, 1984 (33)",,"1,93m",both,€1.50m,2018
+83,Sergey Maliy,Ordabasy Shymkent,Centre-Back,25,"Jun 5, 1990 (27)",,"1,91m",right,€1.00m,2018
+84,Damir Dautov,Ordabasy Shymkent,Centre-Back,5,"Mar 3, 1990 (27)",,"1,87m",right,€400k,2018
+85,Temirlan Erlanov,Ordabasy Shymkent,Centre-Back,8,"Jul 9, 1993 (24)",,"1,90m",right,€300k,2018
+86,Ular Zhaksybaev,Ordabasy Shymkent,Centre-Back,6,"Oct 20, 1994 (23)",,"1,80m",right,€50k,2018
+87,Timur Dosmagambetov,Ordabasy Shymkent,Left-Back,27,"May 1, 1989 (28)",,"1,72m",left,€400k,2018
+88,Marat Bystrov,Ordabasy Shymkent,Right-Back,19,"Jun 19, 1992 (25)",,"1,81m",right,€400k,2018
+89,Talgat Adyrbekov,Ordabasy Shymkent,Right-Back,77,"Jan 26, 1989 (28)",,"1,78m",right,€200k,2018
+90,Samat Shamshi,Ordabasy Shymkent,Right-Back,14,"Feb 5, 1996 (21)",,"1,78m",right,-,2018
+91,Adilkhan Dobay,Ordabasy Shymkent,Right-Back,23,"Jun 2, 2002 (15)",,"1,83m",right,-,2018
+92,Asludin Khadzhiev,Ordabasy Shymkent,Right-Back,28,"Oct 24, 2000 (17)",,"1,66m",right,-,2018
+93,Abdoulaye Diakhate,Ordabasy Shymkent,Defensive Midfield,22,"Jan 16, 1988 (29)",,"1,81m",right,€600k,2018
+94,Valeriy Korobkin,Ordabasy Shymkent,Defensive Midfield,3,"Jul 2, 1984 (33)",,"1,85m",right,€150k,2018
+95,May Mahlangu,Ordabasy Shymkent,Central Midfield,7,"May 1, 1989 (28)",,"1,73m",both,€700k,2018
+96,Kyrylo Kovalchuk,Ordabasy Shymkent,Central Midfield,11,"Jun 11, 1986 (31)",,"1,84m",right,€500k,2018
+97,Mirzad Mehanovic,Ordabasy Shymkent,Attacking Midfield,10,"Jan 5, 1993 (24)",,"1,75m",left,€400k,2018
+98,Vitaliy Lee,Ordabasy Shymkent,Left Winger,9,"Mar 13, 1994 (23)",,"1,86m",both,€300k,2018
+99,Maksim Vaganov,Ordabasy Shymkent,Left Winger,18,"Aug 8, 2000 (17)",,"1,83m",,-,2018
+100,Elkhan Astanov,Ordabasy Shymkent,Left Winger,33,"May 21, 2000 (17)",,"1,86m",right,-,2018
+101,Ziguy Badibanga,Ordabasy Shymkent,Right Winger,39,"Nov 26, 1991 (26)",,"1,72m",right,€1.10m,2018
+102,Mardan Tolebek,Ordabasy Shymkent,Right Winger,17,"Dec 18, 1990 (27)",,"1,74m",left,€650k,2018
+103,Mukhit Zhaksylyk,Ordabasy Shymkent,Right Winger,-,"Feb 6, 1999 (18)",,"1,70m",right,-,2018
+104,João Paulo,Ordabasy Shymkent,Centre-Forward,37,"Jun 2, 1988 (29)",,"1,67m",right,€1.30m,2018
+105,Aleksey Shchetkin,Ordabasy Shymkent,Centre-Forward,99,"May 21, 1991 (26)",,"1,93m",right,€1.00m,2018
+106,Toktar Zhangylyshbay,Ordabasy Shymkent,Centre-Forward,20,"May 25, 1993 (24)",,"1,89m",right,€350k,2018
+107,Madizhan Aytbaev,Ordabasy Shymkent,Centre-Forward,88,"Feb 18, 1997 (20)",,"1,84m",,-,2018
+108,Dzhurakhon Babakhanov,Okzhetpes Kokshetau,Goalkeeper,12,"Oct 31, 1991 (26)",,"1,90m",right,€300k,2018
+109,Ruslan Abzhanov,Okzhetpes Kokshetau,Goalkeeper,31,"Apr 28, 1990 (27)",,"1,87m",right,€200k,2018
+110,Yaroslav Baginskiy,Okzhetpes Kokshetau,Goalkeeper,35,"Oct 3, 1987 (30)",,"1,85m",right,€200k,2018
+111,Roderick Miller,Okzhetpes Kokshetau,Centre-Back,-,"Apr 3, 1992 (25)",,"1,90m",left,€600k,2018
+112,Timur Rudoselskiy,Okzhetpes Kokshetau,Centre-Back,4,"Dec 21, 1994 (23)",,"1,93m",right,€400k,2018
+113,Vladislav Kosmynin,Okzhetpes Kokshetau,Centre-Back,-,"Jan 17, 1990 (27)",,"1,96m",left,€350k,2018
+114,Plamen Dimov,Okzhetpes Kokshetau,Centre-Back,21,"Oct 29, 1990 (27)",,"1,87m",right,€350k,2018
+115,Aleksandr Kislitsyn,Okzhetpes Kokshetau,Centre-Back,5,"Mar 8, 1986 (31)",,"1,89m",right,€300k,2018
+116,Nurlan Dairov,Okzhetpes Kokshetau,Centre-Back,3,"Jun 26, 1995 (22)",,"1,81m",right,€150k,2018
+117,Renat Abdulin,Okzhetpes Kokshetau,Centre-Back,23,"Apr 14, 1982 (35)",,"1,85m",right,€50k,2018
+118,Niyaz Idrisov,Okzhetpes Kokshetau,Centre-Back,20,"Jul 21, 1999 (18)",,"1,84m",right,-,2018
+119,Azat Ersalimov,Okzhetpes Kokshetau,Left-Back,88,"Jul 19, 1988 (29)",,"1,67m",both,€300k,2018
+120,Timur Zhakupov,Okzhetpes Kokshetau,Right-Back,18,"Sep 6, 1995 (22)",,"1,77m",right,€300k,2018
+121,Artjom Dmitrijev,Okzhetpes Kokshetau,Defensive Midfield,8,"Nov 14, 1988 (29)",,"1,88m",right,€325k,2018
+122,Altynbek Saparov,Okzhetpes Kokshetau,Defensive Midfield,10,"Apr 26, 1995 (22)",,"1,74m",right,€300k,2018
+123,Miras Tuliev,Okzhetpes Kokshetau,Defensive Midfield,6,"Aug 30, 1994 (23)",,"1,78m",right,€200k,2018
+124,Aslan Dzhanuzakov,Okzhetpes Kokshetau,Defensive Midfield,-,"Jan 6, 1993 (24)",,"1,70m",right,-,2018
+125,Ulanbek Kuanyshbekov,Okzhetpes Kokshetau,Defensive Midfield,-,"Jul 16, 1998 (19)",,"1,75m",,-,2018
+126,Evgeniy Ashikhmin,Okzhetpes Kokshetau,Central Midfield,57,"Dec 2, 1998 (19)",,"1,76m",right,-,2018
+127,Ilya Kalinin,Okzhetpes Kokshetau,Right Midfield,77,"Feb 3, 1992 (25)",,"1,79m",right,€350k,2018
+128,Milan Stojanovic,Okzhetpes Kokshetau,Attacking Midfield,24,"May 10, 1988 (29)",,"1,84m",left,€500k,2018
+129,Ivan Bobko,Okzhetpes Kokshetau,Attacking Midfield,25,"Dec 10, 1990 (27)",,"1,81m",left,€500k,2018
+130,Darko Zoric,Okzhetpes Kokshetau,Right Winger,28,"Sep 12, 1993 (24)",,"1,89m",left,€500k,2018
+131,Ulan Konysbaev,Okzhetpes Kokshetau,Right Winger,9,"May 28, 1989 (28)",,"1,75m",right,€300k,2018
+132,Deimantas Petravicius,Okzhetpes Kokshetau,Right Winger,14,"Sep 2, 1995 (22)",,"1,83m",right,€100k,2018
+133,Tanat Nuserbaev,Okzhetpes Kokshetau,Centre-Forward,7,"Jan 1, 1987 (30)",,"1,75m",right,€700k,2018
+134,Danilo Alves,Okzhetpes Kokshetau,Centre-Forward,99,"Apr 11, 1991 (26)",,"1,87m",right,€425k,2018
+135,Zhasulan Moldakaraev,Okzhetpes Kokshetau,Centre-Forward,17,"May 7, 1987 (30)",,"1,80m",right,€350k,2018
+136,Sanat Zhumakhanov,Okzhetpes Kokshetau,Centre-Forward,30,"Jan 30, 1988 (29)",,"1,85m",right,€250k,2018
+137,Timur Bayzhanov,Okzhetpes Kokshetau,Centre-Forward,-,"Mar 30, 1990 (27)",,"1,85m",right,€150k,2018
+138,Almas Armenov,Okzhetpes Kokshetau,Centre-Forward,-,"Jan 27, 1992 (25)",,"1,70m",left,-,2018
+139,Aleksandr Grigorenko,Kaysar Kyzylorda,Goalkeeper,1,"Feb 6, 1985 (32)",,"1,82m",right,€300k,2018
+140,Marsel Islamkulov,Kaysar Kyzylorda,Goalkeeper,71,"Apr 18, 1994 (23)",,"1,88m",right,€300k,2018
+141,Nurimzhan Salaydin,Kaysar Kyzylorda,Goalkeeper,34,"Oct 27, 1995 (22)",,"1,79m",right,-,2018
+142,Ivan Graf,Kaysar Kyzylorda,Defender,55,"Jun 17, 1987 (30)",,"1,94m",right,€300k,2018
+143,Abdel Lamanje,Kaysar Kyzylorda,Centre-Back,33,"Jul 27, 1990 (27)",,"1,85m",left,€400k,2018
+144,Ivan Sadovnichiy,Kaysar Kyzylorda,Centre-Back,20,"May 11, 1987 (30)",,"1,92m",right,€350k,2018
+145,Aleksandr Marochkin,Kaysar Kyzylorda,Centre-Back,22,"Jul 14, 1990 (27)",,"1,91m",right,€350k,2018
+146,Mark Gurman,Kaysar Kyzylorda,Centre-Back,5,"Feb 9, 1989 (28)",,"1,79m",right,€300k,2018
+147,Olzhas Altaev,Kaysar Kyzylorda,Centre-Back,2,"Jul 15, 1989 (28)",,"1,84m",right,€150k,2018
+148,Ilyas Amirseitov,Kaysar Kyzylorda,Right-Back,13,"Oct 22, 1989 (28)",,"1,79m",right,€300k,2018
+149,Valentin Chureev,Kaysar Kyzylorda,Right-Back,88,"Aug 29, 1986 (31)",,"1,73m",right,€200k,2018
+150,Clarence Bitang,Kaysar Kyzylorda,Defensive Midfield,85,"Sep 2, 1992 (25)",,"1,72m",right,€300k,2018
+151,Duman Narzildaev,Kaysar Kyzylorda,Defensive Midfield,10,"Sep 6, 1993 (24)",,"1,78m",right,€250k,2018
+152,Bekzat Kurmanbekuly,Kaysar Kyzylorda,Defensive Midfield,-,"Apr 14, 2000 (17)",,"1,78m",right,-,2018
+153,Magzhan Baurzhan,Kaysar Kyzylorda,Defensive Midfield,-,"Feb 7, 2002 (15)",,"1,77m",right,-,2018
+154,Askhat Tagybergen,Kaysar Kyzylorda,Central Midfield,8,"Aug 9, 1990 (27)",,"1,79m",right,€700k,2018
+155,Maksat Bayzhanov,Kaysar Kyzylorda,Central Midfield,-,"Aug 6, 1984 (33)",,"1,80m",right,€300k,2018
+156,Samat Balymbetov,Kaysar Kyzylorda,Central Midfield,27,"Apr 10, 1994 (23)",,"1,79m",right,-,2018
+157,Marat Khayrullin,Kaysar Kyzylorda,Attacking Midfield,-,"Apr 26, 1984 (33)",,"1,76m",right,€200k,2018
+158,Joshua John,Kaysar Kyzylorda,Left Winger,86,"Oct 1, 1988 (29)",,"1,75m",right,€550k,2018
+159,Carlitos,Kaysar Kyzylorda,Left Winger,-,"Mar 9, 1993 (24)",,"1,74m",left,€450k,2018
+160,Tigran Barseghyan,Kaysar Kyzylorda,Right Winger,11,"Sep 22, 1993 (24)",,"1,79m",left,€750k,2018
+161,André Bukia,Kaysar Kyzylorda,Right Winger,77,"Mar 3, 1995 (22)",,"1,73m",left,€200k,2018
+162,Igor Zenkovich,Kaysar Kyzylorda,Centre-Forward,78,"Sep 17, 1987 (30)",,"1,85m",right,€400k,2018
+163,Bratislav Punosevac,Kaysar Kyzylorda,Centre-Forward,-,"Jul 9, 1987 (30)",,"1,89m",right,€200k,2018
+164,Kule Mbombo,Kaysar Kyzylorda,Centre-Forward,18,"May 10, 1996 (21)",,"1,86m",right,€150k,2018
+165,Shokhan Abzalov,Kaysar Kyzylorda,Centre-Forward,9,"Sep 11, 1993 (24)",,"1,82m",right,-,2018
+166,Orken Makhan,Kaysar Kyzylorda,Centre-Forward,29,"Jan 27, 1998 (19)",,"1,80m",right,-,2018
+167,Samat Otarbaev,FK Taraz,Goalkeeper,32,"Feb 18, 1990 (27)",,"1,90m",right,€300k,2018
+168,Almaz Khamytbekov,FK Taraz,Goalkeeper,1,"Sep 29, 1991 (26)",,"1,88m",right,-,2018
+169,Timurbek Zakirov,FK Taraz,Goalkeeper,35,"Mar 1, 1996 (21)",,"1,89m",right,-,2018
+170,Mukhammedzhan Seysen,FK Taraz,Goalkeeper,74,"Feb 14, 1999 (18)",,"1,90m",right,-,2018
+171,Vladislav Sheyrer,FK Taraz,Defender,-,"Jun 14, 2000 (17)",,-,,-,2018
+172,Berik Aytbaev,FK Taraz,Centre-Back,14,"Jun 26, 1991 (26)",,"1,84m",right,€400k,2018
+173,Bekzat Shadmanov,FK Taraz,Centre-Back,4,"Aug 12, 1997 (20)",,"1,89m",right,€300k,2018
+174,Mihailo Jovanović,FK Taraz,Centre-Back,21,"Feb 15, 1989 (28)",,"1,90m",left,€200k,2018
+175,Madiyar Nuraly,FK Taraz,Centre-Back,22,"Jan 20, 1995 (22)",,"1,78m",right,€200k,2018
+176,Lasha Kasradze,FK Taraz,Centre-Back,6,"Jul 28, 1989 (28)",,"1,86m",right,€150k,2018
+177,Aleksandar Simčević,FK Taraz,Right-Back,87,"Feb 15, 1987 (30)",,"1,88m",both,€700k,2018
+178,Maksat Amirkhanov,FK Taraz,Right-Back,20,"Feb 10, 1992 (25)",,"1,72m",right,€450k,2018
+179,Viktor Kryukov,FK Taraz,Right-Back,-,"Jun 30, 1990 (27)",,"1,70m",right,€150k,2018
+180,Bekzat Beysenov,FK Taraz,Defensive Midfield,-,"Feb 18, 1987 (30)",,"1,82m",right,€300k,2018
+181,Igor Pikalkin,FK Taraz,Defensive Midfield,12,"Mar 19, 1992 (25)",,"1,82m",right,€300k,2018
+182,Gian Martins,FK Taraz,Defensive Midfield,88,"Apr 2, 1993 (24)",,"1,84m",left,€200k,2018
+183,Abzal Taubay,FK Taraz,Central Midfield,7,"Feb 18, 1995 (22)",,"1,75m",right,€350k,2018
+184,Nemanja Subotic,FK Taraz,Central Midfield,23,"Jan 23, 1992 (25)",,"1,80m",right,-,2018
+185,Sheykhislam Kulakhmetov,FK Taraz,Central Midfield,25,"Jan 15, 1996 (21)",,"1,81m",right,-,2018
+186,Rakhimzhan Rozybakiev,FK Taraz,Left Midfield,5,"Jan 2, 1991 (26)",,"1,88m",right,€250k,2018
+187,Bauyrzhan Baytana,FK Taraz,Attacking Midfield,-,"May 6, 1992 (25)",,"1,74m",both,€300k,2018
+188,Elivelto,FK Taraz,Left Winger,80,"Jan 2, 1992 (25)",,"1,70m",right,€400k,2018
+189,Alisher Suley,FK Taraz,Left Winger,9,"Nov 1, 1995 (22)",,"1,78m",right,€300k,2018
+190,Gavril Kan,FK Taraz,Left Winger,11,"Jan 10, 1999 (18)",,"1,75m",right,-,2018
+191,Zhakyp Kozhamberdy,FK Taraz,Right Winger,13,"Feb 26, 1992 (25)",,"1,83m",left,€350k,2018
+192,Pavel Shabalin,FK Taraz,Right Winger,37,"Oct 23, 1988 (29)",,"1,72m",right,€300k,2018
+193,Serge Nyuiadzi,FK Taraz,Right Winger,44,"Sep 17, 1991 (26)",,"1,81m",left,€200k,2018
+194,Dinmukhamed Karaman,FK Taraz,Right Winger,17,"Jun 26, 2000 (17)",,"1,78m",right,-,2018
+195,Elguja Lobjanidze,FK Taraz,Centre-Forward,99,"Sep 17, 1992 (25)",,"1,93m",right,€300k,2018
+196,Samat Sarsenov,FK Taraz,Centre-Forward,29,"Aug 19, 1996 (21)",,"1,84m",right,€50k,2018
+197,Abylaykhan Zhumabek,FK Taraz,Centre-Forward,19,"Oct 19, 2001 (16)",,"1,87m",right,-,2018
+198,Stas Pokatilov,Kairat Almaty,Goalkeeper,27,"Dec 8, 1992 (25)",,"1,90m",right,€1.00m,2018
+199,Vladimir Plotnikov,Kairat Almaty,Goalkeeper,1,"Apr 3, 1986 (31)",,"1,91m",right,€300k,2018
+200,Dinmukhammed Zhomart,Kairat Almaty,Goalkeeper,-,"Dec 6, 2000 (17)",,"1,88m",right,-,2018
+201,Danil Ustimenko,Kairat Almaty,Goalkeeper,30,"Aug 8, 2000 (17)",,"1,90m",right,-,2018
+202,Sergey Politevich,Kairat Almaty,Centre-Back,6,"Apr 9, 1990 (27)",,"1,90m",right,€1.00m,2018
+203,Eldos Akhmetov,Kairat Almaty,Centre-Back,2,"Jun 1, 1990 (27)",,"1,87m",right,€900k,2018
+204,Rade Dugalic,Kairat Almaty,Centre-Back,20,"Nov 5, 1992 (25)",,"1,94m",right,€700k,2018
+205,Sheldon Bateau,Kairat Almaty,Centre-Back,-,"Jan 29, 1991 (26)",,"1,90m",right,€500k,2018
+206,Madi Aytore,Kairat Almaty,Centre-Back,-,"Feb 6, 1998 (19)",,"1,80m",right,-,2018
+207,Nuraly Alip,Kairat Almaty,Centre-Back,4,"Dec 22, 1999 (18)",,"1,88m",left,-,2018
+208,Gafurzhan Suyumbaev,Kairat Almaty,Left-Back,5,"Aug 19, 1990 (27)",,"1,75m",left,€1.20m,2018
+209,Yan Vorogovskiy,Kairat Almaty,Left-Back,-,"Aug 7, 1996 (21)",,"1,82m",left,€250k,2018
+210,Sergey Keiler,Kairat Almaty,Left-Back,16,"Nov 8, 1994 (23)",,"1,80m",left,€200k,2018
+211,Aybar Nurdaliev,Kairat Almaty,Left-Back,-,"Aug 12, 1999 (18)",,"1,79m",left,-,2018
+212,Dino Mikanovic,Kairat Almaty,Right-Back,24,"May 7, 1994 (23)",,"1,74m",right,€400k,2018
+213,Stanislav Lunin,Kairat Almaty,Right-Back,-,"May 2, 1993 (24)",,"1,80m",right,€300k,2018
+214,Aleksandr Sokolenko,Kairat Almaty,Right-Back,15,"Nov 23, 1996 (21)",,"1,81m",both,€300k,2018
+215,Sultanbek Astanov,Kairat Almaty,Right-Back,39,"Mar 23, 1999 (18)",,"1,79m",right,-,2018
+216,Islambek Kuat,Kairat Almaty,Defensive Midfield,7,"Jan 12, 1993 (24)",,"1,79m",right,€1.50m,2018
+217,Ákos Elek,Kairat Almaty,Defensive Midfield,-,"Jul 21, 1988 (29)",,"1,93m",left,€800k,2018
+218,Aybol Abiken,Kairat Almaty,Defensive Midfield,14,"Jun 1, 1996 (21)",,"1,79m",right,€200k,2018
+219,Nebojsa Kosovic,Kairat Almaty,Central Midfield,22,"Feb 24, 1995 (22)",,"1,77m",right,€750k,2018
+220,Georgiy Zhukov,Kairat Almaty,Central Midfield,8,"Nov 19, 1994 (23)",,"1,72m",right,€700k,2018
+221,Magomed Paragulgov,Kairat Almaty,Central Midfield,-,"Mar 26, 1994 (23)",,"1,81m",right,€300k,2018
+222,Ramazan Orazov,Kairat Almaty,Central Midfield,26,"Jan 30, 1998 (19)",,"1,76m",right,-,2018
+223,Adam Adakhadzhiev,Kairat Almaty,Central Midfield,36,"Nov 23, 1998 (19)",,"1,76m",right,-,2018
+224,Bauyrzhan Islamkhan,Kairat Almaty,Attacking Midfield,9,"Feb 23, 1993 (24)",,"1,74m",right,€2.00m,2018
+225,Juan Felipe,Kairat Almaty,Attacking Midfield,-,"Dec 5, 1987 (30)",,"1,75m",left,€800k,2018
+226,Vyacheslav Shvyrev,Kairat Almaty,Attacking Midfield,23,"Jan 7, 2001 (16)",,"1,76m",right,-,2018
+227,Ivo Ilicevic,Kairat Almaty,Left Winger,-,"Nov 14, 1986 (31)",,N/Am,N/A,€1.20m,2018
+228,Andrey Arshavin,Kairat Almaty,Left Winger,-,"May 29, 1981 (36)",,"1,72m",both,€300k,2018
+229,Rifat Nurmugamet,Kairat Almaty,Left Winger,28,"May 22, 1996 (21)",,"1,80m",left,€200k,2018
+230,Isael,Kairat Almaty,Right Winger,-,"May 13, 1988 (29)",,"1,71m",left,€1.70m,2018
+231,Erkebulan Tungyshbaev,Kairat Almaty,Right Winger,17,"Jan 14, 1995 (22)",,"1,82m",right,€800k,2018
+232,Erkebulan Seydakhmet,Kairat Almaty,Right Winger,10,"Feb 4, 2000 (17)",,"1,78m",right,€300k,2018
+233,Konrad Wrzesinski,Kairat Almaty,Right Winger,18,"Sep 10, 1993 (24)",,"1,77m",right,€150k,2018
+234,Damir Bitusupov,Kairat Almaty,Right Winger,-,"Mar 21, 2000 (17)",,"1,70m",right,-,2018
+235,Jeong-woo Han,Kairat Almaty,Right Winger,13,"Dec 26, 1998 (19)",,"1,69m",right,-,2018
+236,Márton Eppel,Kairat Almaty,Centre-Forward,19,"Oct 26, 1991 (26)",,"1,90m",right,€650k,2018
+237,Aderinsola Habib Eseola,Kairat Almaty,Centre-Forward,11,"Jun 28, 1991 (26)",,"1,88m",right,€200k,2018
+238,Samat Sarsenov,Kairat Almaty,Centre-Forward,25,"Aug 19, 1996 (21)",,"1,84m",right,€50k,2018
+239,Artur Shushenachev,Kairat Almaty,Centre-Forward,54,"Apr 7, 1998 (19)",,"1,90m",right,-,2018
+240,Dzhurakhon Babakhanov,Irtysh Pavlodar,Goalkeeper,-,"Oct 31, 1991 (26)",,"1,90m",right,€300k,2018
+241,Andrey Pasechenko,Irtysh Pavlodar,Goalkeeper,12,"Aug 9, 1987 (30)",,"1,80m",right,€300k,2018
+242,Anton Tsirin,Irtysh Pavlodar,Goalkeeper,-,"Aug 10, 1987 (30)",,"1,98m",right,€200k,2018
+243,Nikita Kalmykov,Irtysh Pavlodar,Goalkeeper,-,"Aug 24, 1989 (28)",,"1,87m",right,€150k,2018
+244,Serikbol Kapanov,Irtysh Pavlodar,Goalkeeper,-,"May 24, 1996 (21)",,"1,88m",right,€100k,2018
+245,Aleksandr Zarutskiy,Irtysh Pavlodar,Goalkeeper,1,"Aug 26, 1993 (24)",,"1,92m",right,€100k,2018
+246,Ilya Sotnik,Irtysh Pavlodar,Goalkeeper,98,"May 18, 1998 (19)",,"1,86m",right,-,2018
+247,Uros Vitas,Irtysh Pavlodar,Centre-Back,5,"Jul 6, 1992 (25)",,"1,90m",right,€1.30m,2018
+248,Kaspars Dubra,Irtysh Pavlodar,Centre-Back,-,"Dec 20, 1990 (27)",,"1,90m",right,€700k,2018
+249,Milos Stamenkovic,Irtysh Pavlodar,Centre-Back,32,"Jun 1, 1990 (27)",,"1,86m",right,€500k,2018
+250,Rafkat Aslan,Irtysh Pavlodar,Centre-Back,2,"Feb 2, 1994 (23)",,"1,86m",right,€350k,2018
+251,Aleksandr Kislitsyn,Irtysh Pavlodar,Centre-Back,-,"Mar 8, 1986 (31)",,"1,89m",right,€300k,2018
+252,Adrian Avramia,Irtysh Pavlodar,Centre-Back,-,"Jan 31, 1992 (25)",,"1,93m",right,€200k,2018
+253,Artem Popov,Irtysh Pavlodar,Centre-Back,57,"Jan 17, 1998 (19)",,"1,88m",right,€200k,2018
+254,Pavel Barkunov,Irtysh Pavlodar,Centre-Back,-,"Mar 22, 1999 (18)",,"1,86m",right,-,2018
+255,Bauyrzhan Tanirbergenov,Irtysh Pavlodar,Left-Back,-,"Feb 11, 1995 (22)",,"1,73m",left,€100k,2018
+256,Sagadat Tursynbay,Irtysh Pavlodar,Left-Back,23,"Mar 26, 1999 (18)",,"1,88m",left,€100k,2018
+257,Ruslan Esimov,Irtysh Pavlodar,Right-Back,25,"Apr 28, 1990 (27)",,"1,82m",right,€400k,2018
+258,Stanislav Lunin,Irtysh Pavlodar,Right-Back,-,"May 2, 1993 (24)",,"1,80m",right,€300k,2018
+259,Dmitriy Schmidt,Irtysh Pavlodar,Right-Back,15,"Nov 17, 1993 (24)",,"1,75m",right,€300k,2018
+260,Aleksandr Sokolenko,Irtysh Pavlodar,Right-Back,77,"Nov 23, 1996 (21)",,"1,81m",both,€300k,2018
+261,Róger Cañas,Irtysh Pavlodar,Defensive Midfield,-,"Mar 27, 1990 (27)",,"1,90m",right,€1.70m,2018
+262,Sergey Kislyak,Irtysh Pavlodar,Defensive Midfield,-,"Aug 6, 1987 (30)",,"1,85m",right,€650k,2018
+263,Patrik Hidi,Irtysh Pavlodar,Defensive Midfield,8,"Nov 27, 1990 (27)",,"1,86m",left,€500k,2018
+264,Kirill Shestakov,Irtysh Pavlodar,Defensive Midfield,-,"Jun 19, 1985 (32)",,"1,79m",right,€200k,2018
+265,Oybek Baltabaev,Irtysh Pavlodar,Defensive Midfield,-,"Jun 13, 1994 (23)",,"1,73m",both,€200k,2018
+266,Aslan Darabaev,Irtysh Pavlodar,Central Midfield,-,"Jan 21, 1989 (28)",,"1,79m",right,€600k,2018
+267,Marko Stanojevic,Irtysh Pavlodar,Central Midfield,88,"Jun 22, 1988 (29)",,"1,80m",right,€400k,2018
+268,Magomed Paragulgov,Irtysh Pavlodar,Central Midfield,33,"Mar 26, 1994 (23)",,"1,81m",right,€300k,2018
+269,Adrián Gómez,Irtysh Pavlodar,Central Midfield,-,"Jan 17, 1994 (23)",,"1,82m",right,€200k,2018
+270,Sultan Sagnaev,Irtysh Pavlodar,Central Midfield,66,"Jan 14, 2000 (17)",,"1,72m",right,-,2018
+271,Ilya Kalinin,Irtysh Pavlodar,Right Midfield,-,"Feb 3, 1992 (25)",,"1,79m",right,€350k,2018
+272,Doru Popadiuc,Irtysh Pavlodar,Attacking Midfield,-,"Feb 18, 1995 (22)",,"1,77m",right,€250k,2018
+273,Jérémy Manzorro,Irtysh Pavlodar,Attacking Midfield,14,"Nov 11, 1991 (26)",,"1,73m",right,€100k,2018
+274,Madyar Ramazanov,Irtysh Pavlodar,Attacking Midfield,-,"Oct 30, 1997 (20)",,"1,72m",right,-,2018
+275,Arman Kenesov,Irtysh Pavlodar,Attacking Midfield,19,"Sep 4, 2000 (17)",,"1,72m",left,-,2018
+276,Ruslan Mingazov,Irtysh Pavlodar,Left Winger,7,"Nov 23, 1991 (26)",,"1,73m",both,€700k,2018
+277,Vladimir Vomenko,Irtysh Pavlodar,Left Winger,-,"May 22, 1995 (22)",,"1,78m",right,€200k,2018
+278,Nurzhigit Smatov,Irtysh Pavlodar,Left Winger,-,"Jul 11, 1996 (21)",,"1,77m",right,-,2018
+279,Arman Nusip,Irtysh Pavlodar,Left Winger,47,"Jan 22, 1994 (23)",,"1,80m",right,-,2018
+280,Carlos Fonseca,Irtysh Pavlodar,Right Winger,40,"Aug 23, 1987 (30)",,"1,80m",left,€650k,2018
+281,Pavel Shabalin,Irtysh Pavlodar,Right Winger,-,"Oct 23, 1988 (29)",,"1,72m",right,€300k,2018
+282,Madiyar Raiymbek,Irtysh Pavlodar,Right Winger,-,"Aug 15, 1995 (22)",,"1,65m",right,€100k,2018
+283,Reynaldo,Irtysh Pavlodar,Centre-Forward,-,"Aug 24, 1989 (28)",,"1,73m",right,€500k,2018
+284,Gbolahan Salami,Irtysh Pavlodar,Centre-Forward,-,"Apr 15, 1991 (26)",,"1,83m",right,€300k,2018
+285,Dejan Georgijevic,Irtysh Pavlodar,Centre-Forward,10,"Jan 19, 1994 (23)",,"1,87m",right,€250k,2018
+286,Momodou Ceesay,Irtysh Pavlodar,Centre-Forward,-,"Dec 24, 1988 (29)",,"1,95m",right,€200k,2018
+287,Milan Mirosavljev,Irtysh Pavlodar,Centre-Forward,-,"Apr 24, 1995 (22)",,"1,88m",right,€100k,2018
+288,Arman Smailov,Irtysh Pavlodar,Centre-Forward,-,"May 4, 1997 (20)",,"1,86m",right,-,2018
+289,Timur Muldinov,Irtysh Pavlodar,Centre-Forward,9,"Sep 19, 1993 (24)",,"1,80m",right,-,2018
+290,Antun Markovic,FK Atyrau,Goalkeeper,33,"Jul 4, 1992 (25)",,"1,94m",right,€650k,2018
+291,Vladimir Loginovskiy,FK Atyrau,Goalkeeper,-,"Oct 8, 1985 (32)",,"1,93m",right,€200k,2018
+292,Mikhail Golubnichiy,FK Atyrau,Goalkeeper,31,"Jan 31, 1995 (22)",,"1,88m",right,€200k,2018
+293,Nurbolat Kalmenov,FK Atyrau,Goalkeeper,12,"Sep 15, 1990 (27)",,"1,88m",right,€150k,2018
+294,Aleksandr Zarutskiy,FK Atyrau,Goalkeeper,-,"Aug 26, 1993 (24)",,"1,92m",right,€100k,2018
+295,Rizvan Ablitarov,FK Atyrau,Centre-Back,5,"Apr 18, 1989 (28)",,"1,90m",left,€400k,2018
+296,Ivica Zunic,FK Atyrau,Centre-Back,-,"Sep 11, 1988 (29)",,"1,96m",right,€300k,2018
+297,Dauren Mazhitov,FK Atyrau,Centre-Back,2,"Mar 3, 1996 (21)",,"1,83m",right,€300k,2018
+298,Andrey Shabaev,FK Atyrau,Centre-Back,27,"Feb 15, 1987 (30)",,"1,79m",right,€200k,2018
+299,Sultan Kabdrakhimov,FK Atyrau,Centre-Back,-,"Nov 5, 1997 (20)",,"1,86m",,-,2018
+300,Adilbek Zhumakhanov,FK Atyrau,Centre-Back,3,"Dec 27, 2002 (15)",,"1,87m",right,-,2018
+301,Kuanysh Kalmuratov,FK Atyrau,Left-Back,18,"Aug 27, 1996 (21)",,"1,78m",left,€300k,2018
+302,Vitaliy Ustinov,FK Atyrau,Right-Back,49,"May 3, 1991 (26)",,"1,80m",right,€900k,2018
+303,Mikhail Gabyshev,FK Atyrau,Right-Back,4,"Jan 2, 1990 (27)",,"1,85m",right,€300k,2018
+304,Eldar Abdrakhmanov,FK Atyrau,Right-Back,77,"Jan 16, 1987 (30)",,"1,75m",right,€200k,2018
+305,Kuanysh Eltezerov,FK Atyrau,Right-Back,17,"Sep 22, 1995 (22)",,"1,78m",right,-,2018
+306,Zeljko Filipovic,FK Atyrau,Defensive Midfield,-,"Oct 3, 1988 (29)",,"1,94m",right,€650k,2018
+307,Andriy Tkachuk,FK Atyrau,Defensive Midfield,-,"Nov 18, 1987 (30)",,"1,84m",right,€600k,2018
+308,Boubacar Mansaly,FK Atyrau,Defensive Midfield,6,"Feb 4, 1988 (29)",,"1,74m",right,€300k,2018
+309,Dauren Kayralliev,FK Atyrau,Defensive Midfield,8,"May 15, 1992 (25)",,"1,76m",right,€250k,2018
+310,Jacques Alberto Ngwem,FK Atyrau,Defensive Midfield,21,"Aug 3, 1992 (25)",,"1,82m",right,€250k,2018
+311,Vladimir Volkogonov,FK Atyrau,Midfielder,-,"Jan 16, 1999 (18)",,-,,-,2018
+312,Rinat Dzhumatov,FK Atyrau,Central Midfield,22,"Oct 13, 1997 (20)",,"1,74m",right,-,2018
+313,Rafail Ospanov,FK Atyrau,Central Midfield,88,"Nov 5, 1997 (20)",,"1,81m",right,-,2018
+314,Sanzhar Satanov,FK Atyrau,Attacking Midfield,-,"Sep 21, 2001 (16)",,"1,85m",right,-,2018
+315,Aléx Bruno,FK Atyrau,Left Winger,11,"Oct 7, 1993 (24)",,"1,73m",right,€400k,2018
+316,Frantisek Kubik,FK Atyrau,Left Winger,-,"Mar 14, 1989 (28)",,"1,81m",left,€375k,2018
+317,Vladimir Vomenko,FK Atyrau,Left Winger,-,"May 22, 1995 (22)",,"1,78m",right,€200k,2018
+318,Aybolat Makuov,FK Atyrau,Left Winger,19,"Feb 16, 1997 (20)",,"1,77m",,-,2018
+319,Aybar Nurybekov,FK Atyrau,Right Winger,-,"Aug 29, 1992 (25)",,"1,72m",right,€300k,2018
+320,Aleksey Rodionov,FK Atyrau,Right Winger,9,"Mar 29, 1994 (23)",,"1,83m",right,€200k,2018
+321,Eduard Sergienko,FK Atyrau,Right Winger,83,"Feb 18, 1983 (34)",,"1,81m",both,€100k,2018
+322,Ivan Antipov,FK Atyrau,Right Winger,96,"Jan 14, 1996 (21)",,"1,82m",right,€100k,2018
+323,Malick Mané,FK Atyrau,Centre-Forward,-,"Oct 14, 1988 (29)",,"1,73m",right,€400k,2018
+324,Darko Bjedov,FK Atyrau,Centre-Forward,-,"Mar 28, 1989 (28)",,"1,91m",right,€400k,2018
+325,Josip Ivancic,FK Atyrau,Centre-Forward,-,"Mar 29, 1991 (26)",,"1,90m",right,€400k,2018
+326,Islamnur Abdulavov,FK Atyrau,Centre-Forward,99,"Mar 7, 1994 (23)",,"1,87m",right,€300k,2018
+327,Sergiy Zagynaylov,FK Atyrau,Centre-Forward,-,"Jan 3, 1991 (26)",,"1,81m",left,€275k,2018
+328,Sanat Zhumakhanov,FK Atyrau,Centre-Forward,-,"Jan 30, 1988 (29)",,"1,85m",right,€250k,2018
+329,Piotr Grzelczak,FK Atyrau,Centre-Forward,10,"Mar 2, 1988 (29)",,"1,86m",right,€250k,2018
+330,Erkhan Talasbayev,FK Atyrau,Striker,-,"Aug 10, 1999 (18)",,"1,73m",,-,2018
+331,Sabit Tastanbekov,FK Atyrau,Centre-Forward,-,"Jun 12, 2000 (17)",,"1,74m",left,-,2018
+332,Igor Shatskiy,Shakhter Karaganda,Goalkeeper,30,"May 11, 1989 (28)",,"1,85m",right,€500k,2018
+333,Abylaykhan Duysen,Shakhter Karaganda,Goalkeeper,1,"Jun 3, 1994 (23)",,"1,90m",right,€100k,2018
+334,Egor Tsuprikov,Shakhter Karaganda,Goalkeeper,40,"May 27, 1997 (20)",,"1,90m",right,-,2018
+335,Yevgeniy Tkachuk,Shakhter Karaganda,Centre-Back,3,"Jun 27, 1991 (26)",,"1,92m",right,€500k,2018
+336,Artem Baranovskyi,Shakhter Karaganda,Centre-Back,5,"Mar 17, 1990 (27)",,"1,90m",right,€500k,2018
+337,Birzhan Kulbekov,Shakhter Karaganda,Centre-Back,23,"Apr 22, 1994 (23)",,"1,90m",right,€200k,2018
+338,Berik Shaykhov,Shakhter Karaganda,Left-Back,77,"Feb 20, 1994 (23)",,"1,70m",left,€400k,2018
+339,Niyaz Shugaev,Shakhter Karaganda,Left-Back,29,"Sep 14, 1998 (19)",,"1,80m",right,-,2018
+340,Gevorg Nadzharyan,Shakhter Karaganda,Right-Back,7,"Jan 6, 1998 (19)",,"1,75m",right,€300k,2018
+341,Stanislav Lunin,Shakhter Karaganda,Right-Back,13,"May 2, 1993 (24)",,"1,80m",right,€300k,2018
+342,Evgeniy Tarasov,Shakhter Karaganda,Right-Back,19,"Apr 16, 1985 (32)",,"1,83m",right,€200k,2018
+343,Ruslan Alimbaev,Shakhter Karaganda,Right-Back,55,"Mar 2, 1997 (20)",,"1,82m",right,€200k,2018
+344,Anton Chichulin,Shakhter Karaganda,Right-Back,84,"Oct 27, 1984 (33)",,"1,82m",right,€100k,2018
+345,Lukas Droppa,Shakhter Karaganda,Defensive Midfield,-,"Apr 22, 1989 (28)",,"1,83m",right,€400k,2018
+346,Milos Vidovic,Shakhter Karaganda,Defensive Midfield,25,"Oct 3, 1989 (28)",,"1,86m",right,€400k,2018
+347,Sergey Skorykh,Shakhter Karaganda,Defensive Midfield,72,"May 25, 1984 (33)",,"1,84m",right,€100k,2018
+348,Ruslan Tutkyshev,Shakhter Karaganda,Defensive Midfield,-,"Feb 18, 1999 (18)",,"1,80m",right,-,2018
+349,Marat Shakhmetov,Shakhter Karaganda,Central Midfield,22,"Feb 6, 1989 (28)",,"1,82m",right,€350k,2018
+350,Donjet Shkodra,Shakhter Karaganda,Central Midfield,88,"Apr 30, 1989 (28)",,"1,84m",right,€350k,2018
+351,Aydos Oral,Shakhter Karaganda,Central Midfield,-,"Apr 5, 1999 (18)",,"1,74m",right,-,2018
+352,Temirlan Adilov,Shakhter Karaganda,Central Midfield,-,"Jun 8, 1997 (20)",,"1,77m",right,-,2018
+353,Bauyrzhan Baytana,Shakhter Karaganda,Attacking Midfield,8,"May 6, 1992 (25)",,"1,74m",both,€300k,2018
+354,Erkebulan Nurgaliev,Shakhter Karaganda,Attacking Midfield,10,"Sep 12, 1993 (24)",,"1,70m",right,€250k,2018
+355,Dmitriy Bachek,Shakhter Karaganda,Attacking Midfield,21,"Dec 13, 2000 (17)",,"1,68m",left,-,2018
+356,Ivan Pesic,Shakhter Karaganda,Left Winger,9,"Apr 6, 1992 (25)",,"1,84m",right,€600k,2018
+357,Matvey Gerasimov,Shakhter Karaganda,Left Winger,-,"Feb 4, 2001 (16)",,"1,91m",both,-,2018
+358,Zhan-Ali Payruz,Shakhter Karaganda,Left Winger,70,"Aug 12, 1999 (18)",,"1,85m",right,-,2018
+359,Sergei Zenjov,Shakhter Karaganda,Right Winger,11,"Apr 20, 1989 (28)",,"1,83m",right,€700k,2018
+360,Sergey Vetrov,Shakhter Karaganda,Right Winger,60,"Nov 11, 1994 (23)",,"1,82m",right,€200k,2018
+361,Kizito,Shakhter Karaganda,Centre-Forward,18,"Dec 20, 1993 (24)",,"1,80m",right,€400k,2018
+362,Reginaldo,Shakhter Karaganda,Centre-Forward,99,"Jun 4, 1990 (27)",,"1,82m",right,€350k,2018
+363,Oralkhan Omirtaev,Shakhter Karaganda,Centre-Forward,17,"Jul 16, 1998 (19)",,"1,87m",right,€250k,2018
+364,Andrey Shabanov,Zhetysu Taldykorgan,Goalkeeper,1,"Nov 17, 1986 (31)",,"1,84m",right,€300k,2018
+365,Almat Bekbaev,Zhetysu Taldykorgan,Goalkeeper,70,"Jul 14, 1984 (33)",,"1,94m",right,€200k,2018
+366,Dmitri Kolbuntsov,Zhetysu Taldykorgan,Goalkeeper,25,"May 25, 1996 (21)",,"1,83m",right,-,2018
+367,Nurlybek Ayazbaev,Zhetysu Taldykorgan,Goalkeeper,89,"Jan 24, 1991 (26)",,"1,83m",right,-,2018
+368,Nikita Naumov,Zhetysu Taldykorgan,Centre-Back,23,"Nov 15, 1989 (28)",,"1,94m",right,€350k,2018
+369,Andrey Lebedev,Zhetysu Taldykorgan,Centre-Back,3,"Feb 1, 1991 (26)",,"1,87m",right,€300k,2018
+370,Miram Sapanov,Zhetysu Taldykorgan,Centre-Back,28,"Mar 12, 1986 (31)",,"1,83m",right,€100k,2018
+371,Maksim Chalkin,Zhetysu Taldykorgan,Centre-Back,2,"Mar 9, 1996 (21)",,"1,85m",right,-,2018
+372,Olzhas Kerimzhanov,Zhetysu Taldykorgan,Centre-Back,26,"May 16, 1989 (28)",,"1,89m",right,-,2018
+373,Rauan Orynbasar,Zhetysu Taldykorgan,Centre-Back,98,"Mar 1, 1998 (19)",,"1,84m",right,-,2018
+374,Ermek Kuantaev,Zhetysu Taldykorgan,Right-Back,13,"Oct 13, 1990 (27)",,"1,74m",both,€700k,2018
+375,Kamo Hovhannisyan,Zhetysu Taldykorgan,Right-Back,5,"Oct 5, 1992 (25)",,"1,76m",right,€400k,2018
+376,Anuar Agaysin,Zhetysu Taldykorgan,Right-Back,-,"Oct 26, 1994 (23)",,"1,85m",right,€300k,2018
+377,Erkin Tapalov,Zhetysu Taldykorgan,Right-Back,12,"Sep 3, 1993 (24)",,"1,79m",right,€300k,2018
+378,Almir Mukhutdinov,Zhetysu Taldykorgan,Defensive Midfield,77,"Jun 9, 1985 (32)",,"1,79m",right,€250k,2018
+379,Andrey Kharabara,Zhetysu Taldykorgan,Defensive Midfield,4,"Sep 1, 1985 (32)",,"1,71m",right,€150k,2018
+380,David Mawutor,Zhetysu Taldykorgan,Defensive Midfield,14,"Apr 12, 1992 (25)",,"1,81m",right,-,2018
+381,Aslan Darabaev,Zhetysu Taldykorgan,Central Midfield,10,"Jan 21, 1989 (28)",,"1,79m",right,€600k,2018
+382,Mantas Kuklys,Zhetysu Taldykorgan,Central Midfield,88,"Jun 10, 1987 (30)",,"1,86m",both,€350k,2018
+383,Nenad Adamovic,Zhetysu Taldykorgan,Attacking Midfield,21,"Jan 12, 1989 (28)",,"1,70m",right,€800k,2018
+384,Raul Dzhalilov,Zhetysu Taldykorgan,Attacking Midfield,10,"Jul 20, 1994 (23)",,"1,80m",left,€350k,2018
+385,Sabyrkhan Ibraev,Zhetysu Taldykorgan,Attacking Midfield,11,"Mar 22, 1988 (29)",,"1,77m",right,-,2018
+386,Rifat Nurmugamet,Zhetysu Taldykorgan,Left Winger,18,"May 22, 1996 (21)",,"1,80m",left,€200k,2018
+387,Elzhas Altynbekov,Zhetysu Taldykorgan,Right Winger,7,"Nov 22, 1993 (24)",,"1,80m",both,€250k,2018
+388,Ivan Antipov,Zhetysu Taldykorgan,Right Winger,-,"Jan 14, 1996 (21)",,"1,82m",right,€100k,2018
+389,Ruslan Stepanyuk,Zhetysu Taldykorgan,Centre-Forward,27,"Jan 16, 1992 (25)",,"1,81m",both,€400k,2018
+390,Ivaylo Dimitrov,Zhetysu Taldykorgan,Centre-Forward,-,"Mar 26, 1989 (28)",,"1,86m",right,€250k,2018
+391,Martin Toshev,Zhetysu Taldykorgan,Centre-Forward,90,"Apr 17, 1990 (27)",,"1,84m",right,€250k,2018
+392,Oleg Khromtsov,Zhetysu Taldykorgan,Centre-Forward,33,"May 30, 1983 (34)",,"1,86m",right,€200k,2018
+393,Abylaykhan Makhambetov,Zhetysu Taldykorgan,Centre-Forward,-,"Aug 3, 1991 (26)",,"1,80m",right,€50k,2018
+394,Aybar Zhaksylykov,Zhetysu Taldykorgan,Centre-Forward,9,"Jul 24, 1997 (20)",,"1,84m",right,-,2018
+395,Ramil Nurmukhametov,FK Aktobe,Goalkeeper,13,"Dec 21, 1987 (30)",,"1,82m",right,€150k,2018
+396,Mukhambet Tamabay,FK Aktobe,Goalkeeper,32,"Jul 28, 1996 (21)",,"1,90m",right,€100k,2018
+397,Igor Trofimets,FK Aktobe,Goalkeeper,42,"Aug 20, 1996 (21)",,"1,94m",right,-,2018
+398,Sayat Zhumagali,FK Aktobe,Centre-Back,25,"Apr 25, 1995 (22)",,"1,89m",right,€250k,2018
+399,Hrvoje Milicevic,FK Aktobe,Centre-Back,23,"Apr 20, 1993 (24)",,"1,92m",right,€100k,2018
+400,Rustam Temirkhan,FK Aktobe,Centre-Back,6,"Aug 10, 1997 (20)",,"1,82m",left,-,2018
+401,Rustam Uksumbaev,FK Aktobe,Centre-Back,60,"Jan 18, 1996 (21)",,"1,78m",right,-,2018
+402,Vitaliy Volkov,FK Aktobe,Left-Back,22,"Mar 22, 1981 (36)",,"1,75m",left,€100k,2018
+403,Alisher Azhimov,FK Aktobe,Left-Back,12,"May 29, 2001 (16)",,"1,78m",left,-,2018
+404,Bagdat Kairov,FK Aktobe,Right-Back,5,"Apr 27, 1993 (24)",,"1,78m",right,€350k,2018
+405,Adilkhan Tanzharikov,FK Aktobe,Right-Back,31,"Nov 25, 1996 (21)",,"1,75m",both,-,2018
+406,Milan Radin,FK Aktobe,Defensive Midfield,-,"Jun 25, 1991 (26)",,"1,73m",both,€400k,2018
+407,Sasa Marjanovic,FK Aktobe,Defensive Midfield,-,"Nov 13, 1987 (30)",,"1,82m",right,€350k,2018
+408,Altynbek Nagashybayev,FK Aktobe,Midfielder,-,"Jan 1, 2001 (16)",,-,,-,2018
+409,Anton Shurygin,FK Aktobe,Central Midfield,88,"Dec 3, 1988 (29)",,"1,80m",right,€300k,2018
+410,Syrym Adilzhanov,FK Aktobe,Central Midfield,-,"Jan 9, 1997 (20)",,"1,73m",,-,2018
+411,Alisher Nazarov,FK Aktobe,Central Midfield,-,"May 1, 1999 (18)",,"1,76m",,-,2018
+412,Esen Zhasanov,FK Aktobe,Central Midfield,17,"Apr 24, 1998 (19)",,"1,78m",right,-,2018
+413,Nurbolat Batyrkhanov,FK Aktobe,Central Midfield,20,"Feb 11, 1998 (19)",,"1,78m",,-,2018
+414,Zhambyl Kukeev,FK Aktobe,Left Midfield,77,"Sep 20, 1988 (29)",,"1,77m",both,€400k,2018
+415,Marcos Pizzelli,FK Aktobe,Attacking Midfield,10,"Oct 3, 1984 (33)",,"1,75m",left,€800k,2018
+416,Oleksandr Kitsak,FK Aktobe,Attacking Midfield,86,"Jun 23, 1996 (21)",,"1,79m",right,-,2018
+417,Aslanbek Kakimov,FK Aktobe,Left Winger,7,"Oct 2, 1993 (24)",,"1,77m",right,€250k,2018
+418,Maksim Samorodov,FK Aktobe,Left Winger,83,"Jun 29, 2002 (15)",,"1,78m",right,-,2018
+419,Ardak Saulet,FK Aktobe,Right Winger,19,"Jan 12, 1997 (20)",,"1,69m",right,€200k,2018
+420,Rustam Sakhibov,FK Aktobe,Right Winger,28,"Apr 28, 1996 (21)",,"1,75m",right,€200k,2018
+421,Abilkhan Abdukarimov,FK Aktobe,Right Winger,-,"Apr 7, 1998 (19)",,"1,73m",right,€150k,2018
+422,Abat Aymbetov,FK Aktobe,Centre-Forward,95,"Aug 7, 1995 (22)",,"1,84m",right,€300k,2018
+423,Ulykbek Syrlybaev,FK Aktobe,Centre-Forward,96,"Jun 30, 1996 (21)",,"1,90m",right,-,2018

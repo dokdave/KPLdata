@@ -1,0 +1,515 @@
+,Player,Club,Position,Number,Date of Birth,Height,Foot,Joined,Market Value,Season
+0,Andrey Sidelnikov,FK Aktobe,Goalkeeper,55,"Mar 8, 1980 (30)",,"1,90m",right,€200k,2011
+1,Sergey Boychenko,FK Aktobe,Goalkeeper,-,"Sep 27, 1977 (33)",,"1,98m",right,€50k,2011
+2,Arslan Satubaldin,FK Aktobe,Goalkeeper,-,"Aug 11, 1984 (26)",,"1,93m",right,-,2011
+3,Zhasur Narzikulov,FK Aktobe,Goalkeeper,34,"Apr 13, 1984 (26)",,"1,89m",right,-,2011
+4,Stanislav Pavlov,FK Aktobe,Goalkeeper,35,"May 30, 1994 (16)",,"1,93m",right,-,2011
+5,Arunas Klimavicius,FK Aktobe,Centre-Back,28,"Oct 5, 1982 (28)",,"1,85m",left,€450k,2011
+6,Maksim Semenov,FK Aktobe,Centre-Back,-,"Sep 2, 1988 (22)",,"1,80m",right,€75k,2011
+7,Sanat Shalekenov,FK Aktobe,Centre-Back,89,"Apr 4, 1989 (21)",,"1,84m",right,€75k,2011
+8,Robert Primus,FK Aktobe,Centre-Back,6,"Nov 10, 1990 (20)",,"1,91m",right,€50k,2011
+9,Emil Kenzhisariev,FK Aktobe,Left-Back,20,"Mar 26, 1987 (23)",,"1,75m",left,€250k,2011
+10,Dmitriy Evstigneev,FK Aktobe,Left-Back,4,"Nov 21, 1986 (24)",,"1,81m",left,-,2011
+11,Yuri Mokrousov,FK Aktobe,Left-Back,12,"Apr 21, 1989 (21)",,"1,83m",left,-,2011
+12,Anton Chichulin,FK Aktobe,Right-Back,-,"Oct 27, 1984 (26)",,"1,82m",right,€125k,2011
+13,Petr Badlo,FK Aktobe,Right-Back,5,"May 24, 1976 (34)",,"1,78m",right,€100k,2011
+14,Dmitriy Miroshnichenko,FK Aktobe,Right-Back,77,"Feb 26, 1992 (18)",,"1,83m",right,-,2011
+15,Samat Smakov,FK Aktobe,Defensive Midfield,8,"Dec 8, 1978 (32)",,"1,82m",both,€400k,2011
+16,Yuriy Logvinenko,FK Aktobe,Defensive Midfield,23,"Jul 22, 1988 (22)",,"1,87m",left,€325k,2011
+17,Islambek Kuat,FK Aktobe,Defensive Midfield,70,"Jan 12, 1993 (17)",,"1,79m",right,-,2011
+18,Vitaliy Evstigneev,FK Aktobe,Defensive Midfield,88,"Aug 8, 1985 (25)",,"1,86m",both,-,2011
+19,Serghei Covalciuc,FK Aktobe,Central Midfield,39,"Jan 20, 1982 (28)",,"1,82m",left,€800k,2011
+20,Timur Kapadze,FK Aktobe,Central Midfield,80,"Sep 5, 1981 (29)",,"1,85m",right,€800k,2011
+21,Aslan Darabaev,FK Aktobe,Central Midfield,14,"Jan 21, 1989 (21)",,"1,79m",right,€200k,2011
+22,Aleksandr Wolf,FK Aktobe,Central Midfield,15,"Mar 16, 1993 (17)",,"1,86m",,-,2011
+23,Darko Maletic,FK Aktobe,Right Midfield,33,"Oct 20, 1980 (30)",,"1,76m",right,€300k,2011
+24,Evgeniy Averchenko,FK Aktobe,Right Midfield,-,"Apr 6, 1982 (28)",,"1,72m",right,€225k,2011
+25,Evgeniy Dyadenko,FK Aktobe,Right Midfield,-,"Oct 23, 1992 (18)",,"1,76m",right,-,2011
+26,Anton Zemlyanukhin,FK Aktobe,Left Midfield,44,"Dec 11, 1988 (22)",,"1,75m",left,€150k,2011
+27,Lukas Bajer,FK Aktobe,Attacking Midfield,9,"Dec 15, 1984 (26)",,"1,75m",right,€500k,2011
+28,Zoran Kostic,FK Aktobe,Attacking Midfield,7,"Nov 14, 1982 (28)",,"1,80m",right,€350k,2011
+29,Nikita Khokhlov,FK Aktobe,Attacking Midfield,-,"Oct 27, 1983 (27)",,"1,82m",both,€175k,2011
+30,Marat Khayrullin,FK Aktobe,Attacking Midfield,10,"Apr 26, 1984 (26)",,"1,76m",right,€150k,2011
+31,Ruslan Sakhalbaev,FK Aktobe,Attacking Midfield,-,"Jun 27, 1984 (26)",,"1,68m",right,€50k,2011
+32,Vladimir Vukajlovic,FK Aktobe,Left Winger,11,"Aug 25, 1983 (27)",,"1,82m",left,€250k,2011
+33,Aleksandr Geynrikh,FK Aktobe,Centre-Forward,50,"Oct 6, 1984 (26)",,"1,83m",right,€850k,2011
+34,Brana Ilic,FK Aktobe,Centre-Forward,18,"Feb 16, 1985 (25)",,"1,74m",right,€750k,2011
+35,Vladimir Djilas,FK Aktobe,Centre-Forward,-,"Mar 3, 1983 (27)",,"1,90m",right,€500k,2011
+36,Malick Mané,FK Aktobe,Centre-Forward,-,"Oct 14, 1988 (22)",,"1,73m",right,€450k,2011
+37,Murat Tleshev,FK Aktobe,Centre-Forward,19,"Apr 18, 1980 (30)",,"1,88m",right,€350k,2011
+38,Marat Bikmaev,FK Aktobe,Centre-Forward,75,"Jan 1, 1986 (24)",,"1,84m",both,€300k,2011
+39,Georgi Daskalov,FK Aktobe,Centre-Forward,21,"Aug 3, 1981 (29)",,"1,88m",right,€250k,2011
+40,Sergey Lisenkov,FK Aktobe,Centre-Forward,22,"Jun 17, 1991 (19)",,"1,92m",right,-,2011
+41,Maksat Kurmashev,FK Aktobe,Striker,91,"Aug 14, 1991 (19)",,"1,76m",,-,2011
+42,Abat Aymbetov,FK Aktobe,Centre-Forward,95,"Aug 7, 1995 (15)",,"1,84m",right,-,2011
+43,Sergey Stepanenko,Zhetysu Taldykorgan,Goalkeeper,16,"Jan 25, 1981 (29)",,"1,88m",right,€200k,2011
+44,Erik Duysenbekuly,Zhetysu Taldykorgan,Goalkeeper,-,"Aug 30, 1992 (18)",,"1,83m",right,-,2011
+45,Evgeni Firsov,Zhetysu Taldykorgan,Goalkeeper,-,"Apr 22, 1993 (17)",,"1,86m",right,-,2011
+46,Vladimir Loginovskiy,Zhetysu Taldykorgan,Goalkeeper,1,"Oct 8, 1985 (25)",,"1,93m",right,-,2011
+47,Nurzhan Nusipzhanov,Zhetysu Taldykorgan,Defender,-,"Jul 22, 1993 (17)",,"1,83m",,-,2011
+48,Milos Mihajlov,Zhetysu Taldykorgan,Centre-Back,21,"Dec 15, 1982 (28)",,"1,85m",both,€900k,2011
+49,Vule Trivunovic,Zhetysu Taldykorgan,Centre-Back,-,"Mar 13, 1983 (27)",,"1,88m",left,€700k,2011
+50,Marko Djalovic,Zhetysu Taldykorgan,Centre-Back,86,"May 19, 1986 (24)",,"1,89m",left,€400k,2011
+51,Tanko Dyakov,Zhetysu Taldykorgan,Centre-Back,3,"Aug 18, 1984 (26)",,"1,94m",both,€350k,2011
+52,Damir Dautov,Zhetysu Taldykorgan,Centre-Back,5,"Mar 3, 1990 (20)",,"1,87m",right,€50k,2011
+53,Viktor Kovalev,Zhetysu Taldykorgan,Centre-Back,24,"Aug 25, 1980 (30)",,"1,90m",right,-,2011
+54,Vladimir Berikbaev,Zhetysu Taldykorgan,Left-Back,-,"Feb 27, 1988 (22)",,"1,82m",left,-,2011
+55,Daniyar Mukanov,Zhetysu Taldykorgan,Right-Back,18,"Sep 26, 1976 (34)",,"1,79m",right,€150k,2011
+56,Zakhar Korobov,Zhetysu Taldykorgan,Right-Back,23,"May 18, 1988 (22)",,"1,77m",right,€25k,2011
+57,Aydar Kumisbekov,Zhetysu Taldykorgan,Right-Back,2,"Feb 9, 1979 (31)",,"1,77m",right,-,2011
+58,Sinisa Dobrasinovic,Zhetysu Taldykorgan,Defensive Midfield,19,"Feb 17, 1977 (33)",,"1,86m",right,€800k,2011
+59,Ivan Cvetkovic,Zhetysu Taldykorgan,Defensive Midfield,-,"Feb 12, 1981 (29)",,"1,77m",both,€350k,2011
+60,Sergey Skorykh,Zhetysu Taldykorgan,Defensive Midfield,10,"May 25, 1984 (26)",,"1,84m",right,€300k,2011
+61,Aydos Meirmanov,Zhetysu Taldykorgan,Central Midfield,-,"Feb 14, 1990 (20)",,"1,77m",right,-,2011
+62,Marlan Muzhikov,Zhetysu Taldykorgan,Central Midfield,60,"Dec 1, 1986 (24)",,"1,75m",right,-,2011
+63,Ruslan Barzukaev,Zhetysu Taldykorgan,Central Midfield,61,"Dec 5, 1987 (23)",,"1,82m",right,-,2011
+64,Evgeniy Averchenko,Zhetysu Taldykorgan,Right Midfield,30,"Apr 6, 1982 (28)",,"1,72m",right,€225k,2011
+65,Olzhas Spanov,Zhetysu Taldykorgan,Right Midfield,14,"Nov 30, 1989 (21)",,"1,75m",right,-,2011
+66,Sayat Sariyev,Zhetysu Taldykorgan,Left Midfield,22,"Oct 15, 1992 (18)",,"1,68m",right,-,2011
+67,Zoran Kostic,Zhetysu Taldykorgan,Attacking Midfield,70,"Nov 14, 1982 (28)",,"1,80m",right,€350k,2011
+68,Akzhol Serikzhanov,Zhetysu Taldykorgan,Attacking Midfield,-,"May 6, 1990 (20)",,"1,75m",right,€50k,2011
+69,Serikzhan Muzhikov,Zhetysu Taldykorgan,Attacking Midfield,7,"Jun 17, 1989 (21)",,"1,69m",right,-,2011
+70,Azat Nurgaliev,Zhetysu Taldykorgan,Left Winger,-,"Jun 30, 1986 (24)",,"1,73m",both,€250k,2011
+71,Daniyar Nukebay,Zhetysu Taldykorgan,Left Winger,-,"Oct 1, 1995 (15)",,"1,65m",,-,2011
+72,Edin Junuzovic,Zhetysu Taldykorgan,Centre-Forward,28,"Apr 28, 1986 (24)",,"1,88m",right,€450k,2011
+73,Murat Tleshev,Zhetysu Taldykorgan,Centre-Forward,79,"Apr 18, 1980 (30)",,"1,88m",right,€350k,2011
+74,Goran Marić,Zhetysu Taldykorgan,Centre-Forward,-,"Mar 23, 1984 (26)",,"1,84m",left,€200k,2011
+75,Dauren Kusainov,Zhetysu Taldykorgan,Centre-Forward,-,"Apr 10, 1984 (26)",,"1,82m",right,-,2011
+76,Miras Abenov,Zhetysu Taldykorgan,Striker,-,"Jul 11, 1992 (18)",,"1,74m",,-,2011
+77,Aleksey Shchetkin,Zhetysu Taldykorgan,Centre-Forward,11,"May 21, 1991 (19)",,"1,93m",right,-,2011
+78,Danilo Belic,Zhetysu Taldykorgan,Centre-Forward,20,"Nov 10, 1980 (30)",,"1,85m",right,-,2011
+79,Nenad Eric,FC Astana,Goalkeeper,1,"May 26, 1982 (28)",,"1,97m",right,€300k,2011
+80,Aleksey Belkin,FC Astana,Goalkeeper,55,"Nov 25, 1981 (29)",,"1,94m",right,€100k,2011
+81,Denis Tolebaev,FC Astana,Goalkeeper,24,"Feb 7, 1987 (23)",,"2,05m",right,€25k,2011
+82,Mikhail Rozhkov,FC Astana,Centre-Back,27,"Dec 27, 1983 (27)",,"1,91m",right,€400k,2011
+83,Kairat Nurdauletov,FC Astana,Centre-Back,6,"Nov 6, 1982 (28)",,"1,84m",right,€250k,2011
+84,Dimitrija Lazarevski,FC Astana,Centre-Back,29,"Sep 23, 1982 (28)",,"1,78m",left,€200k,2011
+85,Viktor Dmitrenko,FC Astana,Centre-Back,8,"Apr 4, 1991 (19)",,"1,90m",right,€50k,2011
+86,Mukhtar Mukhtarov,FC Astana,Centre-Back,4,"Jan 6, 1986 (24)",,"1,88m",right,-,2011
+87,Evgeniy Goryachiy,FC Astana,Left-Back,16,"Feb 2, 1991 (19)",,"1,86m",left,-,2011
+88,Abzal Beysebekov,FC Astana,Right-Back,15,"Nov 30, 1992 (18)",,"1,87m",right,-,2011
+89,Nurtas Kurgulin,FC Astana,Right-Back,18,"Sep 20, 1986 (24)",,"1,75m",right,-,2011
+90,Emil Dica,FC Astana,Defensive Midfield,10,"Jul 17, 1982 (28)",,"1,79m",right,€600k,2011
+91,Valeriy Korobkin,FC Astana,Defensive Midfield,3,"Jul 2, 1984 (26)",,"1,85m",right,€400k,2011
+92,Christian Ebala,FC Astana,Defensive Midfield,19,"Mar 17, 1988 (22)",,"1,86m",right,€125k,2011
+93,Islambek Kuat,FC Astana,Defensive Midfield,-,"Jan 12, 1993 (17)",,"1,79m",right,-,2011
+94,Piraly Aliev,FC Astana,Defensive Midfield,5,"Jan 13, 1984 (26)",,"1,80m",right,-,2011
+95,Marat Shakhmetov,FC Astana,Central Midfield,22,"Feb 6, 1989 (21)",,"1,82m",right,€225k,2011
+96,Damir Kojasevic,FC Astana,Attacking Midfield,90,"Jun 3, 1987 (23)",,"1,72m",both,€450k,2011
+97,Foxi Kethevoama,FC Astana,Attacking Midfield,20,"May 30, 1986 (24)",,"1,72m",both,€275k,2011
+98,Dusan Petronijevic,FC Astana,Attacking Midfield,31,"Nov 9, 1983 (27)",,"1,78m",both,€150k,2011
+99,Ulan Konysbaev,FC Astana,Right Winger,7,"May 28, 1989 (21)",,"1,75m",right,-,2011
+100,Tanat Nuserbaev,FC Astana,Centre-Forward,17,"Jan 1, 1987 (23)",,"1,75m",right,€800k,2011
+101,Filip Ivanovski,FC Astana,Centre-Forward,28,"May 1, 1985 (25)",,"1,86m",right,€500k,2011
+102,Sergey Ostapenko,FC Astana,Centre-Forward,9,"Feb 23, 1986 (24)",,"1,85m",right,€350k,2011
+103,Sergey Gridin,FC Astana,Centre-Forward,11,"May 20, 1987 (23)",,"1,95m",right,-,2011
+104,Denis Prokopenko,FC Astana,Centre-Forward,40,"Oct 5, 1991 (19)",,"1,78m",right,-,2011
+105,Roman Nesterenko,Ordabasy Shymkent,Goalkeeper,1,"Mar 22, 1977 (33)",,"1,99m",right,€75k,2011
+106,Almat Bekbaev,Ordabasy Shymkent,Goalkeeper,-,"Jul 14, 1984 (26)",,"1,94m",right,-,2011
+107,Samat Otarbaev,Ordabasy Shymkent,Goalkeeper,32,"Feb 18, 1990 (20)",,"1,90m",right,-,2011
+108,Auezkhan Kozhabaev,Ordabasy Shymkent,Defender,-,"May 19, 1994 (16)",,"1,75m",,-,2011
+109,Farkhadbek Irismetov,Ordabasy Shymkent,Centre-Back,-,"Aug 10, 1981 (29)",,"1,83m",right,€200k,2011
+110,Aleksandar Trajkovic,Ordabasy Shymkent,Centre-Back,6,"Jan 16, 1981 (29)",,"1,87m",right,€125k,2011
+111,Maksim Zhalmagambetov,Ordabasy Shymkent,Centre-Back,4,"Jul 11, 1983 (27)",,"1,95m",right,€100k,2011
+112,Andrew Mwesigwa,Ordabasy Shymkent,Centre-Back,3,"Apr 24, 1984 (26)",,"1,80m",right,-,2011
+113,Mukhtar Mukhtarov,Ordabasy Shymkent,Centre-Back,86,"Jan 6, 1986 (24)",,"1,88m",right,-,2011
+114,Mohamed Larbi Arouri,Ordabasy Shymkent,Left-Back,99,"May 13, 1983 (27)",,"1,86m",left,€300k,2011
+115,Gafurzhan Suyumbaev,Ordabasy Shymkent,Left-Back,5,"Aug 19, 1990 (20)",,"1,75m",left,-,2011
+116,Talgat Adyrbekov,Ordabasy Shymkent,Right-Back,77,"Jan 26, 1989 (21)",,"1,78m",right,€75k,2011
+117,Bakdaulet Kozhabaev,Ordabasy Shymkent,Right-Back,14,"Jun 19, 1992 (18)",,"1,82m",right,-,2011
+118,Andrey Karpovich,Ordabasy Shymkent,Defensive Midfield,8,"Jan 18, 1981 (29)",,"1,77m",both,€400k,2011
+119,Artem Kasyanov,Ordabasy Shymkent,Defensive Midfield,12,"Apr 20, 1983 (27)",,"1,80m",left,€200k,2011
+120,Bekzat Beysenov,Ordabasy Shymkent,Defensive Midfield,15,"Feb 18, 1987 (23)",,"1,82m",right,-,2011
+121,Kanat Imanov,Ordabasy Shymkent,Midfielder,33,"Mar 23, 1991 (19)",,"1,77m",,-,2011
+122,Mato Simunovic,Ordabasy Shymkent,Central Midfield,-,"Sep 27, 1985 (25)",,"1,80m",right,€150k,2011
+123,Evgeniy Levin,Ordabasy Shymkent,Central Midfield,-,"Jul 12, 1992 (18)",,"1,74m",right,-,2011
+124,Roman Pakholyuk,Ordabasy Shymkent,Right Midfield,7,"Oct 3, 1979 (31)",,"1,75m",right,€200k,2011
+125,Kairat Ashirbekov,Ordabasy Shymkent,Attacking Midfield,10,"Oct 21, 1982 (28)",,"1,72m",left,€100k,2011
+126,Mansour Gueye,Ordabasy Shymkent,Left Winger,11,"Dec 30, 1985 (25)",,"1,82m",both,€650k,2011
+127,Mardan Tolebek,Ordabasy Shymkent,Right Winger,17,"Dec 18, 1990 (20)",,"1,74m",left,-,2011
+128,Baba Collins,Ordabasy Shymkent,Second Striker,88,"Dec 2, 1988 (22)",,"1,74m",left,€500k,2011
+129,Vladimir Djilas,Ordabasy Shymkent,Centre-Forward,91,"Mar 3, 1983 (27)",,"1,90m",right,€500k,2011
+130,Daurenbek Tazhimbetov,Ordabasy Shymkent,Centre-Forward,18,"Jul 2, 1985 (25)",,"1,84m",right,-,2011
+131,Ramil Nurmukhametov,Kairat Almaty,Goalkeeper,-,"Dec 21, 1987 (23)",,"1,82m",right,-,2011
+132,Andrey Shabanov,Kairat Almaty,Goalkeeper,1,"Nov 17, 1986 (24)",,"1,84m",right,-,2011
+133,Ildar Shaikheslamov,Kairat Almaty,Goalkeeper,31,"Jul 27, 1989 (21)",,"1,85m",right,-,2011
+134,Marko Djordjevic,Kairat Almaty,Centre-Back,27,"May 22, 1983 (27)",,"1,85m",right,€500k,2011
+135,Burak Akyıldız,Kairat Almaty,Centre-Back,-,"Jan 3, 1985 (25)",,"1,94m",left,€450k,2011
+136,Mark Gurman,Kairat Almaty,Centre-Back,-,"Feb 9, 1989 (21)",,"1,79m",right,€200k,2011
+137,Vladimir Yakovlev,Kairat Almaty,Centre-Back,-,"Aug 2, 1984 (26)",,"1,82m",right,-,2011
+138,Ilya Vorotnikov,Kairat Almaty,Centre-Back,4,"Feb 1, 1986 (24)",,"1,86m",right,-,2011
+139,Nurzharyk Kunov,Kairat Almaty,Left-Back,-,"Oct 22, 1993 (17)",,"1,73m",left,-,2011
+140,Sergey Keiler,Kairat Almaty,Left-Back,-,"Nov 8, 1994 (16)",,"1,80m",left,-,2011
+141,Bauyrzhan Tanirbergenov,Kairat Almaty,Left-Back,-,"Feb 11, 1995 (15)",,"1,73m",left,-,2011
+142,Kanat Dauletbakov,Kairat Almaty,Right-Back,-,"May 3, 1994 (16)",,"1,67m",right,-,2011
+143,Nursayn Zholdasov,Kairat Almaty,Right-Back,14,"May 11, 1991 (19)",,"1,82m",right,-,2011
+144,Andrey Kharabara,Kairat Almaty,Defensive Midfield,-,"Sep 1, 1985 (25)",,"1,71m",right,€200k,2011
+145,Stuart Duff,Kairat Almaty,Defensive Midfield,21,"Jan 23, 1982 (28)",,"1,78m",right,€200k,2011
+146,Almat Abdramanov,Kairat Almaty,Midfielder,-,"Mar 12, 1990 (20)",,"1,69m",,-,2011
+147,Magamed Uzdenov,Kairat Almaty,Defensive Midfield,-,"Feb 25, 1994 (16)",,"1,84m",right,-,2011
+148,Kirill Shestakov,Kairat Almaty,Defensive Midfield,22,"Jun 19, 1985 (25)",,"1,79m",right,-,2011
+149,Aleksandr Bychenok,Kairat Almaty,Central Midfield,-,"May 30, 1985 (25)",,"1,77m",right,€500k,2011
+150,Evgeniy Levin,Kairat Almaty,Central Midfield,-,"Jul 12, 1992 (18)",,"1,74m",right,-,2011
+151,Kasymkhan Talasbayev,Kairat Almaty,Central Midfield,-,"Feb 27, 1993 (17)",,"1,71m",right,-,2011
+152,Argen Zhumataev,Kairat Almaty,Central Midfield,-,"Oct 21, 1994 (16)",,"1,76m",left,-,2011
+153,Dmitriy Mamonov,Kairat Almaty,Central Midfield,18,"Apr 26, 1978 (32)",,"1,73m",right,-,2011
+154,Ilya Kalinin,Kairat Almaty,Right Midfield,20,"Feb 3, 1992 (18)",,"1,79m",right,-,2011
+155,Rakhimzhan Rozybakiev,Kairat Almaty,Left Midfield,6,"Jan 2, 1991 (19)",,"1,88m",right,-,2011
+156,Josip Knezevic,Kairat Almaty,Attacking Midfield,30,"Oct 3, 1988 (22)",,"1,86m",left,€800k,2011
+157,Ruslan Baltiev,Kairat Almaty,Attacking Midfield,-,"Sep 16, 1978 (32)",,"1,74m",both,€100k,2011
+158,Ruslan Sakhalbaev,Kairat Almaty,Attacking Midfield,7,"Jun 27, 1984 (26)",,"1,68m",right,€50k,2011
+159,Oleg Nedashkovskiy,Kairat Almaty,Attacking Midfield,-,"Sep 9, 1987 (23)",,"1,84m",right,-,2011
+160,Vladimir Vyatkin,Kairat Almaty,Attacking Midfield,-,"Apr 30, 1991 (19)",,"1,76m",left,-,2011
+161,Ruslan Mansurov,Kairat Almaty,Left Winger,-,"Nov 23, 1990 (20)",,"1,77m",left,-,2011
+162,Georgiy Makaev,Kairat Almaty,Left Winger,-,"Aug 12, 1994 (16)",,"1,74m",left,-,2011
+163,Nikita Utrobin,Kairat Almaty,Second Striker,-,"Jan 3, 1993 (17)",,"1,88m",right,-,2011
+164,Alberto Heredia,Kairat Almaty,Second Striker,16,"Mar 2, 1987 (23)",,"1,81m",right,-,2011
+165,Nemanja Jovanovic,Kairat Almaty,Centre-Forward,-,"Mar 3, 1984 (26)",,"1,91m",left,€450k,2011
+166,Azamat Aubakirov,Kairat Almaty,Striker,-,"Nov 10, 1987 (23)",,"1,75m",,€25k,2011
+167,Gustavo Souto,Kairat Almaty,Centre-Forward,-,"Apr 19, 1983 (27)",,"1,80m",right,-,2011
+168,Óscar García,Kairat Almaty,Centre-Forward,-,"Jul 12, 1988 (22)",,"1,71m",right,-,2011
+169,Kanat Akhmetov,Kairat Almaty,Centre-Forward,37,"Apr 11, 1987 (23)",,"1,82m",right,-,2011
+170,Sergey Boychenko,FK Atyrau,Goalkeeper,29,"Sep 27, 1977 (33)",,"1,98m",right,€50k,2011
+171,Vladimir Plotnikov,FK Atyrau,Goalkeeper,33,"Apr 3, 1986 (24)",,"1,91m",right,-,2011
+172,Nurbolat Kalmenov,FK Atyrau,Goalkeeper,90,"Sep 15, 1990 (20)",,"1,88m",right,-,2011
+173,Djordje Tutoric,FK Atyrau,Centre-Back,6,"Mar 5, 1983 (27)",,"1,89m",right,€600k,2011
+174,Nikola Milankovic,FK Atyrau,Centre-Back,86,"Apr 23, 1986 (24)",,"1,83m",right,€450k,2011
+175,Sandro Silva,FK Atyrau,Centre-Back,21,"Mar 13, 1983 (27)",,"1,86m",right,€300k,2011
+176,Suruca,FK Atyrau,Centre-Back,-,"Apr 10, 1985 (25)",,"1,88m",left,€100k,2011
+177,Egor Azovskiy,FK Atyrau,Centre-Back,2,"Jan 10, 1985 (25)",,"1,87m",right,€100k,2011
+178,Sanat Shalekenov,FK Atyrau,Centre-Back,-,"Apr 4, 1989 (21)",,"1,84m",right,€75k,2011
+179,Maksim Semenov,FK Atyrau,Centre-Back,17,"Sep 2, 1988 (22)",,"1,80m",right,€75k,2011
+180,Evgeniy Ovshinov,FK Atyrau,Centre-Back,4,"Oct 17, 1980 (30)",,"1,78m",right,-,2011
+181,Sergey Kutsov,FK Atyrau,Centre-Back,20,"Apr 23, 1977 (33)",,"1,91m",right,-,2011
+182,Bojan Trkulja,FK Atyrau,Centre-Back,82,"Feb 20, 1982 (28)",,"1,84m",right,-,2011
+183,Maksim Samchenko,FK Atyrau,Left-Back,5,"May 5, 1979 (31)",,"1,80m",left,€100k,2011
+184,Nikolay Saraev,FK Atyrau,Left-Back,3,"May 20, 1990 (20)",,"1,87m",left,-,2011
+185,Valentin Chureev,FK Atyrau,Right-Back,8,"Aug 29, 1986 (24)",,"1,73m",right,-,2011
+186,Vladislav Kuzmin,FK Atyrau,Right-Back,24,"Jul 3, 1987 (23)",,"1,79m",right,-,2011
+187,Telman Zununov,FK Atyrau,Midfielder,-,"Aug 17, 1989 (21)",,"1,74m",,-,2011
+188,Dauren Kayralliev,FK Atyrau,Defensive Midfield,-,"May 15, 1992 (18)",,"1,76m",right,-,2011
+189,Denis Rodionov,FK Atyrau,Central Midfield,12,"Jul 26, 1985 (25)",,"1,78m",both,€50k,2011
+190,Taras Danilyuk,FK Atyrau,Left Midfield,19,"Jan 29, 1984 (26)",,"1,76m",left,-,2011
+191,Mirambek Bikeyev,FK Atyrau,Left Midfield,22,"Dec 28, 1990 (20)",,"1,70m",left,-,2011
+192,Artem Fomin,FK Atyrau,Attacking Midfield,7,"Jul 8, 1988 (22)",,"1,85m",right,€200k,2011
+193,Nikita Khokhlov,FK Atyrau,Attacking Midfield,9,"Oct 27, 1983 (27)",,"1,82m",both,€175k,2011
+194,Asylbek Seytkaliev,FK Atyrau,Attacking Midfield,-,"Feb 29, 1992 (18)",,"1,68m",right,-,2011
+195,Fausto Lourenço,FK Atyrau,Right Winger,18,"Jan 19, 1987 (23)",,"1,77m",left,€50k,2011
+196,Nursultan Madiev,FK Atyrau,Right Winger,-,"Jul 8, 1993 (17)",,"1,74m",right,-,2011
+197,Aybar Nurybekov,FK Atyrau,Right Winger,-,"Aug 29, 1992 (18)",,"1,72m",right,-,2011
+198,Vladimir Buac,FK Atyrau,Second Striker,34,"Dec 26, 1984 (26)",,"1,80m",right,€250k,2011
+199,Hannes Sigurdsson,FK Atyrau,Centre-Forward,83,"Apr 10, 1983 (27)",,"1,90m",left,€250k,2011
+200,Nivaldo,FK Atyrau,Centre-Forward,-,"Jun 22, 1988 (22)",,"1,85m",right,-,2011
+201,Sergey Schaff,FK Atyrau,Centre-Forward,10,"Apr 15, 1988 (22)",,"1,87m",right,-,2011
+202,Yaroslav Baginskiy,Okzhetpes Kokshetau,Goalkeeper,1,"Oct 3, 1987 (23)",,"1,85m",right,€75k,2011
+203,Artem Kirbyatjev,Okzhetpes Kokshetau,Goalkeeper,-,"Aug 18, 1984 (26)",,"1,98m",right,€25k,2011
+204,Igor Osipchuk,Okzhetpes Kokshetau,Goalkeeper,22,"Aug 2, 1975 (35)",,"1,83m",right,-,2011
+205,Vitaliy Miller,Okzhetpes Kokshetau,Goalkeeper,-,"Nov 8, 1990 (20)",,"1,80m",,-,2011
+206,Vladislav Frolov,Okzhetpes Kokshetau,Goalkeeper,-,"Jul 15, 1995 (15)",,"1,86m",,-,2011
+207,Ruslan Abzhanov,Okzhetpes Kokshetau,Goalkeeper,21,"Apr 28, 1990 (20)",,"1,87m",right,-,2011
+208,Igor Chuchman,Okzhetpes Kokshetau,Centre-Back,24,"Feb 15, 1985 (25)",,"1,90m",right,€700k,2011
+209,Marko Milovanovic,Okzhetpes Kokshetau,Centre-Back,33,"Aug 12, 1982 (28)",,"1,96m",right,€500k,2011
+210,Aleksandr Kuchma,Okzhetpes Kokshetau,Centre-Back,-,"Dec 9, 1980 (30)",,"1,83m",right,€200k,2011
+211,Maksim Zabelin,Okzhetpes Kokshetau,Centre-Back,-,"Feb 4, 1977 (33)",,"1,87m",left,-,2011
+212,Maksim Chudinov,Okzhetpes Kokshetau,Centre-Back,4,"Sep 12, 1988 (22)",,"1,87m",right,-,2011
+213,Timur Dosmagambetov,Okzhetpes Kokshetau,Left-Back,23,"May 1, 1989 (21)",,"1,72m",left,€225k,2011
+214,Anton Kuksin,Okzhetpes Kokshetau,Left-Back,-,"Jul 3, 1995 (15)",,"1,88m",right,-,2011
+215,Ovidiu Mendizov,Okzhetpes Kokshetau,Left-Back,77,"Aug 9, 1986 (24)",,"1,80m",left,-,2011
+216,Anuar Tokenov,Okzhetpes Kokshetau,Right-Back,2,"May 28, 1991 (19)",,"1,75m",right,-,2011
+217,Aleksey Mikhailyuk,Okzhetpes Kokshetau,Right-Back,27,"Jul 23, 1982 (28)",,"1,76m",right,-,2011
+218,Dmitriy Karpov,Okzhetpes Kokshetau,Right-Back,55,"Nov 18, 1988 (22)",,"1,80m",right,-,2011
+219,Ruslan Bidnenko,Okzhetpes Kokshetau,Defensive Midfield,-,"Jul 20, 1981 (29)",,"1,87m",both,€250k,2011
+220,Dejan Martinovic,Okzhetpes Kokshetau,Defensive Midfield,76,"Jul 19, 1983 (27)",,N/Am,N/A,€250k,2011
+221,Armand Dubois,Okzhetpes Kokshetau,Midfielder,-,"Dec 17, 1985 (25)",,"1,81m",right,€150k,2011
+222,Maxim Cebotari,Okzhetpes Kokshetau,Midfielder,-,"Nov 16, 1982 (28)",,"1,75m",,-,2011
+223,Anton Kuchma,Okzhetpes Kokshetau,Midfielder,-,"Mar 4, 1993 (17)",,-,,-,2011
+224,Igor Pikalkin,Okzhetpes Kokshetau,Defensive Midfield,-,"Mar 19, 1992 (18)",,"1,82m",right,-,2011
+225,Aleksandr Ulshin,Okzhetpes Kokshetau,Midfielder,-,"Oct 15, 1992 (18)",,"1,86m",,-,2011
+226,Viktor Kozhushko,Okzhetpes Kokshetau,Central Midfield,8,"Feb 3, 1981 (29)",,"1,75m",right,€50k,2011
+227,Yuriy Dyak,Okzhetpes Kokshetau,Central Midfield,5,"Jul 4, 1984 (26)",,"1,78m",right,-,2011
+228,Adrian Grigoruta,Okzhetpes Kokshetau,Right Midfield,26,"Aug 8, 1983 (27)",,"1,79m",right,-,2011
+229,Ermek Nurgaliev,Okzhetpes Kokshetau,Right Midfield,71,"Aug 8, 1986 (24)",,"1,70m",right,-,2011
+230,Kuanysh Abdualiev,Okzhetpes Kokshetau,Left Midfield,-,"Nov 4, 1988 (22)",,"1,78m",left,€25k,2011
+231,Khasan Abdukarimov,Okzhetpes Kokshetau,Right Winger,-,"Mar 10, 1990 (20)",,"1,75m",right,-,2011
+232,Ruslan Kenetaev,Okzhetpes Kokshetau,Right Winger,9,"Mar 21, 1988 (22)",,"1,73m",right,-,2011
+233,Arslanmurad Amanov,Okzhetpes Kokshetau,Right Winger,75,"Mar 28, 1990 (20)",,"1,78m",right,-,2011
+234,Erzat Kenbaev,Okzhetpes Kokshetau,Second Striker,70,"Apr 22, 1988 (22)",,"1,78m",right,-,2011
+235,Oleksandr Yakymenko,Okzhetpes Kokshetau,Centre-Forward,-,"Sep 5, 1988 (22)",,"1,85m",right,€150k,2011
+236,Emil Aliev,Okzhetpes Kokshetau,Centre-Forward,19,"Jun 16, 1988 (22)",,"1,87m",right,€25k,2011
+237,Vitaliy Goloveshkin,Okzhetpes Kokshetau,Centre-Forward,-,"Nov 10, 1989 (21)",,"1,79m",right,-,2011
+238,Abylaykhan Makhambetov,Okzhetpes Kokshetau,Centre-Forward,-,"Aug 3, 1991 (19)",,"1,80m",right,-,2011
+239,Boris Fomenkov,Okzhetpes Kokshetau,Centre-Forward,-,"Sep 29, 1991 (19)",,"1,83m",,-,2011
+240,Evgeni Samokhin,Okzhetpes Kokshetau,Centre-Forward,11,"Sep 3, 1990 (20)",,"1,80m",right,-,2011
+241,Davit Chagelishvili,Okzhetpes Kokshetau,Centre-Forward,25,"Jan 10, 1987 (23)",,"1,87m",right,-,2011
+242,Vasili Prosekov,Okzhetpes Kokshetau,Centre-Forward,88,"Oct 31, 1983 (27)",,"1,77m",right,-,2011
+243,Aleksandr Petukhov,Tobol Kostanay,Goalkeeper,25,"Jan 11, 1985 (25)",,"1,87m",right,€250k,2011
+244,Yaroslav Baginskiy,Tobol Kostanay,Goalkeeper,-,"Oct 3, 1987 (23)",,"1,85m",right,€75k,2011
+245,Daniil Rikhard,Tobol Kostanay,Goalkeeper,-,"Feb 27, 1974 (36)",,"1,90m",right,-,2011
+246,Almat Bekbaev,Tobol Kostanay,Goalkeeper,-,"Jul 14, 1984 (26)",,"1,94m",right,-,2011
+247,Andrey Gerfort,Tobol Kostanay,Goalkeeper,-,"Dec 14, 1990 (20)",,"1,84m",right,-,2011
+248,Radoslav Batak,Tobol Kostanay,Centre-Back,14,"Aug 15, 1977 (33)",,"1,87m",left,€700k,2011
+249,Nenad Sljivic,Tobol Kostanay,Centre-Back,8,"Jun 8, 1985 (25)",,"1,84m",right,€500k,2011
+250,Stepan Kucera,Tobol Kostanay,Centre-Back,-,"Jun 11, 1984 (26)",,"1,91m",left,€350k,2011
+251,Sergey Kontsevoy,Tobol Kostanay,Centre-Back,-,"Jun 21, 1986 (24)",,"1,90m",right,€275k,2011
+252,Aleksandr Kislitsyn,Tobol Kostanay,Centre-Back,13,"Mar 8, 1986 (24)",,"1,89m",right,€250k,2011
+253,Oleg Lotov,Tobol Kostanay,Centre-Back,15,"Nov 21, 1975 (35)",,"1,84m",right,€175k,2011
+254,Jhonnes,Tobol Kostanay,Centre-Back,4,"Apr 22, 1984 (26)",,"1,94m",left,€150k,2011
+255,Anatoli Stukalov,Tobol Kostanay,Centre-Back,-,"Apr 3, 1991 (19)",,"1,78m",right,€25k,2011
+256,Evgeniy Ovshinov,Tobol Kostanay,Centre-Back,-,"Oct 17, 1980 (30)",,"1,78m",right,-,2011
+257,Vladimir Sedelnikov,Tobol Kostanay,Centre-Back,58,"Oct 15, 1991 (19)",,"1,93m",right,-,2011
+258,Vitaliy Volkov,Tobol Kostanay,Left-Back,11,"Mar 22, 1981 (29)",,"1,75m",left,€400k,2011
+259,Dumitru Bogdan,Tobol Kostanay,Left-Back,-,"Mar 4, 1989 (21)",,"1,86m",,-,2011
+260,Ilnur Mangutkin,Tobol Kostanay,Left-Back,-,"Sep 16, 1986 (24)",,"1,76m",right,-,2011
+261,Yuri Mokrousov,Tobol Kostanay,Left-Back,99,"Apr 21, 1989 (21)",,"1,83m",left,-,2011
+262,Ermek Kuantaev,Tobol Kostanay,Right-Back,20,"Oct 13, 1990 (20)",,"1,74m",both,€100k,2011
+263,Roman Duplyakin,Tobol Kostanay,Right-Back,-,"Jun 23, 1987 (23)",,"1,86m",right,-,2011
+264,Nurtas Kurgulin,Tobol Kostanay,Right-Back,-,"Sep 20, 1986 (24)",,"1,75m",right,-,2011
+265,Olzhas Ilyasov,Tobol Kostanay,Midfielder,-,"Sep 9, 1994 (16)",,"1,77m",,-,2011
+266,Sapar Tastemirov,Tobol Kostanay,Midfielder,-,"Jan 15, 1993 (17)",,"1,75m",,-,2011
+267,Anatoliy Bogdanov,Tobol Kostanay,Defensive Midfield,5,"Jun 7, 1981 (29)",,"1,86m",right,-,2011
+268,Piraly Aliev,Tobol Kostanay,Defensive Midfield,77,"Jan 13, 1984 (26)",,"1,80m",right,-,2011
+269,Aleksey Malyshev,Tobol Kostanay,Central Midfield,21,"Jun 24, 1989 (21)",,"1,86m",right,€175k,2011
+270,Konstantin Golovskoy,Tobol Kostanay,Central Midfield,17,"Apr 25, 1975 (35)",,"1,86m",right,€75k,2011
+271,Dauren Zhatekov,Tobol Kostanay,Central Midfield,-,"Feb 28, 1991 (19)",,"1,87m",right,€25k,2011
+272,Sergey Kostyuk,Tobol Kostanay,Central Midfield,18,"Nov 30, 1978 (32)",,"1,77m",right,-,2011
+273,Aleksandr Andreev,Tobol Kostanay,Central Midfield,86,"Sep 9, 1986 (24)",,"1,79m",right,-,2011
+274,Evgeniy Averchenko,Tobol Kostanay,Right Midfield,-,"Apr 6, 1982 (28)",,"1,72m",right,€225k,2011
+275,Ermek Nurgaliev,Tobol Kostanay,Right Midfield,-,"Aug 8, 1986 (24)",,"1,70m",right,-,2011
+276,Ali Aliev,Tobol Kostanay,Left Midfield,80,"Oct 27, 1980 (30)",,"1,75m",left,€150k,2011
+277,Samir Bekric,Tobol Kostanay,Attacking Midfield,-,"Oct 20, 1984 (26)",,"1,81m",right,€750k,2011
+278,Nurbol Zhumaskaliev,Tobol Kostanay,Attacking Midfield,9,"May 11, 1981 (29)",,"1,76m",left,€325k,2011
+279,Igor Yurin,Tobol Kostanay,Attacking Midfield,-,"Jul 3, 1982 (28)",,"1,71m",right,€300k,2011
+280,Artem Deli,Tobol Kostanay,Attacking Midfield,-,"Mar 2, 1989 (21)",,"1,83m",right,-,2011
+281,Bauyrzhan Baytana,Tobol Kostanay,Attacking Midfield,-,"May 6, 1992 (18)",,"1,74m",both,-,2011
+282,Alisher Suley,Tobol Kostanay,Left Winger,-,"Nov 1, 1995 (15)",,"1,78m",right,-,2011
+283,Bauyrzhan Dzholchiev,Tobol Kostanay,Right Winger,22,"May 8, 1990 (20)",,"1,90m",right,-,2011
+284,Robert Zebelyan,Tobol Kostanay,Centre-Forward,-,"Mar 31, 1984 (26)",,"1,87m",right,€450k,2011
+285,Nemanja Jovanovic,Tobol Kostanay,Centre-Forward,84,"Mar 3, 1984 (26)",,"1,91m",left,€450k,2011
+286,Igor Bugaev,Tobol Kostanay,Centre-Forward,7,"Jun 26, 1984 (26)",,"1,85m",right,€400k,2011
+287,Mensur Kurtisi,Tobol Kostanay,Centre-Forward,-,"Mar 25, 1986 (24)",,"1,85m",right,€300k,2011
+288,Sergey Strukov,Tobol Kostanay,Centre-Forward,91,"Sep 17, 1982 (28)",,"1,92m",right,€275k,2011
+289,Sergey Gridin,Tobol Kostanay,Centre-Forward,-,"May 20, 1987 (23)",,"1,95m",right,-,2011
+290,David Loria,Irtysh Pavlodar,Goalkeeper,-,"Oct 31, 1981 (29)",,"1,83m",right,€250k,2011
+291,Anton Tsirin,Irtysh Pavlodar,Goalkeeper,-,"Aug 10, 1987 (23)",,"1,98m",right,-,2011
+292,Nikita Kalmykov,Irtysh Pavlodar,Goalkeeper,21,"Aug 24, 1989 (21)",,"1,87m",right,-,2011
+293,Vyacheslav Kotlyar,Irtysh Pavlodar,Goalkeeper,33,"Mar 3, 1982 (28)",,"1,85m",right,-,2011
+294,Mamoutou Coulibaly,Irtysh Pavlodar,Centre-Back,8,"Feb 23, 1984 (26)",,"1,83m",right,€350k,2011
+295,Stepan Kucera,Irtysh Pavlodar,Centre-Back,25,"Jun 11, 1984 (26)",,"1,91m",left,€350k,2011
+296,Aleksandr Kuchma,Irtysh Pavlodar,Centre-Back,-,"Dec 9, 1980 (30)",,"1,83m",right,€200k,2011
+297,Marko Balazic,Irtysh Pavlodar,Centre-Back,-,"Jul 31, 1984 (26)",,"1,93m",right,€200k,2011
+298,Vladimir Yakovlev,Irtysh Pavlodar,Centre-Back,-,"Aug 2, 1984 (26)",,"1,82m",right,-,2011
+299,Eldos Akhmetov,Irtysh Pavlodar,Centre-Back,-,"Jun 1, 1990 (20)",,"1,87m",right,-,2011
+300,Vladislav Chernyshov,Irtysh Pavlodar,Centre-Back,3,"Mar 16, 1981 (29)",,"1,86m",right,-,2011
+301,Dmitriy Shomko,Irtysh Pavlodar,Left-Back,15,"Mar 19, 1990 (20)",,"1,85m",left,€200k,2011
+302,Aleksey Danaev,Irtysh Pavlodar,Left-Back,-,"Sep 1, 1979 (31)",,"1,83m",left,-,2011
+303,Anton Chichulin,Irtysh Pavlodar,Right-Back,6,"Oct 27, 1984 (26)",,"1,82m",right,€125k,2011
+304,Kairat Utabaev,Irtysh Pavlodar,Right-Back,-,"Jul 16, 1980 (30)",,"1,82m",both,-,2011
+305,Aleksey Mikhailyuk,Irtysh Pavlodar,Right-Back,-,"Jul 23, 1982 (28)",,"1,76m",right,-,2011
+306,Viktor Kryukov,Irtysh Pavlodar,Right-Back,4,"Jun 30, 1990 (20)",,"1,70m",right,-,2011
+307,Igor Jugovic,Irtysh Pavlodar,Defensive Midfield,-,"Jan 23, 1989 (21)",,"1,78m",right,€400k,2011
+308,Aleksandr Kulchiy,Irtysh Pavlodar,Defensive Midfield,-,"Nov 1, 1973 (37)",,"1,81m",left,€100k,2011
+309,Predrag Govedarica,Irtysh Pavlodar,Defensive Midfield,55,"Oct 21, 1984 (26)",,"1,89m",right,€75k,2011
+310,Anton Derkach,Irtysh Pavlodar,Central Midfield,-,"May 3, 1991 (19)",,"1,84m",,-,2011
+311,Sergey Ivanov,Irtysh Pavlodar,Central Midfield,11,"May 30, 1980 (30)",,"1,78m",right,-,2011
+312,Alibek Ayaganov,Irtysh Pavlodar,Central Midfield,13,"Jan 13, 1992 (18)",,"1,78m",right,-,2011
+313,Darko Maletic,Irtysh Pavlodar,Right Midfield,30,"Oct 20, 1980 (30)",,"1,76m",right,€300k,2011
+314,Milan Nikolic,Irtysh Pavlodar,Left Midfield,-,"Mar 30, 1983 (27)",,"1,88m",left,€250k,2011
+315,Ali Aliev,Irtysh Pavlodar,Left Midfield,-,"Oct 27, 1980 (30)",,"1,75m",left,€150k,2011
+316,Igor Yurin,Irtysh Pavlodar,Attacking Midfield,14,"Jul 3, 1982 (28)",,"1,71m",right,€300k,2011
+317,Dmitri Parkhamchuk,Irtysh Pavlodar,Attacking Midfield,-,"Mar 7, 1987 (23)",,"1,80m",right,-,2011
+318,Konstantin Zarechnyi,Irtysh Pavlodar,Left Winger,-,"Feb 14, 1984 (26)",,"1,79m",both,-,2011
+319,Fedor Siminidi,Irtysh Pavlodar,Left Winger,-,"Mar 14, 1985 (25)",,"1,70m",left,-,2011
+320,Titi Essomba,Irtysh Pavlodar,Right Winger,-,"May 23, 1986 (24)",,"1,78m",right,€375k,2011
+321,Eduard Sergienko,Irtysh Pavlodar,Right Winger,-,"Feb 18, 1983 (27)",,"1,81m",both,€150k,2011
+322,Pavel Shabalin,Irtysh Pavlodar,Right Winger,7,"Oct 23, 1988 (22)",,"1,72m",right,-,2011
+323,Murat Tleshev,Irtysh Pavlodar,Centre-Forward,-,"Apr 18, 1980 (30)",,"1,88m",right,€350k,2011
+324,Ulugbek Bakaev,Irtysh Pavlodar,Centre-Forward,20,"Nov 28, 1978 (32)",,"1,83m",right,€300k,2011
+325,Sergey Strukov,Irtysh Pavlodar,Centre-Forward,-,"Sep 17, 1982 (28)",,"1,92m",right,€275k,2011
+326,Georgi Daskalov,Irtysh Pavlodar,Centre-Forward,-,"Aug 3, 1981 (29)",,"1,88m",right,€250k,2011
+327,Vladislav Mirchev,Irtysh Pavlodar,Centre-Forward,-,"Jan 23, 1987 (23)",,"1,82m",right,€200k,2011
+328,Ulugbek Asanbaev,Irtysh Pavlodar,Centre-Forward,-,"Sep 13, 1979 (31)",,"1,83m",,€75k,2011
+329,Gleb Maltsev,Irtysh Pavlodar,Centre-Forward,-,"Mar 7, 1988 (22)",,"1,87m",right,-,2011
+330,Vitaliy Goloveshkin,Irtysh Pavlodar,Centre-Forward,-,"Nov 10, 1989 (21)",,"1,79m",right,-,2011
+331,Timur Bayzhanov,Irtysh Pavlodar,Centre-Forward,23,"Mar 30, 1990 (20)",,"1,85m",right,-,2011
+332,Senedin Ostrakovic,FK Taraz,Goalkeeper,-,"Apr 13, 1987 (23)",,"1,91m",right,€50k,2011
+333,Artem Kirbyatjev,FK Taraz,Goalkeeper,40,"Aug 18, 1984 (26)",,"1,98m",right,€25k,2011
+334,Ramil Nurmukhametov,FK Taraz,Goalkeeper,-,"Dec 21, 1987 (23)",,"1,82m",right,-,2011
+335,Dzhurakhon Babakhanov,FK Taraz,Goalkeeper,-,"Oct 31, 1991 (19)",,"1,90m",right,-,2011
+336,Azat Bitabarov,FK Taraz,Goalkeeper,16,"Jan 14, 1990 (20)",,"1,83m",right,-,2011
+337,Andrey Tsvetkov,FK Taraz,Goalkeeper,30,"Mar 20, 1980 (30)",,"1,91m",right,-,2011
+338,Ersin Mehmedovic,FK Taraz,Centre-Back,4,"May 10, 1981 (29)",,"1,94m",left,€750k,2011
+339,Aleksandr Kuchma,FK Taraz,Centre-Back,3,"Dec 9, 1980 (30)",,"1,83m",right,€200k,2011
+340,Eldos Akhmetov,FK Taraz,Centre-Back,2,"Jun 1, 1990 (20)",,"1,87m",right,-,2011
+341,Berik Aytbaev,FK Taraz,Centre-Back,25,"Jun 26, 1991 (19)",,"1,84m",right,-,2011
+342,Andrey Shabaev,FK Taraz,Centre-Back,27,"Feb 15, 1987 (23)",,"1,79m",right,-,2011
+343,Dmitriy Evstigneev,FK Taraz,Left-Back,77,"Nov 21, 1986 (24)",,"1,81m",left,-,2011
+344,Nurtas Kurgulin,FK Taraz,Right-Back,-,"Sep 20, 1986 (24)",,"1,75m",right,-,2011
+345,Vyacheslav Sobolev,FK Taraz,Right-Back,6,"Oct 13, 1984 (26)",,"1,69m",both,-,2011
+346,Maksat Amirkhanov,FK Taraz,Right-Back,20,"Feb 10, 1992 (18)",,"1,72m",right,-,2011
+347,Neven Vukman,FK Taraz,Defensive Midfield,17,"Apr 11, 1985 (25)",,"1,84m",right,€700k,2011
+348,Abdoulaye Diakhate,FK Taraz,Defensive Midfield,15,"Jan 16, 1988 (22)",,"1,81m",right,€200k,2011
+349,Vitaliy Evstigneev,FK Taraz,Defensive Midfield,18,"Aug 8, 1985 (25)",,"1,86m",both,-,2011
+350,Madiyar Muminov,FK Taraz,Defensive Midfield,80,"Oct 18, 1980 (30)",,"1,88m",right,-,2011
+351,Ognjen Krasic,FK Taraz,Right Midfield,24,"Apr 9, 1988 (22)",,"1,74m",both,€275k,2011
+352,Ardak Karpyk,FK Taraz,Left Midfield,21,"Apr 1, 1992 (18)",,"1,77m",left,-,2011
+353,Bauyrzhan Islamkhan,FK Taraz,Attacking Midfield,9,"Feb 23, 1993 (17)",,"1,74m",right,-,2011
+354,Konstantin Zarechnyi,FK Taraz,Left Winger,32,"Feb 14, 1984 (26)",,"1,79m",both,-,2011
+355,Nebojsa Prtenjak,FK Taraz,Right Winger,-,"May 10, 1983 (27)",,"1,81m",right,€350k,2011
+356,Eduard Sergienko,FK Taraz,Right Winger,22,"Feb 18, 1983 (27)",,"1,81m",both,€150k,2011
+357,Sherkhan Bauyrzhan,FK Taraz,Right Winger,11,"Aug 28, 1992 (18)",,"1,78m",right,-,2011
+358,Erzat Kenbaev,FK Taraz,Second Striker,-,"Apr 22, 1988 (22)",,"1,78m",right,-,2011
+359,Obiora Odita,FK Taraz,Centre-Forward,26,"May 14, 1983 (27)",,"1,85m",both,€500k,2011
+360,Ivan Peric,FK Taraz,Centre-Forward,55,"May 5, 1982 (28)",,"1,89m",right,€400k,2011
+361,Murat Suyumagambetov,FK Taraz,Centre-Forward,7,"Oct 14, 1983 (27)",,"1,81m",right,€150k,2011
+362,Miroslav Lecic,FK Taraz,Centre-Forward,19,"Apr 20, 1985 (25)",,"1,84m",right,€150k,2011
+363,Aleksandr Mokin,Shakhter Karaganda,Goalkeeper,35,"Jun 19, 1981 (29)",,"1,94m",right,€150k,2011
+364,Aleksandr Grigorenko,Shakhter Karaganda,Goalkeeper,1,"Feb 6, 1985 (25)",,"1,82m",right,€25k,2011
+365,Sergey Tkachuk,Shakhter Karaganda,Goalkeeper,-,"Feb 15, 1992 (18)",,"1,96m",right,-,2011
+366,Aleksandr Matyshev,Shakhter Karaganda,Defender,-,"Feb 25, 1992 (18)",,"1,74m",,-,2011
+367,Nikola Vasiljevic,Shakhter Karaganda,Centre-Back,4,"Dec 19, 1983 (27)",,"1,99m",right,€225k,2011
+368,Aleksandr Kirov,Shakhter Karaganda,Centre-Back,-,"Sep 4, 1984 (26)",,"1,88m",right,€150k,2011
+369,Aldin Dzidic,Shakhter Karaganda,Centre-Back,20,"Aug 30, 1983 (27)",,"1,97m",right,€125k,2011
+370,Aleksandr Nuykin,Shakhter Karaganda,Centre-Back,-,"Jan 26, 1992 (18)",,"1,84m",,-,2011
+371,Igor Soloshenko,Shakhter Karaganda,Left-Back,2,"May 22, 1979 (31)",,"1,81m",left,€50k,2011
+372,Ilnur Mangutkin,Shakhter Karaganda,Left-Back,-,"Sep 16, 1986 (24)",,"1,76m",right,-,2011
+373,Aleksandar Simčević,Shakhter Karaganda,Right-Back,-,"Feb 15, 1987 (23)",,"1,88m",both,€300k,2011
+374,Andrey Poryvaev,Shakhter Karaganda,Right-Back,17,"Jan 3, 1982 (28)",,"1,78m",right,€100k,2011
+375,Kairat Utabaev,Shakhter Karaganda,Right-Back,-,"Jul 16, 1980 (30)",,"1,82m",both,-,2011
+376,Vladislav Kuzmin,Shakhter Karaganda,Right-Back,-,"Jul 3, 1987 (23)",,"1,79m",right,-,2011
+377,Mikhail Gabyshev,Shakhter Karaganda,Right-Back,5,"Jan 2, 1990 (20)",,"1,85m",right,-,2011
+378,Evgeniy Tarasov,Shakhter Karaganda,Right-Back,19,"Apr 16, 1985 (25)",,"1,83m",right,-,2011
+379,Stanislav Lunin,Shakhter Karaganda,Right-Back,77,"May 2, 1993 (17)",,"1,80m",right,-,2011
+380,Danijel Majkic,Shakhter Karaganda,Defensive Midfield,6,"Dec 16, 1987 (23)",,"1,84m",right,€250k,2011
+381,Róger Cañas,Shakhter Karaganda,Defensive Midfield,88,"Mar 27, 1990 (20)",,"1,90m",right,€125k,2011
+382,Gediminas Vicius,Shakhter Karaganda,Defensive Midfield,3,"Jul 5, 1985 (25)",,"1,89m",right,€100k,2011
+383,Igor Pikalkin,Shakhter Karaganda,Defensive Midfield,-,"Mar 19, 1992 (18)",,"1,82m",right,-,2011
+384,Maksat Bayzhanov,Shakhter Karaganda,Central Midfield,11,"Aug 6, 1984 (26)",,"1,80m",right,€100k,2011
+385,Filip Arsenijevic,Shakhter Karaganda,Right Midfield,18,"Sep 2, 1983 (27)",,"1,73m",right,€300k,2011
+386,Zhambyl Kukeev,Shakhter Karaganda,Left Midfield,10,"Sep 20, 1988 (22)",,"1,77m",both,€275k,2011
+387,Askhat Borantaev,Shakhter Karaganda,Left Midfield,7,"Aug 22, 1978 (32)",,"1,70m",left,-,2011
+388,Dusan Petronijevic,Shakhter Karaganda,Attacking Midfield,-,"Nov 9, 1983 (27)",,"1,78m",both,€150k,2011
+389,Vitaliy Lee,Shakhter Karaganda,Left Winger,-,"Mar 13, 1994 (16)",,"1,86m",both,-,2011
+390,Roman Murtazaev,Shakhter Karaganda,Left Winger,-,"Sep 10, 1993 (17)",,"1,88m",right,-,2011
+391,Ulan Konysbaev,Shakhter Karaganda,Right Winger,-,"May 28, 1989 (21)",,"1,75m",right,-,2011
+392,Vadim Borovskiy,Shakhter Karaganda,Right Winger,13,"Oct 30, 1986 (24)",,"1,72m",right,-,2011
+393,Sergey Khizhnichenko,Shakhter Karaganda,Centre-Forward,91,"Jul 17, 1991 (19)",,"1,87m",right,€475k,2011
+394,Milanko Raskovic,Shakhter Karaganda,Centre-Forward,-,"Mar 13, 1981 (29)",,"1,85m",,€300k,2011
+395,Eduards Visnakovs,Shakhter Karaganda,Centre-Forward,15,"May 10, 1990 (20)",,"1,91m",right,€300k,2011
+396,Andrey Finonchenko,Shakhter Karaganda,Centre-Forward,14,"Jun 21, 1982 (28)",,"1,77m",right,€50k,2011
+397,Serik Dosmanbetov,Shakhter Karaganda,Centre-Forward,-,"Mar 8, 1982 (28)",,"1,78m",right,-,2011
+398,Toktar Zhangylyshbay,Shakhter Karaganda,Centre-Forward,-,"May 25, 1993 (17)",,"1,89m",right,-,2011
+399,Sergey Gridin,Shakhter Karaganda,Centre-Forward,55,"May 20, 1987 (23)",,"1,95m",right,-,2011
+400,Abylaykhan Makhambetov,Shakhter Karaganda,Centre-Forward,78,"Aug 3, 1991 (19)",,"1,80m",right,-,2011
+401,Tomislav Vranjic,Sunkar Kaskelen,Goalkeeper,-,"Feb 12, 1983 (27)",,N/Am,N/A,€300k,2011
+402,Dimash Zhamenkeev,Sunkar Kaskelen,Goalkeeper,-,"Jan 7, 1992 (18)",,-,,-,2011
+403,Vitaliy Kuvshinov,Sunkar Kaskelen,Goalkeeper,1,"Aug 9, 1985 (25)",,"1,87m",right,-,2011
+404,Andrey Pasechenko,Sunkar Kaskelen,Goalkeeper,22,"Aug 9, 1987 (23)",,"1,80m",right,-,2011
+405,Stanislav Nohynek,Sunkar Kaskelen,Centre-Back,5,"Aug 2, 1983 (27)",,N/Am,N/A,€250k,2011
+406,Farkhadbek Irismetov,Sunkar Kaskelen,Centre-Back,81,"Aug 10, 1981 (29)",,"1,83m",right,€200k,2011
+407,Nikola Tonev,Sunkar Kaskelen,Centre-Back,17,"Nov 12, 1985 (25)",,"1,87m",both,€100k,2011
+408,Evgeniy Nokhrin,Sunkar Kaskelen,Centre-Back,-,"Mar 23, 1988 (22)",,"1,86m",right,-,2011
+409,Vladimir Sedelnikov,Sunkar Kaskelen,Centre-Back,-,"Oct 15, 1991 (19)",,"1,93m",right,-,2011
+410,Timur Moldagaliev,Sunkar Kaskelen,Centre-Back,20,"Sep 29, 1984 (26)",,"1,85m",right,-,2011
+411,Lucho,Sunkar Kaskelen,Left-Back,-,"Mar 4, 1985 (25)",,"1,82m",left,€400k,2011
+412,Oleg Sabirov,Sunkar Kaskelen,Left-Back,3,"Mar 13, 1978 (32)",,"1,81m",right,€75k,2011
+413,Timur Khalmuratov,Sunkar Kaskelen,Right-Back,-,"Apr 29, 1986 (24)",,"1,85m",right,-,2011
+414,Daulet Oskenbayev,Sunkar Kaskelen,Right-Back,4,"Jan 15, 1987 (23)",,"1,75m",right,-,2011
+415,Ilyas Amirseitov,Sunkar Kaskelen,Right-Back,13,"Oct 22, 1989 (21)",,"1,79m",right,-,2011
+416,Askhat Mynbaev,Sunkar Kaskelen,Right-Back,21,"Feb 21, 1991 (19)",,"1,80m",right,-,2011
+417,Milos Adamovic,Sunkar Kaskelen,Defensive Midfield,-,"Jun 19, 1988 (22)",,"1,77m",right,€500k,2011
+418,Andrey Kharabara,Sunkar Kaskelen,Defensive Midfield,58,"Sep 1, 1985 (25)",,"1,71m",right,€200k,2011
+419,Dragomir Vukobratovic,Sunkar Kaskelen,Defensive Midfield,90,"May 12, 1988 (22)",,"1,80m",right,€150k,2011
+420,Aysultan Nazarbaev,Sunkar Kaskelen,Midfielder,-,"Aug 26, 1990 (20)",,-,,-,2011
+421,Dauren Suyunov,Sunkar Kaskelen,Defensive Midfield,14,"Aug 6, 1990 (20)",,"1,70m",left,-,2011
+422,Goran Cvetkovic,Sunkar Kaskelen,Defensive Midfield,77,"Dec 9, 1982 (28)",,"1,82m",both,-,2011
+423,Mantas Savenas,Sunkar Kaskelen,Central Midfield,82,"Aug 27, 1982 (28)",,"1,78m",right,€250k,2011
+424,Aleksandr Andreev,Sunkar Kaskelen,Central Midfield,-,"Sep 9, 1986 (24)",,"1,79m",right,-,2011
+425,Anton Shurygin,Sunkar Kaskelen,Central Midfield,-,"Dec 3, 1988 (22)",,"1,80m",right,-,2011
+426,Zhiger Kukeev,Sunkar Kaskelen,Right Midfield,7,"Aug 9, 1984 (26)",,"1,75m",right,-,2011
+427,Akzhol Serikzhanov,Sunkar Kaskelen,Attacking Midfield,85,"May 6, 1990 (20)",,"1,75m",right,€50k,2011
+428,Bauyrzhan Baytana,Sunkar Kaskelen,Attacking Midfield,-,"May 6, 1992 (18)",,"1,74m",both,-,2011
+429,Oleg Nedashkovskiy,Sunkar Kaskelen,Attacking Midfield,-,"Sep 9, 1987 (23)",,"1,84m",right,-,2011
+430,Gheorghe Ovseanicov,Sunkar Kaskelen,Left Winger,79,"Oct 12, 1985 (25)",,"1,83m",both,€350k,2011
+431,Azat Nurgaliev,Sunkar Kaskelen,Left Winger,86,"Jun 30, 1986 (24)",,"1,73m",both,€250k,2011
+432,Arman Khalykov,Sunkar Kaskelen,Right Winger,-,"Mar 1, 1990 (20)",,"1,77m",right,-,2011
+433,Milos Nikezic,Sunkar Kaskelen,Second Striker,-,"Mar 2, 1987 (23)",,"1,84m",left,-,2011
+434,Rade Djokic,Sunkar Kaskelen,Centre-Forward,60,"Jun 23, 1983 (27)",,"1,80m",left,€250k,2011
+435,Aleksey Shapurin,Sunkar Kaskelen,Centre-Forward,-,"Sep 20, 1987 (23)",,"1,79m",right,-,2011
+436,Bauyrzhan Turysbek,Sunkar Kaskelen,Centre-Forward,9,"Oct 15, 1991 (19)",,"1,81m",right,-,2011
+437,Alibek Buleshev,Sunkar Kaskelen,Centre-Forward,27,"Apr 9, 1981 (29)",,"1,75m",right,-,2011
+438,Dauren Kusainov,Sunkar Kaskelen,Centre-Forward,35,"Apr 10, 1984 (26)",,"1,82m",right,-,2011
+439,Anton Tsirin,Akzhayik Uralsk,Goalkeeper,1,"Aug 10, 1987 (23)",,"1,98m",right,-,2011
+440,Stas Pokatilov,Akzhayik Uralsk,Goalkeeper,16,"Dec 8, 1992 (18)",,"1,90m",right,-,2011
+441,Roman Bagautdinov,Akzhayik Uralsk,Goalkeeper,87,"Sep 20, 1987 (23)",,"1,84m",right,-,2011
+442,Ayan Esniyazov,Akzhayik Uralsk,Defender,-,"Apr 11, 1992 (18)",,"1,80m",,-,2011
+443,Valeriy Korzh,Akzhayik Uralsk,Defender,-,"Jun 3, 1992 (18)",,"1,70m",,-,2011
+444,Sergey Klinkov,Akzhayik Uralsk,Defender,-,"Oct 4, 1991 (19)",,-,,-,2011
+445,Aslan Kireev,Akzhayik Uralsk,Defender,13,"Jan 5, 1989 (21)",,"1,79m",,-,2011
+446,Milos Brezinsky,Akzhayik Uralsk,Centre-Back,90,"Apr 2, 1984 (26)",,"1,92m",right,€600k,2011
+447,Yanko Valkanov,Akzhayik Uralsk,Centre-Back,3,"Jul 25, 1982 (28)",,"1,86m",right,€250k,2011
+448,Jakub Chleboun,Akzhayik Uralsk,Centre-Back,15,"Mar 24, 1985 (25)",,"1,95m",right,€250k,2011
+449,Vladimir Pokatilov,Akzhayik Uralsk,Centre-Back,-,"Dec 8, 1992 (18)",,"1,92m",right,-,2011
+450,Aleksey Danaev,Akzhayik Uralsk,Left-Back,4,"Sep 1, 1979 (31)",,"1,83m",left,-,2011
+451,Bauyrzhan Omarov,Akzhayik Uralsk,Left-Back,14,"Aug 3, 1990 (20)",,"1,81m",left,-,2011
+452,Erkin Tapalov,Akzhayik Uralsk,Right-Back,-,"Sep 3, 1993 (17)",,"1,79m",right,-,2011
+453,Kanat Aliev,Akzhayik Uralsk,Right-Back,11,"Feb 9, 1985 (25)",,"1,76m",right,-,2011
+454,Ruslan Khairov,Akzhayik Uralsk,Right-Back,18,"Jan 18, 1990 (20)",,"1,74m",right,-,2011
+455,Timur Khalmuratov,Akzhayik Uralsk,Right-Back,75,"Apr 29, 1986 (24)",,"1,85m",right,-,2011
+456,Vyacheslav Erbes,Akzhayik Uralsk,Defensive Midfield,12,"Jan 14, 1988 (22)",,"1,78m",right,€75k,2011
+457,Azamat Khasanov,Akzhayik Uralsk,Midfielder,-,"Apr 14, 1992 (18)",,"1,81m",,-,2011
+458,Murad Gadzhikhanov,Akzhayik Uralsk,Midfielder,-,"Nov 20, 1993 (17)",,"1,70m",,-,2011
+459,Filipp Boger,Akzhayik Uralsk,Midfielder,-,"Jun 17, 1993 (17)",,"1,83m",,-,2011
+460,Evgeniy Kostrub,Akzhayik Uralsk,Defensive Midfield,7,"Aug 27, 1982 (28)",,"1,77m",right,-,2011
+461,Konstantin Zotov,Akzhayik Uralsk,Central Midfield,2,"Jan 14, 1986 (24)",,"1,80m",right,-,2011
+462,Sergey Shevtsov,Akzhayik Uralsk,Central Midfield,17,"Oct 29, 1990 (20)",,"1,81m",right,-,2011
+463,Haman Sadjo,Akzhayik Uralsk,Left Midfield,88,"Nov 28, 1984 (26)",,"1,74m",left,€200k,2011
+464,Izim Sarsekenov,Akzhayik Uralsk,Left Midfield,-,"Mar 30, 1993 (17)",,"1,83m",left,-,2011
+465,Milos Stojcev,Akzhayik Uralsk,Attacking Midfield,21,"Jan 19, 1987 (23)",,"1,75m",left,€400k,2011
+466,Borut Semler,Akzhayik Uralsk,Attacking Midfield,9,"Feb 25, 1985 (25)",,"1,75m",both,€300k,2011
+467,Maksim Azovskiy,Akzhayik Uralsk,Attacking Midfield,10,"Jun 4, 1986 (24)",,"1,89m",right,€250k,2011
+468,Aleksey Maltsev,Akzhayik Uralsk,Left Winger,8,"Oct 25, 1986 (24)",,"1,72m",both,-,2011
+469,Rinat Kasimgereyev,Akzhayik Uralsk,Right Winger,-,"May 23, 1992 (18)",,"1,81m",right,-,2011
+470,Ivan Antipov,Akzhayik Uralsk,Right Winger,96,"Jan 14, 1996 (14)",,"1,82m",right,-,2011
+471,Pavel Cerny,Akzhayik Uralsk,Centre-Forward,20,"Jan 28, 1985 (25)",,"1,85m",right,€300k,2011
+472,Igor Zenkovich,Akzhayik Uralsk,Centre-Forward,78,"Sep 17, 1987 (23)",,"1,85m",right,€150k,2011
+473,Azamat Alishev,Akzhayik Uralsk,Striker,19,"Mar 2, 1992 (18)",,"1,69m",right,-,2011
+474,Nikolay Zabrodin,Akzhayik Uralsk,Centre-Forward,23,"Jul 23, 1990 (20)",,"1,78m",right,-,2011
+475,Almaz Abdugaliev,Akzhayik Uralsk,Striker,91,"Aug 23, 1991 (19)",,"1,77m",,-,2011
+476,Nemanja Dzodzo,Kaysar Kyzylorda,Goalkeeper,1,"Dec 12, 1986 (24)",,"1,99m",both,€200k,2011
+477,Kirill Pryadkin,Kaysar Kyzylorda,Goalkeeper,13,"Jul 6, 1977 (33)",,"1,85m",right,€50k,2011
+478,Akhmet Alaydarov,Kaysar Kyzylorda,Goalkeeper,-,"Aug 19, 1983 (27)",,"1,83m",right,-,2011
+479,Chingiz Tanatkanov,Kaysar Kyzylorda,Goalkeeper,-,"Jan 25, 1990 (20)",,"1,88m",right,-,2011
+480,Zaur Pakhaev,Kaysar Kyzylorda,Defender,-,"Dec 20, 1991 (19)",,"1,81m",,-,2011
+481,Aziz Anarmetov,Kaysar Kyzylorda,Defender,22,"Jul 30, 1982 (28)",,"1,82m",,-,2011
+482,Murat Yskakov,Kaysar Kyzylorda,Defender,33,"Feb 5, 1993 (17)",,"1,84m",,-,2011
+483,Timur Doshchanov,Kaysar Kyzylorda,Defender,88,"Feb 25, 1988 (22)",,"1,80m",,-,2011
+484,Gradimir Crnogorac,Kaysar Kyzylorda,Centre-Back,5,"Nov 14, 1982 (28)",,"1,90m",left,€125k,2011
+485,Renat Abdulin,Kaysar Kyzylorda,Centre-Back,8,"Apr 14, 1982 (28)",,"1,85m",right,€100k,2011
+486,Adrian Cascaval,Kaysar Kyzylorda,Centre-Back,-,"Jun 10, 1987 (23)",,"1,94m",left,-,2011
+487,Aldan Baltaev,Kaysar Kyzylorda,Centre-Back,3,"Jan 15, 1989 (21)",,"1,85m",right,-,2011
+488,Oleksandr Stakhiv,Kaysar Kyzylorda,Centre-Back,6,"Jan 13, 1981 (29)",,"1,90m",right,-,2011
+489,Ruslan Esatov,Kaysar Kyzylorda,Left-Back,12,"Oct 31, 1984 (26)",,"1,80m",left,-,2011
+490,Serik Sagyndykov,Kaysar Kyzylorda,Right-Back,18,"Jan 9, 1984 (26)",,"1,80m",right,-,2011
+491,Bakyt Abuov,Kaysar Kyzylorda,Right-Back,23,"Jan 24, 1989 (21)",,"1,77m",right,-,2011
+492,Yevgeniy Shmakov,Kaysar Kyzylorda,Defensive Midfield,-,"Jun 7, 1985 (25)",,"1,85m",right,€300k,2011
+493,Askhat Karabek,Kaysar Kyzylorda,Defensive Midfield,-,"May 24, 1992 (18)",,"1,70m",right,-,2011
+494,Talgat Syzdykov,Kaysar Kyzylorda,Midfielder,10,"Feb 23, 1978 (32)",,"1,82m",,-,2011
+495,Anatoliy Malkov,Kaysar Kyzylorda,Midfielder,14,"Jul 8, 1981 (29)",,"1,78m",right,-,2011
+496,Suiyndyk Kushekov,Kaysar Kyzylorda,Midfielder,19,"May 7, 1990 (20)",,"1,74m",,-,2011
+497,Aset Menlikhozha,Kaysar Kyzylorda,Midfielder,77,"Mar 13, 1989 (21)",,"1,79m",,-,2011
+498,Bagdat Ismailov,Kaysar Kyzylorda,Defensive Midfield,91,"Feb 23, 1991 (19)",,"1,65m",,-,2011
+499,Duman Narzildaev,Kaysar Kyzylorda,Defensive Midfield,93,"Sep 6, 1993 (17)",,"1,78m",right,-,2011
+500,Askhat Tagybergen,Kaysar Kyzylorda,Central Midfield,7,"Aug 9, 1990 (20)",,"1,79m",right,-,2011
+501,Marjan Markovic,Kaysar Kyzylorda,Right Midfield,20,"Sep 28, 1981 (29)",,"1,72m",right,€300k,2011
+502,Dmitri Parkhachev,Kaysar Kyzylorda,Left Winger,85,"Jan 2, 1985 (25)",,"1,80m",right,€100k,2011
+503,Elzhas Altynbekov,Kaysar Kyzylorda,Right Winger,-,"Nov 22, 1993 (17)",,"1,80m",both,-,2011
+504,Philip Edeipo,Kaysar Kyzylorda,Centre-Forward,50,"Apr 11, 1986 (24)",,"1,80m",right,€400k,2011
+505,Karim Fachtali,Kaysar Kyzylorda,Centre-Forward,99,"Mar 30, 1988 (22)",,"1,76m",right,€250k,2011
+506,Oleksandr Sytnik,Kaysar Kyzylorda,Centre-Forward,-,"Jul 7, 1984 (26)",,"1,78m",right,€225k,2011
+507,Oleg Khromtsov,Kaysar Kyzylorda,Centre-Forward,46,"May 30, 1983 (27)",,"1,86m",right,€150k,2011
+508,Bojan Mamic,Kaysar Kyzylorda,Centre-Forward,81,"Sep 13, 1981 (29)",,"1,93m",right,€100k,2011
+509,Dastan Duysembaev,Kaysar Kyzylorda,Centre-Forward,-,"Apr 12, 1992 (18)",,"1,72m",right,-,2011
+510,Galymzhan Umbetbaev,Kaysar Kyzylorda,Striker,-,"Feb 4, 1990 (20)",,"1,89m",,-,2011
+511,Vagner,Kaysar Kyzylorda,Centre-Forward,11,"Jun 1, 1987 (23)",,"1,83m",left,-,2011
+512,Zhasulan Moldakaraev,Kaysar Kyzylorda,Centre-Forward,17,"May 7, 1987 (23)",,"1,80m",right,-,2011
+513,Serik Dosmanbetov,Kaysar Kyzylorda,Centre-Forward,82,"Mar 8, 1982 (28)",,"1,78m",right,-,2011

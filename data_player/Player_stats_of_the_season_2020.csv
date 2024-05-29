@@ -1,0 +1,615 @@
+,Player,Club,Position,Number,Date of Birth,Height,Foot,Joined,Market Value,Season
+0,Dmitriy Nepogodov,FC Astana,Goalkeeper,22,"Feb 17, 1988 (31)",,"1,96m",left,€1.80m,2020
+1,Nenad Eric,FC Astana,Goalkeeper,1,"May 26, 1982 (37)",,"1,97m",right,€300k,2020
+2,Aleksandr Zarutskiy,FC Astana,Goalkeeper,55,"Aug 26, 1993 (26)",,"1,92m",right,€200k,2020
+3,Danil Podymskiy,FC Astana,Goalkeeper,31,"Jun 5, 1998 (21)",,"1,90m",right,€50k,2020
+4,Konstantin Onoprienko,FC Astana,Goalkeeper,-,"Aug 5, 2003 (16)",,"1,83m",right,-,2020
+5,Nagda Bakizhev,FC Astana,Goalkeeper,-,"Jan 29, 2002 (17)",,"1,84m",right,-,2020
+6,Varazdat Haroyan,FC Astana,Centre-Back,3,"Aug 24, 1992 (27)",,"1,85m",right,€1.20m,2020
+7,Uros Radakovic,FC Astana,Centre-Back,4,"Mar 31, 1994 (25)",,"1,94m",right,€1.20m,2020
+8,Luka Simunovic,FC Astana,Centre-Back,24,"May 24, 1997 (22)",,"1,85m",right,€1.00m,2020
+9,Zarko Tomasevic,FC Astana,Centre-Back,33,"Feb 22, 1990 (29)",,"1,90m",left,€900k,2020
+10,Evgeniy Postnikov,FC Astana,Centre-Back,44,"Apr 16, 1986 (33)",,"1,89m",right,€800k,2020
+11,Mark Gurman,FC Astana,Centre-Back,5,"Feb 9, 1989 (30)",,"1,79m",right,€350k,2020
+12,Eneo Bitri,FC Astana,Centre-Back,-,"Aug 26, 1996 (23)",,"1,92m",right,€75k,2020
+13,Yuriy Akhanov,FC Astana,Centre-Back,-,"Jul 31, 2002 (17)",,"1,85m",left,€25k,2020
+14,Rakhat Maratov,FC Astana,Centre-Back,-,"Apr 28, 2001 (18)",,"1,88m",right,-,2020
+15,Ruslan Pistol,FC Astana,Centre-Back,-,"Sep 2, 2002 (17)",,"1,85m",,-,2020
+16,Dmitriy Shomko,FC Astana,Left-Back,77,"Mar 19, 1990 (29)",,"1,85m",left,€2.50m,2020
+17,Kike Cadete,FC Astana,Left-Back,21,"Jun 24, 1994 (25)",,"1,86m",left,€500k,2020
+18,Sagi Sovet,FC Astana,Left-Back,18,"Mar 15, 2000 (19)",,"1,75m",left,€75k,2020
+19,Dias Kanatkali,FC Astana,Left-Back,-,"Feb 14, 2001 (18)",,"1,75m",left,-,2020
+20,Aydos Kumarov,FC Astana,Left-Back,-,"Feb 27, 2002 (17)",,"1,75m",left,-,2020
+21,Abzal Beysebekov,FC Astana,Right-Back,15,"Nov 30, 1992 (27)",,"1,87m",right,€1.50m,2020
+22,Antonio Rukavina,FC Astana,Right-Back,2,"Jan 26, 1984 (35)",,"1,77m",right,€600k,2020
+23,Lev Skvortsov,FC Astana,Right-Back,19,"Feb 2, 2000 (19)",,"1,80m",both,€150k,2020
+24,Bauyrzhan Akhaev,FC Astana,Right-Back,-,"Sep 26, 2001 (18)",,"1,77m",right,€25k,2020
+25,Aldair Adilov,FC Astana,Right-Back,91,"Jun 11, 2002 (17)",,"1,72m",right,-,2020
+26,Islambek Kuat,FC Astana,Defensive Midfield,8,"Jan 12, 1993 (26)",,"1,79m",right,€2.00m,2020
+27,Ivan Maevskiy,FC Astana,Defensive Midfield,-,"May 5, 1988 (31)",,"1,90m",right,€1.50m,2020
+28,Yuriy Logvinenko,FC Astana,Defensive Midfield,27,"Jul 22, 1988 (31)",,"1,87m",left,€800k,2020
+29,Yuriy Pertsukh,FC Astana,Central Midfield,28,"May 13, 1996 (23)",,"1,86m",right,€1.20m,2020
+30,Rúnar Már Sigurjónsson,FC Astana,Central Midfield,-,"Jun 18, 1990 (29)",,"1,78m",right,€1.00m,2020
+31,Valeriy Chuperka,FC Astana,Central Midfield,92,"Jun 12, 1992 (27)",,"1,77m",right,€700k,2020
+32,Maks Ebong,FC Astana,Central Midfield,7,"Aug 26, 1999 (20)",,"1,80m",right,€350k,2020
+33,Sultan Sagnaev,FC Astana,Central Midfield,70,"Jan 14, 2000 (19)",,"1,72m",right,€300k,2020
+34,Madi Zhakipbaev,FC Astana,Central Midfield,29,"Mar 21, 2000 (19)",,"1,74m",right,€200k,2020
+35,Zhaslan Kairkenov,FC Astana,Central Midfield,87,"Mar 27, 2000 (19)",,"1,75m",right,€150k,2020
+36,Azamat Nurzhanuly,FC Astana,Central Midfield,-,"Feb 8, 2001 (18)",,"1,71m",right,-,2020
+37,Valikhan Tyulyupov,FC Astana,Central Midfield,-,"Feb 10, 2002 (17)",,"1,78m",right,-,2020
+38,Meyrambek Kalmyrza,FC Astana,Central Midfield,65,"Dec 15, 2002 (17)",,"1,84m",left,-,2020
+39,Roman Murtazaev,FC Astana,Left Winger,45,"Sep 10, 1993 (26)",,"1,88m",right,€2.50m,2020
+40,Didar Zhalmukan,FC Astana,Left Winger,73,"May 22, 1996 (23)",,"1,73m",right,€300k,2020
+41,Marin Tomasov,FC Astana,Right Winger,10,"Aug 31, 1987 (32)",,"1,84m",left,€3.50m,2020
+42,Dorin Rotariu,FC Astana,Right Winger,9,"Jul 29, 1995 (24)",,"1,80m",left,€2.20m,2020
+43,Tigran Barseghyan,FC Astana,Right Winger,11,"Sep 22, 1993 (26)",,"1,79m",left,€1.50m,2020
+44,Pedro Eugénio,FC Astana,Right Winger,-,"Jun 26, 1990 (29)",,"1,72m",right,€350k,2020
+45,Stanislav Basmanov,FC Astana,Right Winger,72,"Jun 24, 2001 (18)",,"1,79m",right,€75k,2020
+46,Sanzhar Shurakhanov,FC Astana,Right Winger,-,"Dec 6, 2001 (18)",,"1,84m",left,-,2020
+47,Pieros Sotiriou,FC Astana,Centre-Forward,20,"Jan 13, 1993 (26)",,"1,84m",right,€1.70m,2020
+48,Aleksey Shchetkin,FC Astana,Centre-Forward,-,"May 21, 1991 (28)",,"1,93m",right,€1.50m,2020
+49,Abat Aymbetov,FC Astana,Centre-Forward,17,"Aug 7, 1995 (24)",,"1,84m",right,€900k,2020
+50,Fatos Beqiraj,FC Astana,Centre-Forward,-,"May 5, 1988 (31)",,"1,88m",right,€700k,2020
+51,Semir Smajlagic,FC Astana,Centre-Forward,99,"Sep 18, 1998 (21)",,"1,91m",right,€350k,2020
+52,Vladislav Prokopenko,FC Astana,Centre-Forward,80,"Jul 1, 2000 (19)",,"1,80m",right,€250k,2020
+53,Adilkhan Sabyr,FC Astana,Centre-Forward,-,"Sep 11, 2001 (18)",,"1,81m",left,-,2020
+54,Andrey Berezutskiy,FC Astana,Centre-Forward,-,"Jan 30, 2004 (15)",,"1,90m",right,-,2020
+55,Sultan Busurmanov,Tobol Kostanay,Goalkeeper,12,"May 10, 1996 (23)",,"1,86m",right,€150k,2020
+56,Aleksandr Mokin,Tobol Kostanay,Goalkeeper,35,"Jun 19, 1981 (38)",,"1,94m",right,€50k,2020
+57,Egor Tsuprikov,Tobol Kostanay,Goalkeeper,41,"May 27, 1997 (22)",,"1,90m",right,€50k,2020
+58,Vladimir Shpakovskiy,Tobol Kostanay,Goalkeeper,-,"Jan 1, 2001 (18)",,"1,86m",,-,2020
+59,Yuriy Melikhov,Tobol Kostanay,Goalkeeper,-,"Sep 1, 2003 (16)",,"1,82m",right,-,2020
+60,Andrey Drobyshev,Tobol Kostanay,Defender,-,"May 3, 2000 (19)",,-,,-,2020
+61,Sergey Maliy,Tobol Kostanay,Centre-Back,25,"Jun 5, 1990 (29)",,"1,91m",right,€1.50m,2020
+62,Aleksandr Marochkin,Tobol Kostanay,Centre-Back,22,"Jul 14, 1990 (29)",,"1,91m",right,€1.00m,2020
+63,Aleksa Amanovic,Tobol Kostanay,Centre-Back,45,"Oct 24, 1996 (23)",,"1,87m",left,€500k,2020
+64,Sultan Abilgazy,Tobol Kostanay,Centre-Back,21,"Feb 22, 1997 (22)",,"1,80m",right,€400k,2020
+65,Daniyar Semchenkov,Tobol Kostanay,Centre-Back,5,"Feb 12, 1997 (22)",,"1,86m",right,€50k,2020
+66,Ilyas Almukhamedov,Tobol Kostanay,Centre-Back,-,"Feb 1, 2000 (19)",,"1,85m",,-,2020
+67,Aleksandr Krytsa,Tobol Kostanay,Centre-Back,-,"Aug 15, 2002 (17)",,"1,77m",left,-,2020
+68,Vyacheslav Kulpeisov,Tobol Kostanay,Centre-Back,47,"Dec 24, 2001 (18)",,"1,75m",right,-,2020
+69,Roman Asrankulov,Tobol Kostanay,Left-Back,3,"Jul 30, 1999 (20)",,"1,86m",left,€25k,2020
+70,Bekzat Minaydarov,Tobol Kostanay,Left-Back,-,"Jan 21, 2003 (16)",,"1,75m",left,-,2020
+71,Marat Alpisbaev,Tobol Kostanay,Left-Back,-,"Apr 8, 2002 (17)",,"1,75m",both,-,2020
+72,Dmitriy Miroshnichenko,Tobol Kostanay,Right-Back,7,"Feb 26, 1992 (27)",,"1,83m",right,€1.10m,2020
+73,Bagdat Kairov,Tobol Kostanay,Right-Back,-,"Apr 27, 1993 (26)",,"1,78m",right,€400k,2020
+74,Arman Tungushbaev,Tobol Kostanay,Right-Back,-,"May 3, 2002 (17)",,"1,73m",right,-,2020
+75,Dusan Jovancic,Tobol Kostanay,Defensive Midfield,29,"Oct 19, 1990 (29)",,"1,86m",right,€2.50m,2020
+76,Alsaid Akhmetzhanov,Tobol Kostanay,Midfielder,-,"Aug 9, 2000 (19)",,"1,73m",,-,2020
+77,Toktar Baydavletov,Tobol Kostanay,Defensive Midfield,-,"Feb 23, 2004 (15)",,"1,60m",,-,2020
+78,Dmitriy Panov,Tobol Kostanay,Defensive Midfield,-,"Dec 7, 2001 (18)",,"1,81m",left,-,2020
+79,Askhat Tagybergen,Tobol Kostanay,Central Midfield,8,"Aug 9, 1990 (29)",,"1,79m",right,€1.00m,2020
+80,Samat Zharynbetov,Tobol Kostanay,Central Midfield,14,"Jan 4, 1994 (25)",,"1,74m",right,€200k,2020
+81,Nurbek Bayzhanov,Tobol Kostanay,Central Midfield,-,"Apr 4, 2003 (16)",,"1,74m",,-,2020
+82,Ruslan Valiullin,Tobol Kostanay,Left Midfield,17,"Sep 9, 1994 (25)",,"1,80m",left,€850k,2020
+83,Serikzhan Muzhikov,Tobol Kostanay,Attacking Midfield,10,"Jun 17, 1989 (30)",,"1,69m",right,€750k,2020
+84,Jérémy Manzorro,Tobol Kostanay,Attacking Midfield,11,"Nov 11, 1991 (28)",,"1,73m",right,€600k,2020
+85,Azat Nurgaliev,Tobol Kostanay,Left Winger,13,"Jun 30, 1986 (33)",,"1,73m",both,€700k,2020
+86,Rúben Brígido,Tobol Kostanay,Left Winger,-,"Jun 23, 1991 (28)",,"1,72m",both,€450k,2020
+87,Rakhat Kabdullov,Tobol Kostanay,Left Winger,-,"Feb 20, 2000 (19)",,"1,79m",,-,2020
+88,Ali Abdibek,Tobol Kostanay,Left Winger,-,"Jun 23, 2003 (16)",,"1,76m",,-,2020
+89,Bekzat Zhaparov,Tobol Kostanay,Left Winger,-,"Mar 5, 2002 (17)",,"1,77m",,-,2020
+90,Zhaslan Zhumashev,Tobol Kostanay,Left Winger,20,"Sep 27, 2001 (18)",,"1,75m",both,-,2020
+91,Zoran Tosic,Tobol Kostanay,Right Winger,87,"Apr 28, 1987 (32)",,"1,71m",left,€1.70m,2020
+92,Carlos Fonseca,Tobol Kostanay,Right Winger,40,"Aug 23, 1987 (32)",,"1,80m",left,€400k,2020
+93,Toni Silva,Tobol Kostanay,Right Winger,15,"Sep 15, 1993 (26)",,"1,79m",left,€200k,2020
+94,Matvey Tsoy,Tobol Kostanay,Right Winger,-,"Nov 9, 2004 (15)",,"1,75m",,-,2020
+95,Igor Sergeev,Tobol Kostanay,Centre-Forward,-,"Apr 30, 1993 (26)",,"1,85m",left,€1.60m,2020
+96,Nemanja Nikolic,Tobol Kostanay,Centre-Forward,23,"Oct 19, 1992 (27)",,"1,88m",both,€1.20m,2020
+97,Elguja Lobjanidze,Tobol Kostanay,Centre-Forward,99,"Sep 17, 1992 (27)",,"1,93m",right,€500k,2020
+98,Oralkhan Omirtaev,Tobol Kostanay,Centre-Forward,19,"Jul 16, 1998 (21)",,"1,87m",right,€350k,2020
+99,Farid Shaymerdenov,Tobol Kostanay,Centre-Forward,-,"Jan 15, 2000 (19)",,-,,-,2020
+100,Bekzat Ermekbaev,Tobol Kostanay,Centre-Forward,-,"Dec 6, 2001 (18)",,"1,73m",right,-,2020
+101,Ali Akhmet,Tobol Kostanay,Centre-Forward,-,"Feb 13, 2003 (16)",,"1,78m",,-,2020
+102,Sergey Revyakin,FK Aktobe,Goalkeeper,16,"Apr 2, 1995 (24)",,"1,89m",right,€150k,2020
+103,Zhasur Narzikulov,FK Aktobe,Goalkeeper,1,"Apr 13, 1984 (35)",,"1,89m",right,€100k,2020
+104,Evgeniy Sitdikov,FK Aktobe,Goalkeeper,25,"Jun 25, 2001 (18)",,"1,89m",right,-,2020
+105,Temirlan Erlanov,FK Aktobe,Centre-Back,80,"Jul 9, 1993 (26)",,"1,90m",right,€1.10m,2020
+106,Michal Jerabek,FK Aktobe,Centre-Back,18,"Sep 10, 1993 (26)",,"1,91m",right,€400k,2020
+107,Rustam Temirkhan,FK Aktobe,Centre-Back,6,"Aug 10, 1997 (22)",,"1,82m",left,€250k,2020
+108,Lasha Totadze,FK Aktobe,Centre-Back,3,"Aug 24, 1988 (31)",,"1,87m",left,€200k,2020
+109,Armen Manucharyan,FK Aktobe,Centre-Back,5,"Feb 3, 1995 (24)",,"1,84m",right,€200k,2020
+110,Igor Gubanov,FK Aktobe,Centre-Back,66,"Feb 4, 1992 (27)",,"1,87m",right,€200k,2020
+111,Dinmukhammed Kashken,FK Aktobe,Centre-Back,2,"Jan 4, 2000 (19)",,"1,87m",right,€100k,2020
+112,Demiyat Slambekov,FK Aktobe,Centre-Back,4,"Jan 13, 1997 (22)",,"1,87m",left,€75k,2020
+113,Dmitriy Shomko,FK Aktobe,Left-Back,77,"Mar 19, 1990 (29)",,"1,85m",left,€2.50m,2020
+114,Alisher Azhimov,FK Aktobe,Left-Back,12,"May 29, 2001 (18)",,"1,78m",left,€250k,2020
+115,Vitaliy Volkov,FK Aktobe,Left-Back,22,"Mar 22, 1981 (38)",,"1,75m",left,€50k,2020
+116,Adilkhan Tanzharikov,FK Aktobe,Right-Back,31,"Nov 25, 1996 (23)",,"1,75m",both,€275k,2020
+117,Arturas Zulpa,FK Aktobe,Defensive Midfield,44,"Jun 10, 1990 (29)",,"1,88m",right,€1.40m,2020
+118,Yuriy Logvinenko,FK Aktobe,Defensive Midfield,27,"Jul 22, 1988 (31)",,"1,87m",left,€800k,2020
+119,Tongo Doumbia,FK Aktobe,Defensive Midfield,93,"Aug 6, 1989 (30)",,"1,91m",right,€300k,2020
+120,Joachim Adukor,FK Aktobe,Defensive Midfield,50,"May 2, 1993 (26)",,"1,86m",left,€200k,2020
+121,Nikita Laktionov,FK Aktobe,Defensive Midfield,39,"Nov 21, 2000 (19)",,"1,76m",right,€75k,2020
+122,Yuriy Pertsukh,FK Aktobe,Central Midfield,14,"May 13, 1996 (23)",,"1,86m",right,€1.20m,2020
+123,Ramazan Orazov,FK Aktobe,Central Midfield,26,"Jan 30, 1998 (21)",,"1,76m",right,€500k,2020
+124,Esen Zhasanov,FK Aktobe,Central Midfield,17,"Apr 24, 1998 (21)",,"1,78m",right,€300k,2020
+125,Anton Shurygin,FK Aktobe,Central Midfield,88,"Dec 3, 1988 (31)",,"1,80m",right,€200k,2020
+126,Erkebulan Nurgaliev,FK Aktobe,Attacking Midfield,20,"Sep 12, 1993 (26)",,"1,70m",right,€500k,2020
+127,Zaza Tsitskishvili,FK Aktobe,Attacking Midfield,29,"Jul 4, 1995 (24)",,"1,81m",left,€150k,2020
+128,Vitaliy Balashov,FK Aktobe,Left Winger,91,"Jan 15, 1991 (28)",,"1,77m",both,€600k,2020
+129,Didar Zhalmukan,FK Aktobe,Left Winger,73,"May 22, 1996 (23)",,"1,73m",right,€300k,2020
+130,Rifat Nurmugamet,FK Aktobe,Left Winger,23,"May 22, 1996 (23)",,"1,80m",left,€200k,2020
+131,Dmytro Korkishko,FK Aktobe,Left Winger,70,"May 4, 1990 (29)",,"1,75m",right,€200k,2020
+132,Maksim Samorodov,FK Aktobe,Left Winger,10,"Jun 29, 2002 (17)",,"1,78m",right,€50k,2020
+133,Maksim Fedin,FK Aktobe,Right Winger,96,"Jun 8, 1996 (23)",,"1,75m",right,€1.10m,2020
+134,Hervaine Moukam,FK Aktobe,Right Winger,94,"May 24, 1994 (25)",,"1,66m",right,€350k,2020
+135,Ardak Saulet,FK Aktobe,Right Winger,19,"Jan 12, 1997 (22)",,"1,69m",right,€325k,2020
+136,Oleg Chernyshov,FK Aktobe,Right Winger,7,"Dec 23, 1986 (33)",,"1,74m",right,€300k,2020
+137,Igor Sergeev,FK Aktobe,Centre-Forward,11,"Apr 30, 1993 (26)",,"1,85m",left,€1.60m,2020
+138,Bojan Dubajic,FK Aktobe,Centre-Forward,9,"Sep 1, 1990 (29)",,"1,83m",right,€350k,2020
+139,Igor Zenkovich,FK Aktobe,Centre-Forward,33,"Sep 17, 1987 (32)",,"1,85m",right,€250k,2020
+140,Tauipbek Ornalin,FK Aktobe,Centre-Forward,79,"Jan 7, 2001 (18)",,"1,91m",right,-,2020
+141,Igor Shatskiy,Shakhter Karaganda,Goalkeeper,30,"May 11, 1989 (30)",,"1,85m",right,€800k,2020
+142,Igor Trofimets,Shakhter Karaganda,Goalkeeper,1,"Aug 20, 1996 (23)",,"1,94m",right,€250k,2020
+143,Timurbek Zakirov,Shakhter Karaganda,Goalkeeper,78,"Mar 1, 1996 (23)",,"1,89m",right,€150k,2020
+144,Ernar Saylauov,Shakhter Karaganda,Goalkeeper,-,"Mar 30, 2000 (19)",,"1,79m",right,-,2020
+145,Danila Karpikov,Shakhter Karaganda,Goalkeeper,-,"Oct 15, 2003 (16)",,"1,93m",right,-,2020
+146,Roman Klyushnev,Shakhter Karaganda,Goalkeeper,-,"May 5, 2000 (19)",,"1,84m",,-,2020
+147,Ilya Gubenko,Shakhter Karaganda,Goalkeeper,-,"Sep 25, 2002 (17)",,"1,81m",,-,2020
+148,Vladislav Loshkarev,Shakhter Karaganda,Goalkeeper,-,"Mar 10, 2004 (15)",,"1,89m",right,-,2020
+149,Ivan Graf,Shakhter Karaganda,Defender,55,"Jun 17, 1987 (32)",,"1,94m",right,€400k,2020
+150,Ali Khantemirov,Shakhter Karaganda,Defender,-,"Jul 30, 2002 (17)",,"1,90m",,-,2020
+151,Ramazan Alimkhan,Shakhter Karaganda,Defender,-,"Oct 25, 2002 (17)",,-,,-,2020
+152,Amir Tleubaev,Shakhter Karaganda,Defender,-,"Dec 7, 2003 (16)",,-,,-,2020
+153,Aleksandr Bezrodniy,Shakhter Karaganda,Defender,67,"Jun 12, 2002 (17)",,-,,-,2020
+154,Abdel Lamanje,Shakhter Karaganda,Centre-Back,33,"Jul 27, 1990 (29)",,"1,85m",left,€800k,2020
+155,Stefan Bukorac,Shakhter Karaganda,Centre-Back,8,"Feb 15, 1991 (28)",,"1,93m",right,€400k,2020
+156,Vladimir Khozin,Shakhter Karaganda,Centre-Back,27,"Jul 3, 1989 (30)",,"1,85m",right,€400k,2020
+157,Gideon Baah,Shakhter Karaganda,Centre-Back,4,"Oct 1, 1991 (28)",,"1,85m",left,€200k,2020
+158,Karam Sultanov,Shakhter Karaganda,Centre-Back,44,"Apr 15, 1996 (23)",,"1,95m",right,€175k,2020
+159,Andrey Buyvolov,Shakhter Karaganda,Centre-Back,25,"Jan 12, 1987 (32)",,"1,86m",right,€150k,2020
+160,Tair Nurseitov,Shakhter Karaganda,Centre-Back,50,"Jul 11, 2000 (19)",,"1,98m",both,€50k,2020
+161,Ualikhan Mukhametzhanov,Shakhter Karaganda,Centre-Back,-,"Oct 31, 2001 (18)",,"1,85m",right,-,2020
+162,Timofey Tronza,Shakhter Karaganda,Centre-Back,-,"May 15, 2002 (17)",,"1,80m",left,-,2020
+163,Baurzhan Sadvakasov,Shakhter Karaganda,Centre-Back,-,"Apr 10, 2002 (17)",,"1,74m",,-,2020
+164,Amir Tleubekov,Shakhter Karaganda,Centre-Back,51,"Dec 7, 2003 (16)",,"1,76m",right,-,2020
+165,Adil Akhanov,Shakhter Karaganda,Centre-Back,53,"May 31, 1999 (20)",,"1,80m",right,-,2020
+166,Evgeniy Gapon,Shakhter Karaganda,Left-Back,33,"Apr 20, 1991 (28)",,"1,89m",left,€450k,2020
+167,David Atanaskoski,Shakhter Karaganda,Left-Back,3,"Oct 21, 1996 (23)",,"1,76m",left,€300k,2020
+168,Konstantin Gorizanov,Shakhter Karaganda,Left-Back,-,"Sep 30, 2002 (17)",,"1,87m",left,-,2020
+169,Gevorg Nadzharyan,Shakhter Karaganda,Right-Back,7,"Jan 6, 1998 (21)",,"1,75m",right,€750k,2020
+170,Mikhail Gabyshev,Shakhter Karaganda,Right-Back,5,"Jan 2, 1990 (29)",,"1,85m",right,€250k,2020
+171,Pavel Nazarenko,Shakhter Karaganda,Right-Back,13,"Jan 20, 1995 (24)",,"1,74m",right,€200k,2020
+172,Eskendir Kybyray,Shakhter Karaganda,Right-Back,16,"Aug 14, 1997 (22)",,"1,83m",right,€25k,2020
+173,Bogdan Savkiv,Shakhter Karaganda,Right-Back,-,"Aug 28, 2001 (18)",,"1,78m",right,-,2020
+174,Almas Tyulyubay,Shakhter Karaganda,Right-Back,-,"Apr 18, 2001 (18)",,"1,81m",right,-,2020
+175,Egor Alishauskas,Shakhter Karaganda,Right-Back,57,"Dec 18, 1997 (22)",,"1,77m",right,-,2020
+176,David Mawutor,Shakhter Karaganda,Defensive Midfield,15,"Apr 12, 1992 (27)",,"1,81m",right,€700k,2020
+177,Edin Rustemovic,Shakhter Karaganda,Defensive Midfield,44,"Jan 6, 1993 (26)",,"1,80m",left,€350k,2020
+178,Vuk Mitosevic,Shakhter Karaganda,Defensive Midfield,29,"Feb 12, 1991 (28)",,"1,73m",both,€300k,2020
+179,Mikhail Bakaev,Shakhter Karaganda,Defensive Midfield,87,"Aug 5, 1987 (32)",,"1,75m",right,€200k,2020
+180,Ruslan Tutkyshev,Shakhter Karaganda,Defensive Midfield,-,"Feb 18, 1999 (20)",,"1,80m",right,€25k,2020
+181,Aleksandr Vasyunkin,Shakhter Karaganda,Midfielder,82,"Apr 9, 2003 (16)",,-,,-,2020
+182,Solomon Udo,Shakhter Karaganda,Central Midfield,18,"Jul 15, 1995 (24)",,"1,75m",right,€200k,2020
+183,Aydos Oral,Shakhter Karaganda,Central Midfield,-,"Apr 5, 1999 (20)",,"1,74m",right,€50k,2020
+184,Abylaykhan Nazymkhanov,Shakhter Karaganda,Central Midfield,34,"Feb 5, 2002 (17)",,"1,84m",both,-,2020
+185,Dzhokhangir Abilmazhinov,Shakhter Karaganda,Central Midfield,62,"Jun 10, 2000 (19)",,"1,72m",left,-,2020
+186,Almat Nurgazy,Shakhter Karaganda,Central Midfield,76,"Feb 14, 2002 (17)",,"1,76m",right,-,2020
+187,Ansar Altynkhan,Shakhter Karaganda,Central Midfield,79,"Nov 8, 2003 (16)",,"1,65m",right,-,2020
+188,Alan Chochiev,Shakhter Karaganda,Attacking Midfield,11,"Sep 7, 1991 (28)",,"1,80m",right,€500k,2020
+189,Vitaliy Balashov,Shakhter Karaganda,Left Winger,10,"Jan 15, 1991 (28)",,"1,77m",both,€600k,2020
+190,Zhan-Ali Payruz,Shakhter Karaganda,Left Winger,70,"Aug 12, 1999 (20)",,"1,85m",right,€400k,2020
+191,Georgiy Zakharenko,Shakhter Karaganda,Left Winger,-,"Jan 12, 1998 (21)",,"1,78m",right,€25k,2020
+192,Rudolf Wagner,Shakhter Karaganda,Left Winger,-,"Jun 13, 2001 (18)",,"1,77m",left,-,2020
+193,Bakytzhan Kuanyshbekov,Shakhter Karaganda,Left Winger,-,"Jul 3, 2002 (17)",,"1,75m",left,-,2020
+194,Maksim Galkin,Shakhter Karaganda,Left Winger,54,"Jul 12, 1999 (20)",,"1,73m",right,-,2020
+195,Ziguy Badibanga,Shakhter Karaganda,Right Winger,39,"Nov 26, 1991 (28)",,"1,72m",right,€1.00m,2020
+196,Arsen Khubulov,Shakhter Karaganda,Right Winger,88,"Dec 13, 1990 (29)",,"1,81m",right,€400k,2020
+197,Pavel Kriventsev,Shakhter Karaganda,Right Winger,17,"Jan 16, 1996 (23)",,"1,79m",both,€300k,2020
+198,Joseph Oma Adah,Shakhter Karaganda,Right Winger,-,"Jun 8, 1999 (20)",,"1,76m",right,€200k,2020
+199,Damir Bitusupov,Shakhter Karaganda,Right Winger,-,"Mar 21, 2000 (19)",,"1,70m",right,€50k,2020
+200,Alshin Bayzakhov,Shakhter Karaganda,Right Winger,49,"May 17, 1999 (20)",,"1,79m",,-,2020
+201,Kirill Lavrenyuk,Shakhter Karaganda,Right Winger,83,"Aug 9, 2003 (16)",,"1,72m",both,-,2020
+202,Martin Toshev,Shakhter Karaganda,Centre-Forward,21,"Apr 17, 1990 (29)",,"1,84m",right,€500k,2020
+203,Idris Umaev,Shakhter Karaganda,Centre-Forward,10,"Jan 15, 1999 (20)",,"1,74m",right,€400k,2020
+204,Oralkhan Omirtaev,Shakhter Karaganda,Centre-Forward,19,"Jul 16, 1998 (21)",,"1,87m",right,€350k,2020
+205,Aydos Tattybaev,Shakhter Karaganda,Centre-Forward,9,"Apr 26, 1990 (29)",,"1,86m",right,€300k,2020
+206,Evgeniy Pavlov,Shakhter Karaganda,Centre-Forward,91,"Mar 12, 1991 (28)",,"1,91m",right,€200k,2020
+207,Evgeniy Shikavka,Shakhter Karaganda,Centre-Forward,99,"Oct 15, 1992 (27)",,"1,85m",right,€200k,2020
+208,Aramis Kouzine,Shakhter Karaganda,Centre-Forward,24,"Oct 3, 1998 (21)",,"1,89m",right,€75k,2020
+209,Ivan Sviridov,Shakhter Karaganda,Centre-Forward,22,"Jun 28, 2002 (17)",,"1,84m",both,€50k,2020
+210,Shyngys Flyuk,Shakhter Karaganda,Centre-Forward,-,"Dec 28, 2001 (18)",,"1,78m",left,-,2020
+211,Andrey Giorgiadi,Shakhter Karaganda,Striker,-,"Jun 21, 2003 (16)",,-,,-,2020
+212,Andrey Georgiadi,Shakhter Karaganda,Centre-Forward,42,"Jun 21, 2003 (16)",,"1,65m",,-,2020
+213,Kirill Novikov,Shakhter Karaganda,Striker,56,"Apr 9, 2002 (17)",,-,,-,2020
+214,Timur Mukhametzhanov,Shakhter Karaganda,Centre-Forward,98,"Apr 8, 2003 (16)",,"1,86m",,-,2020
+215,Mukhammedzhan Seysen,FK Taraz,Goalkeeper,74,"Feb 14, 1999 (20)",,"1,90m",right,€400k,2020
+216,Dzhurakhon Babakhanov,FK Taraz,Goalkeeper,24,"Oct 31, 1991 (28)",,"1,90m",right,€150k,2020
+217,Almaz Khamytbekov,FK Taraz,Goalkeeper,1,"Sep 29, 1991 (28)",,"1,88m",right,€50k,2020
+218,Stanislav Shcherbakov,FK Taraz,Goalkeeper,31,"Jun 12, 2000 (19)",,"1,81m",right,-,2020
+219,Eldos Akhmetov,FK Taraz,Centre-Back,2,"Jun 1, 1990 (29)",,"1,87m",right,€500k,2020
+220,Berik Aytbaev,FK Taraz,Centre-Back,14,"Jun 26, 1991 (28)",,"1,84m",right,€300k,2020
+221,Faith Obilor,FK Taraz,Centre-Back,72,"Mar 5, 1991 (28)",,"1,89m",right,€300k,2020
+222,Madiyar Nuraly,FK Taraz,Centre-Back,-,"Jan 20, 1995 (24)",,"1,78m",right,€200k,2020
+223,Kurmet Karaman,FK Taraz,Centre-Back,77,"Aug 2, 1995 (24)",,"1,79m",right,€100k,2020
+224,Ermek Abdulla,FK Taraz,Centre-Back,-,"Jan 21, 2003 (16)",,"1,81m",right,-,2020
+225,Zhalgas Zhaksylykov,FK Taraz,Centre-Back,3,"Apr 16, 2001 (18)",,"1,89m",right,-,2020
+226,Timur Dosmagambetov,FK Taraz,Left-Back,-,"May 1, 1989 (30)",,"1,72m",left,€900k,2020
+227,Berik Shaykhov,FK Taraz,Left-Back,6,"Feb 20, 1994 (25)",,"1,70m",left,€500k,2020
+228,Dmitriy Evstigneev,FK Taraz,Left-Back,27,"Nov 21, 1986 (33)",,"1,81m",left,€50k,2020
+229,Ermek Kuantaev,FK Taraz,Right-Back,61,"Oct 13, 1990 (29)",,"1,74m",both,€600k,2020
+230,Maksat Amirkhanov,FK Taraz,Right-Back,20,"Feb 10, 1992 (27)",,"1,72m",right,€400k,2020
+231,Adilet Kenesbek,FK Taraz,Right-Back,5,"Jan 5, 1996 (23)",,"1,80m",right,€75k,2020
+232,Almas Sapargaliev,FK Taraz,Defensive Midfield,23,"Nov 16, 1993 (26)",,"1,83m",right,€50k,2020
+233,Marat Shakhmetov,FK Taraz,Central Midfield,22,"Feb 6, 1989 (30)",,"1,82m",right,€550k,2020
+234,Abzal Taubay,FK Taraz,Central Midfield,7,"Feb 18, 1995 (24)",,"1,75m",right,€350k,2020
+235,Kódjo Alphonse,FK Taraz,Central Midfield,63,"May 28, 1993 (26)",,"1,80m",both,€350k,2020
+236,Ersultan Kaldybekov,FK Taraz,Central Midfield,88,"Jan 12, 2002 (17)",,"1,85m",both,-,2020
+237,Nenad Adamovic,FK Taraz,Attacking Midfield,38,"Jan 12, 1989 (30)",,"1,70m",right,€600k,2020
+238,Bauyrzhan Baytana,FK Taraz,Attacking Midfield,10,"May 6, 1992 (27)",,"1,74m",both,€225k,2020
+239,Alisher Suley,FK Taraz,Left Winger,9,"Nov 1, 1995 (24)",,"1,78m",right,€400k,2020
+240,Arman Nusip,FK Taraz,Left Winger,-,"Jan 22, 1994 (25)",,"1,80m",right,€225k,2020
+241,Gavril Kan,FK Taraz,Left Winger,11,"Jan 10, 1999 (20)",,"1,75m",right,€75k,2020
+242,Muslim Zhumat,FK Taraz,Left Winger,-,"Mar 2, 2004 (15)",,"1,70m",right,-,2020
+243,Erkebulan Toybekov,FK Taraz,Left Winger,17,"Jun 25, 2002 (17)",,"1,80m",both,-,2020
+244,Eri,FK Taraz,Right Winger,-,"Feb 8, 1994 (25)",,"1,78m",right,€350k,2020
+245,Pedro Eugénio,FK Taraz,Right Winger,33,"Jun 26, 1990 (29)",,"1,72m",right,€350k,2020
+246,Zhakyp Kozhamberdy,FK Taraz,Right Winger,8,"Feb 26, 1992 (27)",,"1,83m",left,€200k,2020
+247,Dinmukhamed Karaman,FK Taraz,Right Winger,18,"Jun 26, 2000 (19)",,"1,78m",right,€125k,2020
+248,Ulan Konysbaev,FK Taraz,Right Winger,-,"May 28, 1989 (30)",,"1,75m",right,€100k,2020
+249,Uros Nenadovic,FK Taraz,Centre-Forward,-,"Jan 28, 1994 (25)",,"1,85m",right,€225k,2020
+250,Abylaykhan Zhumabek,FK Taraz,Centre-Forward,19,"Oct 19, 2001 (18)",,"1,87m",right,€50k,2020
+251,Marko Milosevic,Kaspiy Aktau,Goalkeeper,91,"Feb 7, 1991 (28)",,"1,87m",right,€400k,2020
+252,Nurlybek Ayazbaev,Kaspiy Aktau,Goalkeeper,1,"Jan 24, 1991 (28)",,"1,83m",right,€150k,2020
+253,Olzhas Mukhanov,Kaspiy Aktau,Goalkeeper,35,"Oct 27, 1997 (22)",,"1,86m",right,€150k,2020
+254,Taras Bondarenko,Kaspiy Aktau,Centre-Back,14,"Sep 23, 1992 (27)",,"1,87m",right,€900k,2020
+255,Stefan Bukorac,Kaspiy Aktau,Centre-Back,8,"Feb 15, 1991 (28)",,"1,93m",right,€400k,2020
+256,Talgat Kusyapov,Kaspiy Aktau,Centre-Back,22,"Feb 14, 1999 (20)",,"1,86m",left,€250k,2020
+257,Aleksey Zaleskiy,Kaspiy Aktau,Centre-Back,6,"Oct 7, 1994 (25)",,"1,89m",right,€200k,2020
+258,Amandyk Nabikhanov,Kaspiy Aktau,Centre-Back,23,"Nov 9, 1997 (22)",,"1,83m",right,€200k,2020
+259,Ilya Vorotnikov,Kaspiy Aktau,Centre-Back,33,"Feb 1, 1986 (33)",,"1,86m",right,€150k,2020
+260,Niyaz Shugaev,Kaspiy Aktau,Left-Back,98,"Sep 14, 1998 (21)",,"1,80m",right,€300k,2020
+261,Maksat Taykenov,Kaspiy Aktau,Left-Back,19,"Aug 14, 1997 (22)",,"1,69m",left,€25k,2020
+262,Anuar Bekmyrza,Kaspiy Aktau,Left-Back,25,"May 7, 2001 (18)",,"1,75m",left,-,2020
+263,Ruslan Zhanysbaev,Kaspiy Aktau,Right-Back,17,"Nov 4, 1995 (24)",,"1,78m",right,€150k,2020
+264,Milos Stanojevic,Kaspiy Aktau,Defensive Midfield,-,"Nov 20, 1993 (26)",,"1,87m",right,€700k,2020
+265,Miras Tuliev,Kaspiy Aktau,Defensive Midfield,5,"Aug 30, 1994 (25)",,"1,78m",right,€175k,2020
+266,Maksim Gladchenko,Kaspiy Aktau,Defensive Midfield,21,"Apr 19, 1997 (22)",,"1,80m",right,€75k,2020
+267,Aslan Darabaev,Kaspiy Aktau,Central Midfield,11,"Jan 21, 1989 (30)",,"1,79m",right,€600k,2020
+268,Chafik Tigroudja,Kaspiy Aktau,Central Midfield,48,"Jan 16, 1992 (27)",,"1,76m",left,€300k,2020
+269,Bekzat Kabylan,Kaspiy Aktau,Central Midfield,7,"Mar 3, 1996 (23)",,"1,62m",right,€150k,2020
+270,Kuandyk Nursultanov,Kaspiy Aktau,Central Midfield,-,"Apr 24, 1999 (20)",,"1,75m",right,€100k,2020
+271,Nikola Cuckic,Kaspiy Aktau,Attacking Midfield,24,"Apr 11, 1997 (22)",,"1,75m",right,€200k,2020
+272,Ruslan Sakhalbaev,Kaspiy Aktau,Attacking Midfield,13,"Jun 27, 1984 (35)",,"1,68m",right,€100k,2020
+273,Wajdi Sahli,Kaspiy Aktau,Attacking Midfield,77,"Apr 17, 1997 (22)",,"1,83m",right,€75k,2020
+274,Ruslan Mingazov,Kaspiy Aktau,Left Winger,9,"Nov 23, 1991 (28)",,"1,73m",both,€650k,2020
+275,Nenad Gavric,Kaspiy Aktau,Left Winger,-,"Dec 12, 1991 (28)",,"1,76m",right,€400k,2020
+276,Zhan-Ali Payruz,Kaspiy Aktau,Left Winger,-,"Aug 12, 1999 (20)",,"1,85m",right,€400k,2020
+277,Arman Nusip,Kaspiy Aktau,Left Winger,47,"Jan 22, 1994 (25)",,"1,80m",right,€225k,2020
+278,David Karaev,Kaspiy Aktau,Centre-Forward,15,"Mar 10, 1995 (24)",,"1,79m",right,€275k,2020
+279,Vladimir Khvashchinskiy,Kaspiy Aktau,Centre-Forward,-,"May 10, 1990 (29)",,"1,79m",left,€250k,2020
+280,Ramazan Karimov,Kaspiy Aktau,Centre-Forward,81,"Jul 5, 1999 (20)",,"1,90m",right,€150k,2020
+281,Almas Armenov,Kaspiy Aktau,Centre-Forward,10,"Jan 27, 1992 (27)",,"1,70m",left,€75k,2020
+282,Sergiy Litovchenko,Akzhayik Uralsk,Goalkeeper,1,"Oct 4, 1987 (32)",,"1,92m",left,€250k,2020
+283,Ilya Karavaev,Akzhayik Uralsk,Goalkeeper,16,"May 4, 1995 (24)",,"1,86m",right,€125k,2020
+284,Stefan Sicaci,Akzhayik Uralsk,Goalkeeper,-,"Sep 8, 1988 (31)",,"1,96m",right,€100k,2020
+285,Artur Syusyukin,Akzhayik Uralsk,Goalkeeper,69,"Mar 13, 2001 (18)",,"1,80m",,-,2020
+286,Artem Baranovskyi,Akzhayik Uralsk,Centre-Back,4,"Mar 17, 1990 (29)",,"1,90m",right,€750k,2020
+287,Vitaliy Pryndeta,Akzhayik Uralsk,Centre-Back,-,"Feb 2, 1993 (26)",,"1,97m",right,€250k,2020
+288,Sergey Shustikov,Akzhayik Uralsk,Centre-Back,6,"Mar 5, 1989 (30)",,"1,88m",right,€200k,2020
+289,Miram Sapanov,Akzhayik Uralsk,Centre-Back,13,"Mar 12, 1986 (33)",,"1,83m",right,€200k,2020
+290,Vladimir Pokatilov,Akzhayik Uralsk,Centre-Back,5,"Dec 8, 1992 (27)",,"1,92m",right,€100k,2020
+291,Roman Bozhko,Akzhayik Uralsk,Centre-Back,-,"Aug 13, 2002 (17)",,"1,90m",,-,2020
+292,Soslan Takulov,Akzhayik Uralsk,Left-Back,28,"Apr 28, 1995 (24)",,"1,78m",left,€200k,2020
+293,Bauyrzhan Omarov,Akzhayik Uralsk,Left-Back,14,"Aug 3, 1990 (29)",,"1,81m",left,€150k,2020
+294,Erkin Tapalov,Akzhayik Uralsk,Right-Back,10,"Sep 3, 1993 (26)",,"1,79m",right,€400k,2020
+295,Ruslan Khairov,Akzhayik Uralsk,Right-Back,18,"Jan 18, 1990 (29)",,"1,74m",right,€250k,2020
+296,Pavel Nazarenko,Akzhayik Uralsk,Right-Back,19,"Jan 20, 1995 (24)",,"1,74m",right,€200k,2020
+297,Eldar Abdrakhmanov,Akzhayik Uralsk,Right-Back,77,"Jan 16, 1987 (32)",,"1,75m",right,€150k,2020
+298,Evgeniy Yatskiy,Akzhayik Uralsk,Defensive Midfield,7,"Mar 26, 1997 (22)",,"1,84m",right,€175k,2020
+299,Mikhail Gashchenkov,Akzhayik Uralsk,Central Midfield,-,"Jun 19, 1992 (27)",,"1,74m",left,€600k,2020
+300,Magomed Paragulgov,Akzhayik Uralsk,Central Midfield,33,"Mar 26, 1994 (25)",,"1,81m",right,€300k,2020
+301,Nauryzbek Zhagorov,Akzhayik Uralsk,Central Midfield,21,"Mar 1, 1998 (21)",,"1,77m",right,€225k,2020
+302,Vyacheslav Shvyrev,Akzhayik Uralsk,Attacking Midfield,11,"Jan 7, 2001 (18)",,"1,76m",right,€350k,2020
+303,Marat Buraev,Akzhayik Uralsk,Attacking Midfield,71,"Oct 22, 1995 (24)",,"1,64m",right,€150k,2020
+304,Luka Imnadze,Akzhayik Uralsk,Left Winger,-,"Aug 26, 1997 (22)",,"1,84m",right,€150k,2020
+305,Adilet Bulatov,Akzhayik Uralsk,Left Winger,20,"Aug 18, 1998 (21)",,"1,76m",,€150k,2020
+306,Rysbek Konyrov,Akzhayik Uralsk,Left Winger,15,"Jul 22, 2002 (17)",,"1,86m",left,-,2020
+307,Ardak Saulet,Akzhayik Uralsk,Right Winger,12,"Jan 12, 1997 (22)",,"1,69m",right,€325k,2020
+308,Oleksiy Chychykov,Akzhayik Uralsk,Right Winger,23,"Sep 30, 1987 (32)",,"1,82m",both,€300k,2020
+309,Ivan Antipov,Akzhayik Uralsk,Right Winger,96,"Jan 14, 1996 (23)",,"1,82m",right,€300k,2020
+310,Evgeniy Kozlov,Akzhayik Uralsk,Right Winger,17,"Feb 4, 1995 (24)",,"1,78m",left,€50k,2020
+311,Reginaldo,Akzhayik Uralsk,Centre-Forward,-,"Jun 4, 1990 (29)",,"1,82m",right,€550k,2020
+312,Mykola Kovtalyuk,Akzhayik Uralsk,Centre-Forward,22,"Apr 26, 1995 (24)",,"1,91m",right,€350k,2020
+313,Dmitriy Michurenkov,Akzhayik Uralsk,Centre-Forward,9,"May 19, 1995 (24)",,"1,90m",right,€250k,2020
+314,Stas Pokatilov,Kairat Almaty,Goalkeeper,1,"Dec 8, 1992 (27)",,"1,90m",right,€1.70m,2020
+315,Danil Ustimenko,Kairat Almaty,Goalkeeper,30,"Aug 8, 2000 (19)",,"1,90m",right,€125k,2020
+316,Dinmukhammed Zhomart,Kairat Almaty,Goalkeeper,31,"Dec 6, 2000 (19)",,"1,88m",right,€75k,2020
+317,Vladimir Biryukov,Kairat Almaty,Goalkeeper,-,"Feb 18, 2002 (17)",,"1,86m",,-,2020
+318,Nikita Pivkin,Kairat Almaty,Goalkeeper,-,"Mar 24, 2003 (16)",,"1,92m",right,-,2020
+319,Temirlan Anarbekov,Kairat Almaty,Goalkeeper,72,"Oct 14, 2003 (16)",,"1,89m",left,-,2020
+320,Rade Dugalic,Kairat Almaty,Centre-Back,20,"Nov 5, 1992 (27)",,"1,94m",right,€1.60m,2020
+321,Denis Polyakov,Kairat Almaty,Centre-Back,33,"Apr 17, 1991 (28)",,"1,84m",right,€1.20m,2020
+322,Nuraly Alip,Kairat Almaty,Centre-Back,4,"Dec 22, 1999 (20)",,"1,88m",left,€1.00m,2020
+323,Macky Bagnack,Kairat Almaty,Centre-Back,-,"Jun 7, 1995 (24)",,"1,87m",both,€800k,2020
+324,Ravil Ibragimov,Kairat Almaty,Centre-Back,-,"Dec 25, 2000 (19)",,"1,86m",left,€50k,2020
+325,Vladislav Kravchenko,Kairat Almaty,Centre-Back,-,"Apr 15, 2003 (16)",,"1,83m",left,-,2020
+326,Aleksandr Shirobokov,Kairat Almaty,Centre-Back,75,"Jan 2, 2003 (16)",,"1,84m",right,-,2020
+327,Gafurzhan Suyumbaev,Kairat Almaty,Left-Back,5,"Aug 19, 1990 (29)",,"1,75m",left,€1.60m,2020
+328,Yan Vorogovskiy,Kairat Almaty,Left-Back,-,"Aug 7, 1996 (23)",,"1,82m",left,€750k,2020
+329,Sergey Keiler,Kairat Almaty,Left-Back,3,"Nov 8, 1994 (25)",,"1,80m",left,€300k,2020
+330,Dino Mikanovic,Kairat Almaty,Right-Back,24,"May 7, 1994 (25)",,"1,74m",right,€1.70m,2020
+331,Kamo Hovhannisyan,Kairat Almaty,Right-Back,13,"Oct 5, 1992 (27)",,"1,76m",right,€1.00m,2020
+332,Sultanbek Astanov,Kairat Almaty,Right-Back,17,"Mar 23, 1999 (20)",,"1,79m",right,€300k,2020
+333,Abdulla Shen,Kairat Almaty,Right-Back,-,"Jan 30, 2002 (17)",,"1,75m",right,-,2020
+334,Aleksandr Mrynskiy,Kairat Almaty,Right-Back,-,"Jul 15, 2004 (15)",,"1,77m",right,-,2020
+335,Egor Tkachenko,Kairat Almaty,Right-Back,76,"Apr 15, 2003 (16)",,"1,83m",right,-,2020
+336,Jacek Goralski,Kairat Almaty,Defensive Midfield,6,"Sep 21, 1992 (27)",,"1,72m",right,€3.00m,2020
+337,Aybol Abiken,Kairat Almaty,Defensive Midfield,8,"Jun 1, 1996 (23)",,"1,79m",right,€1.30m,2020
+338,Sagi Anet,Kairat Almaty,Defensive Midfield,-,"Feb 26, 2002 (17)",,"1,69m",right,-,2020
+339,Nazar Al-Khadzh,Kairat Almaty,Defensive Midfield,-,"Jan 28, 2004 (15)",,"1,69m",left,-,2020
+340,Adilet Sadybekov,Kairat Almaty,Defensive Midfield,-,"May 26, 2002 (17)",,"1,86m",right,-,2020
+341,Ricardo Alves,Kairat Almaty,Central Midfield,-,"Mar 25, 1993 (26)",,"1,84m",left,€1.20m,2020
+342,Nebojsa Kosovic,Kairat Almaty,Central Midfield,22,"Feb 24, 1995 (24)",,"1,77m",right,€600k,2020
+343,Adam Adakhadzhiev,Kairat Almaty,Central Midfield,14,"Nov 23, 1998 (21)",,"1,76m",right,€150k,2020
+344,Andrey Ulshin,Kairat Almaty,Central Midfield,23,"Apr 18, 2000 (19)",,"1,84m",left,€50k,2020
+345,Arsen Buranchiev,Kairat Almaty,Central Midfield,46,"Sep 12, 2001 (18)",,"1,82m",left,€25k,2020
+346,Alibek Zhumabek,Kairat Almaty,Central Midfield,-,"Feb 8, 2002 (17)",,"1,67m",both,-,2020
+347,Miras Kobeev,Kairat Almaty,Central Midfield,-,"Jun 9, 2004 (15)",,"1,71m",right,-,2020
+348,Miras Omatay,Kairat Almaty,Central Midfield,-,"Jun 30, 2004 (15)",,"1,76m",both,-,2020
+349,Daniyar Usenov,Kairat Almaty,Attacking Midfield,29,"Feb 18, 2001 (18)",,"1,81m",left,-,2020
+350,Gulzhigit Alykulov,Kairat Almaty,Left Winger,7,"Nov 25, 2000 (19)",,"1,69m",right,€400k,2020
+351,Darkhan Medelkhan,Kairat Almaty,Left Winger,-,"Aug 14, 2001 (18)",,"1,70m",,€25k,2020
+352,Galymzhan Kenzhebek,Kairat Almaty,Left Winger,-,"Feb 12, 2003 (16)",,"1,77m",right,-,2020
+353,Konrad Wrzesinski,Kairat Almaty,Right Winger,-,"Sep 10, 1993 (26)",,"1,77m",right,€1.00m,2020
+354,Erkebulan Tungyshbaev,Kairat Almaty,Right Winger,21,"Jan 14, 1995 (24)",,"1,82m",right,€800k,2020
+355,Erkebulan Seydakhmet,Kairat Almaty,Right Winger,28,"Feb 4, 2000 (19)",,"1,78m",right,€400k,2020
+356,Nurgeldy Toleukhanov,Kairat Almaty,Right Winger,-,"Nov 8, 2003 (16)",,"1,74m",right,-,2020
+357,Aderinsola Habib Eseola,Kairat Almaty,Centre-Forward,11,"Jun 28, 1991 (28)",,"1,88m",right,€3.20m,2020
+358,Streli Mamba,Kairat Almaty,Centre-Forward,10,"Jun 17, 1994 (25)",,"1,77m",right,€2.00m,2020
+359,João Paulo,Kairat Almaty,Centre-Forward,-,"Jun 2, 1988 (31)",,"1,67m",right,€1.80m,2020
+360,Vágner Love,Kairat Almaty,Centre-Forward,9,"Jun 11, 1984 (35)",,"1,72m",right,€1.30m,2020
+361,Abat Aymbetov,Kairat Almaty,Centre-Forward,-,"Aug 7, 1995 (24)",,"1,84m",right,€900k,2020
+362,José Kanté,Kairat Almaty,Centre-Forward,18,"Sep 27, 1990 (29)",,"1,84m",right,€400k,2020
+363,Artur Shushenachev,Kairat Almaty,Centre-Forward,19,"Apr 7, 1998 (21)",,"1,90m",right,€200k,2020
+364,Alisher Rakhimzhanov,Kairat Almaty,Centre-Forward,-,"Dec 28, 2003 (16)",,"1,76m",right,-,2020
+365,Denis Mitrofanov,Kairat Almaty,Centre-Forward,35,"Jan 9, 2002 (17)",,"1,84m",right,-,2020
+366,Igor Trofimets,Ordabasy Shymkent,Goalkeeper,42,"Aug 20, 1996 (23)",,"1,94m",right,€250k,2020
+367,Vladimir Plotnikov,Ordabasy Shymkent,Goalkeeper,86,"Apr 3, 1986 (33)",,"1,91m",right,€200k,2020
+368,Timurbek Zakirov,Ordabasy Shymkent,Goalkeeper,-,"Mar 1, 1996 (23)",,"1,89m",right,€150k,2020
+369,Bekkhan Shayzada,Ordabasy Shymkent,Goalkeeper,1,"Feb 28, 1998 (21)",,"1,88m",right,€125k,2020
+370,Gaziz Kaltore,Ordabasy Shymkent,Goalkeeper,-,"Jul 11, 2001 (18)",,-,,-,2020
+371,Ayan Abdukhalyk,Ordabasy Shymkent,Goalkeeper,-,"May 15, 2004 (15)",,"1,78m",,-,2020
+372,Viktor Dmitrenko,Ordabasy Shymkent,Centre-Back,4,"Apr 4, 1991 (28)",,"1,90m",right,€1.20m,2020
+373,Temirlan Erlanov,Ordabasy Shymkent,Centre-Back,8,"Jul 9, 1993 (26)",,"1,90m",right,€1.10m,2020
+374,Aleksandr Kleshchenko,Ordabasy Shymkent,Centre-Back,24,"Nov 2, 1995 (24)",,"1,87m",left,€800k,2020
+375,Pablo Fontanello,Ordabasy Shymkent,Centre-Back,29,"Sep 26, 1984 (35)",,"1,93m",both,€700k,2020
+376,Damir Dautov,Ordabasy Shymkent,Centre-Back,5,"Mar 3, 1990 (29)",,"1,87m",right,€250k,2020
+377,Karam Sultanov,Ordabasy Shymkent,Centre-Back,-,"Apr 15, 1996 (23)",,"1,95m",right,€175k,2020
+378,Kanat Ashirbay,Ordabasy Shymkent,Centre-Back,-,"Apr 9, 1994 (25)",,"1,89m",right,-,2020
+379,Timur Dosmagambetov,Ordabasy Shymkent,Left-Back,27,"May 1, 1989 (30)",,"1,72m",left,€900k,2020
+380,Sagadat Tursynbay,Ordabasy Shymkent,Left-Back,13,"Mar 26, 1999 (20)",,"1,88m",left,€250k,2020
+381,Aydos Mamirbaev,Ordabasy Shymkent,Left-Back,-,"Dec 23, 2001 (18)",,-,,-,2020
+382,Bagdat Kairov,Ordabasy Shymkent,Right-Back,17,"Apr 27, 1993 (26)",,"1,78m",right,€400k,2020
+383,Aleksandar Simčević,Ordabasy Shymkent,Right-Back,87,"Feb 15, 1987 (32)",,"1,88m",both,€400k,2020
+384,Sultanbek Astanov,Ordabasy Shymkent,Right-Back,-,"Mar 23, 1999 (20)",,"1,79m",right,€300k,2020
+385,Samat Shamshi,Ordabasy Shymkent,Right-Back,14,"Feb 5, 1996 (23)",,"1,78m",right,€250k,2020
+386,Asludin Khadzhiev,Ordabasy Shymkent,Right-Back,28,"Oct 24, 2000 (19)",,"1,66m",right,€100k,2020
+387,Talgat Adyrbekov,Ordabasy Shymkent,Right-Back,44,"Jan 26, 1989 (30)",,"1,78m",right,€100k,2020
+388,Abdoulaye Diakhate,Ordabasy Shymkent,Defensive Midfield,22,"Jan 16, 1988 (31)",,"1,81m",right,€1.50m,2020
+389,May Mahlangu,Ordabasy Shymkent,Central Midfield,7,"May 1, 1989 (30)",,"1,73m",both,€1.30m,2020
+390,Chidi Osuchukwu,Ordabasy Shymkent,Central Midfield,23,"Oct 11, 1993 (26)",,"1,76m",left,€350k,2020
+391,Rakhat Usipkhanov,Ordabasy Shymkent,Central Midfield,-,"Apr 19, 2001 (18)",,"1,80m",,-,2020
+392,Murodzhon Khalmatov,Ordabasy Shymkent,Central Midfield,78,"Jul 20, 2003 (16)",,"1,79m",both,-,2020
+393,Mirzad Mehanovic,Ordabasy Shymkent,Attacking Midfield,10,"Jan 5, 1993 (26)",,"1,75m",left,€800k,2020
+394,Erik Zharylkasyn,Ordabasy Shymkent,Attacking Midfield,-,"Aug 23, 2001 (18)",,"1,62m",,-,2020
+395,Rúben Brígido,Ordabasy Shymkent,Left Winger,11,"Jun 23, 1991 (28)",,"1,72m",both,€450k,2020
+396,Maksim Vaganov,Ordabasy Shymkent,Left Winger,-,"Aug 8, 2000 (19)",,"1,83m",,€100k,2020
+397,Elkhan Astanov,Ordabasy Shymkent,Left Winger,-,"May 21, 2000 (19)",,"1,86m",right,€50k,2020
+398,Batyrkhan Tazhibay,Ordabasy Shymkent,Left Winger,-,"Aug 7, 2001 (18)",,"1,74m",right,-,2020
+399,Shadman Bakirov,Ordabasy Shymkent,Left Winger,-,"Jul 23, 2001 (18)",,"1,73m",,-,2020
+400,Ziguy Badibanga,Ordabasy Shymkent,Right Winger,39,"Nov 26, 1991 (28)",,"1,72m",right,€1.00m,2020
+401,Erkebulan Tungyshbaev,Ordabasy Shymkent,Right Winger,21,"Jan 14, 1995 (24)",,"1,82m",right,€800k,2020
+402,Mukhammadzhon Rakhimov,Ordabasy Shymkent,Right Winger,-,"Oct 15, 1998 (21)",,"1,79m",both,€150k,2020
+403,Zhavlanbek Babanazarov,Ordabasy Shymkent,Right Winger,-,"Feb 12, 2001 (18)",,"1,79m",right,-,2020
+404,Zikrillo Sultaniyazov,Ordabasy Shymkent,Right Winger,25,"Oct 15, 2003 (16)",,"1,82m",right,-,2020
+405,João Paulo,Ordabasy Shymkent,Centre-Forward,37,"Jun 2, 1988 (31)",,"1,67m",right,€1.80m,2020
+406,Toktar Zhangylyshbay,Ordabasy Shymkent,Centre-Forward,20,"May 25, 1993 (26)",,"1,89m",right,€900k,2020
+407,Dmytro Khlyobas,Ordabasy Shymkent,Centre-Forward,-,"May 9, 1994 (25)",,"1,78m",right,€700k,2020
+408,Sergey Khizhnichenko,Ordabasy Shymkent,Centre-Forward,91,"Jul 17, 1991 (28)",,"1,87m",right,€450k,2020
+409,Bagdat Zhienbay,Ordabasy Shymkent,Centre-Forward,-,"Oct 26, 2000 (19)",,"1,75m",right,-,2020
+410,Marsel Islamkulov,Kaysar Kyzylorda,Goalkeeper,71,"Apr 18, 1994 (25)",,"1,88m",right,€300k,2020
+411,Aleksandr Zarutskiy,Kaysar Kyzylorda,Goalkeeper,1,"Aug 26, 1993 (26)",,"1,92m",right,€200k,2020
+412,Artem Potapov,Kaysar Kyzylorda,Goalkeeper,21,"Jun 28, 1994 (25)",,"1,90m",right,€200k,2020
+413,Nurimzhan Salaydin,Kaysar Kyzylorda,Goalkeeper,34,"Oct 27, 1995 (24)",,"1,79m",right,€50k,2020
+414,Nurmat Sarsenov,Kaysar Kyzylorda,Goalkeeper,-,"Jan 19, 2003 (16)",,"1,91m",right,-,2020
+415,Ivan Graf,Kaysar Kyzylorda,Defender,55,"Jun 17, 1987 (32)",,"1,94m",right,€400k,2020
+416,Aleksandr Marochkin,Kaysar Kyzylorda,Centre-Back,22,"Jul 14, 1990 (29)",,"1,91m",right,€1.00m,2020
+417,Bekzat Shadmanov,Kaysar Kyzylorda,Centre-Back,6,"Aug 12, 1997 (22)",,"1,89m",right,€500k,2020
+418,Ousmane N'Diaye,Kaysar Kyzylorda,Centre-Back,16,"Aug 19, 1991 (28)",,"1,86m",right,€500k,2020
+419,Mark Gurman,Kaysar Kyzylorda,Centre-Back,14,"Feb 9, 1989 (30)",,"1,79m",right,€350k,2020
+420,Mikhail Mishchenko,Kaysar Kyzylorda,Centre-Back,-,"Jun 27, 1989 (30)",,"1,88m",left,€250k,2020
+421,Ular Zhaksybaev,Kaysar Kyzylorda,Centre-Back,-,"Oct 20, 1994 (25)",,"1,80m",right,€200k,2020
+422,Timur Rudoselskiy,Kaysar Kyzylorda,Centre-Back,23,"Dec 21, 1994 (25)",,"1,93m",right,€200k,2020
+423,Olzhas Altaev,Kaysar Kyzylorda,Centre-Back,-,"Jul 15, 1989 (30)",,"1,84m",right,€100k,2020
+424,Egor Potapov,Kaysar Kyzylorda,Centre-Back,5,"Sep 21, 1993 (26)",,"1,94m",right,€100k,2020
+425,Dinmukhammed Kashken,Kaysar Kyzylorda,Centre-Back,61,"Jan 4, 2000 (19)",,"1,87m",right,€100k,2020
+426,Elzhas Sarbay,Kaysar Kyzylorda,Centre-Back,2,"Jul 24, 1998 (21)",,"1,80m",right,€75k,2020
+427,Abylaykhan Tolegenov,Kaysar Kyzylorda,Centre-Back,3,"Jul 13, 1992 (27)",,"1,84m",right,-,2020
+428,Ilyas Amirseitov,Kaysar Kyzylorda,Right-Back,13,"Oct 22, 1989 (30)",,"1,79m",right,€600k,2020
+429,Bagdat Kairov,Kaysar Kyzylorda,Right-Back,-,"Apr 27, 1993 (26)",,"1,78m",right,€400k,2020
+430,Sergey Karpovich,Kaysar Kyzylorda,Right-Back,24,"Mar 29, 1994 (25)",,"1,82m",right,€350k,2020
+431,Ayan Kulmaganbetov,Kaysar Kyzylorda,Right-Back,-,"Nov 11, 2000 (19)",,"1,78m",right,-,2020
+432,Duman Narzildaev,Kaysar Kyzylorda,Defensive Midfield,10,"Sep 6, 1993 (26)",,"1,78m",right,€800k,2020
+433,Clarence Bitang,Kaysar Kyzylorda,Defensive Midfield,19,"Sep 2, 1992 (27)",,"1,72m",right,€300k,2020
+434,Jovan Cadjenovic,Kaysar Kyzylorda,Defensive Midfield,20,"Jan 13, 1995 (24)",,"1,84m",right,€200k,2020
+435,Aybol Zhakhaev,Kaysar Kyzylorda,Defensive Midfield,96,"Dec 15, 1996 (23)",,"1,78m",left,€75k,2020
+436,Bekzat Kurmanbekuly,Kaysar Kyzylorda,Defensive Midfield,17,"Apr 14, 2000 (19)",,"1,78m",right,-,2020
+437,Askhat Tagybergen,Kaysar Kyzylorda,Central Midfield,8,"Aug 9, 1990 (29)",,"1,79m",right,€1.00m,2020
+438,Maksat Bayzhanov,Kaysar Kyzylorda,Central Midfield,11,"Aug 6, 1984 (35)",,"1,80m",right,€150k,2020
+439,Samat Balymbetov,Kaysar Kyzylorda,Central Midfield,-,"Apr 10, 1994 (25)",,"1,79m",right,€100k,2020
+440,Aleksandar Stanisavljevic,Kaysar Kyzylorda,Attacking Midfield,39,"Jun 11, 1989 (30)",,"1,81m",both,€600k,2020
+441,Arman Kenesov,Kaysar Kyzylorda,Attacking Midfield,80,"Sep 4, 2000 (19)",,"1,72m",left,€200k,2020
+442,Stefan Denkovic,Kaysar Kyzylorda,Left Winger,27,"Jun 16, 1991 (28)",,"1,84m",right,€700k,2020
+443,Gegam Kadimyan,Kaysar Kyzylorda,Left Winger,7,"Oct 19, 1992 (27)",,"1,84m",right,€175k,2020
+444,Maksim Fedin,Kaysar Kyzylorda,Right Winger,-,"Jun 8, 1996 (23)",,"1,75m",right,€1.10m,2020
+445,Elzhas Altynbekov,Kaysar Kyzylorda,Right Winger,77,"Nov 22, 1993 (26)",,"1,80m",both,€400k,2020
+446,Alvin Fortes,Kaysar Kyzylorda,Right Winger,94,"May 25, 1994 (25)",,"1,76m",left,€300k,2020
+447,Reginaldo,Kaysar Kyzylorda,Centre-Forward,99,"Jun 4, 1990 (29)",,"1,82m",right,€550k,2020
+448,Elguja Lobjanidze,Kaysar Kyzylorda,Centre-Forward,9,"Sep 17, 1992 (27)",,"1,93m",right,€500k,2020
+449,Aleksandar Kolev,Kaysar Kyzylorda,Centre-Forward,-,"Dec 8, 1992 (27)",,"1,92m",left,€200k,2020
+450,Karolis Laukzemis,Kaysar Kyzylorda,Centre-Forward,92,"Mar 11, 1992 (27)",,"1,88m",right,€150k,2020
+451,Bakdaulet Zhuzbay,Kaysar Kyzylorda,Centre-Forward,98,"Oct 9, 1998 (21)",,"1,75m",right,€125k,2020
+452,Shokhan Abzalov,Kaysar Kyzylorda,Centre-Forward,-,"Sep 11, 1993 (26)",,"1,82m",right,€100k,2020
+453,Orken Makhan,Kaysar Kyzylorda,Centre-Forward,29,"Jan 27, 1998 (21)",,"1,80m",right,€100k,2020
+454,Bonfils-Caleb Bimenyimana,Kaysar Kyzylorda,Centre-Forward,-,"Nov 21, 1997 (22)",,"1,90m",,-,2020
+455,Miroslav Lobantsev,Kyzyl-Zhar SK Petropavlovsk,Goalkeeper,41,"May 27, 1995 (24)",,"1,89m",right,€400k,2020
+456,Almat Bekbaev,Kyzyl-Zhar SK Petropavlovsk,Goalkeeper,1,"Jul 14, 1984 (35)",,"1,94m",right,€150k,2020
+457,Vladislav Saenko,Kyzyl-Zhar SK Petropavlovsk,Goalkeeper,90,"Jun 4, 2000 (19)",,"1,87m",right,€75k,2020
+458,Vadim Petrov,Kyzyl-Zhar SK Petropavlovsk,Goalkeeper,32,"Jun 11, 2000 (19)",,"1,88m",left,€25k,2020
+459,Nurlan Dairov,Kyzyl-Zhar SK Petropavlovsk,Centre-Back,4,"Jun 26, 1995 (24)",,"1,81m",right,€350k,2020
+460,Oleg Murachev,Kyzyl-Zhar SK Petropavlovsk,Centre-Back,3,"Feb 22, 1995 (24)",,"1,82m",right,€250k,2020
+461,Alibek Kasym,Kyzyl-Zhar SK Petropavlovsk,Centre-Back,6,"May 27, 1998 (21)",,"1,93m",right,€250k,2020
+462,Sergey Bugriev,Kyzyl-Zhar SK Petropavlovsk,Centre-Back,-,"Mar 16, 1998 (21)",,"1,97m",right,€200k,2020
+463,Valeriy Karshakevich,Kyzyl-Zhar SK Petropavlovsk,Centre-Back,5,"Feb 15, 1988 (31)",,"1,93m",left,€100k,2020
+464,Erasyl Seitkanov,Kyzyl-Zhar SK Petropavlovsk,Centre-Back,26,"Jun 10, 1996 (23)",,"1,77m",right,€75k,2020
+465,Vsevolod Koloda,Kyzyl-Zhar SK Petropavlovsk,Centre-Back,-,"Jul 20, 2000 (19)",,"1,92m",right,€25k,2020
+466,Zharkyn Mukushev,Kyzyl-Zhar SK Petropavlovsk,Centre-Back,-,"Mar 10, 2002 (17)",,-,right,-,2020
+467,Miras Zhenis,Kyzyl-Zhar SK Petropavlovsk,Centre-Back,-,"Nov 30, 2002 (17)",,"1,83m",right,-,2020
+468,Yuriy Bushman,Kyzyl-Zhar SK Petropavlovsk,Left-Back,8,"May 14, 1990 (29)",,"1,78m",left,€300k,2020
+469,Ildar Aitov,Kyzyl-Zhar SK Petropavlovsk,Left-Back,40,"Mar 2, 1990 (29)",,"1,74m",both,€250k,2020
+470,Danil Melnichenko,Kyzyl-Zhar SK Petropavlovsk,Left-Back,-,"Jul 27, 2002 (17)",,-,right,-,2020
+471,Dmitriy Schmidt,Kyzyl-Zhar SK Petropavlovsk,Right-Back,15,"Nov 17, 1993 (26)",,"1,75m",right,€700k,2020
+472,Ruslan Esimov,Kyzyl-Zhar SK Petropavlovsk,Right-Back,25,"Apr 28, 1990 (29)",,"1,82m",right,€400k,2020
+473,Viktor Gunchenko,Kyzyl-Zhar SK Petropavlovsk,Right-Back,20,"Aug 25, 1994 (25)",,"1,80m",right,€300k,2020
+474,Nikita Kovshov,Kyzyl-Zhar SK Petropavlovsk,Right-Back,-,"Aug 7, 2000 (19)",,-,right,-,2020
+475,Moussa Koné,Kyzyl-Zhar SK Petropavlovsk,Defensive Midfield,12,"Feb 12, 1990 (29)",,"1,82m",right,€300k,2020
+476,Altynbek Saparov,Kyzyl-Zhar SK Petropavlovsk,Defensive Midfield,23,"Apr 26, 1995 (24)",,"1,74m",right,€200k,2020
+477,Maksym Drachenko,Kyzyl-Zhar SK Petropavlovsk,Central Midfield,7,"Jan 28, 1990 (29)",,"1,80m",right,€450k,2020
+478,Pablo Podio,Kyzyl-Zhar SK Petropavlovsk,Central Midfield,19,"Aug 7, 1989 (30)",,"1,80m",left,€425k,2020
+479,Adil Imanov,Kyzyl-Zhar SK Petropavlovsk,Left Midfield,-,"May 23, 2000 (19)",,-,right,-,2020
+480,Shota Grigalashvili,Kyzyl-Zhar SK Petropavlovsk,Attacking Midfield,10,"Jun 21, 1986 (33)",,"1,77m",both,€400k,2020
+481,Dmitri Savchenko,Kyzyl-Zhar SK Petropavlovsk,Attacking Midfield,-,"Jun 9, 2001 (18)",,"1,81m",right,€50k,2020
+482,Karen Dzhanunts,Kyzyl-Zhar SK Petropavlovsk,Attacking Midfield,-,"Jun 9, 2000 (19)",,"1,67m",right,-,2020
+483,Meyrkhan Tolebay,Kyzyl-Zhar SK Petropavlovsk,Attacking Midfield,-,"Aug 22, 2000 (19)",,"1,74m",right,-,2020
+484,Ivan Ivashin,Kyzyl-Zhar SK Petropavlovsk,Attacking Midfield,-,"May 11, 2002 (17)",,-,right,-,2020
+485,Almas Izmaylov,Kyzyl-Zhar SK Petropavlovsk,Left Winger,-,"Jan 30, 2002 (17)",,"1,79m",right,-,2020
+486,Darko Zoric,Kyzyl-Zhar SK Petropavlovsk,Right Winger,28,"Sep 12, 1993 (26)",,"1,89m",left,€700k,2020
+487,Pavel Yakovlev,Kyzyl-Zhar SK Petropavlovsk,Right Winger,-,"Apr 7, 1991 (28)",,"1,80m",right,€500k,2020
+488,Carlos Fonseca,Kyzyl-Zhar SK Petropavlovsk,Right Winger,-,"Aug 23, 1987 (32)",,"1,80m",left,€400k,2020
+489,Danilo Alves,Kyzyl-Zhar SK Petropavlovsk,Centre-Forward,9,"Apr 11, 1991 (28)",,"1,87m",right,€600k,2020
+490,Semir Smajlagic,Kyzyl-Zhar SK Petropavlovsk,Centre-Forward,-,"Sep 18, 1998 (21)",,"1,91m",right,€350k,2020
+491,Nemanja Obradovic,Kyzyl-Zhar SK Petropavlovsk,Centre-Forward,14,"May 29, 1989 (30)",,"1,87m",right,€350k,2020
+492,Artem Cheredinov,Kyzyl-Zhar SK Petropavlovsk,Centre-Forward,11,"Jul 17, 1998 (21)",,"1,82m",right,€250k,2020
+493,Timur Muldinov,Kyzyl-Zhar SK Petropavlovsk,Centre-Forward,17,"Sep 19, 1993 (26)",,"1,80m",right,€200k,2020
+494,Roman Chanturia,Kyzyl-Zhar SK Petropavlovsk,Centre-Forward,-,"Feb 9, 1996 (23)",,"1,83m",left,€150k,2020
+495,Ernist Batyrkanov,Kyzyl-Zhar SK Petropavlovsk,Centre-Forward,27,"Feb 21, 1998 (21)",,"1,78m",right,€75k,2020
+496,Maksim Skorykh,Kyzyl-Zhar SK Petropavlovsk,Centre-Forward,99,"Apr 20, 2000 (19)",,"1,94m",right,€50k,2020
+497,Nurbolat Kalmenov,FK Atyrau,Goalkeeper,12,"Sep 15, 1990 (29)",,"1,88m",right,€150k,2020
+498,Aram Hayrapetyan,FK Atyrau,Goalkeeper,77,"Nov 22, 1986 (33)",,"1,92m",right,€150k,2020
+499,Vladimir Loginovskiy,FK Atyrau,Goalkeeper,1,"Oct 8, 1985 (34)",,"1,93m",right,€125k,2020
+500,Nurasyl Tokhtarov,FK Atyrau,Goalkeeper,35,"Dec 14, 2000 (19)",,"1,83m",right,-,2020
+501,Abilay Khayrolla,FK Atyrau,Defender,-,"Apr 21, 2001 (18)",,-,,-,2020
+502,Viktor Dmitrenko,FK Atyrau,Centre-Back,27,"Apr 4, 1991 (28)",,"1,90m",right,€1.20m,2020
+503,Dmitriy Guzj,FK Atyrau,Centre-Back,33,"May 15, 1988 (31)",,"1,86m",left,€300k,2020
+504,Dauren Mazhitov,FK Atyrau,Centre-Back,2,"Mar 3, 1996 (23)",,"1,83m",right,€250k,2020
+505,Danijel Stojkovic,FK Atyrau,Centre-Back,28,"Aug 14, 1990 (29)",,"1,85m",right,€250k,2020
+506,Adilbek Zhumakhanov,FK Atyrau,Centre-Back,4,"Dec 27, 2002 (17)",,"1,87m",right,€50k,2020
+507,Bryan,FK Atyrau,Left-Back,15,"Mar 28, 1992 (27)",,"1,77m",left,€600k,2020
+508,Kuanysh Kalmuratov,FK Atyrau,Left-Back,18,"Aug 27, 1996 (23)",,"1,78m",left,€600k,2020
+509,Azat Ersalimov,FK Atyrau,Left-Back,17,"Jul 19, 1988 (31)",,"1,67m",both,€400k,2020
+510,Alex Júnior,FK Atyrau,Left-Back,22,"Dec 5, 1993 (26)",,"1,83m",left,€225k,2020
+511,Erasyl Amanzhol,FK Atyrau,Right-Back,14,"Jan 13, 1999 (20)",,"1,73m",right,€250k,2020
+512,Gian Martins,FK Atyrau,Defensive Midfield,88,"Apr 2, 1993 (26)",,"1,84m",left,€450k,2020
+513,Dauren Kayralliev,FK Atyrau,Defensive Midfield,20,"May 15, 1992 (27)",,"1,76m",right,€100k,2020
+514,Donjet Shkodra,FK Atyrau,Central Midfield,90,"Apr 30, 1989 (30)",,"1,84m",right,€500k,2020
+515,Rinat Dzhumatov,FK Atyrau,Central Midfield,7,"Oct 13, 1997 (22)",,"1,74m",right,€250k,2020
+516,Rafail Ospanov,FK Atyrau,Central Midfield,5,"Nov 5, 1997 (22)",,"1,81m",right,€225k,2020
+517,Solomon Udo,FK Atyrau,Central Midfield,-,"Jul 15, 1995 (24)",,"1,75m",right,€200k,2020
+518,Zhaslan Kairkenov,FK Atyrau,Central Midfield,82,"Mar 27, 2000 (19)",,"1,75m",right,€150k,2020
+519,Artak Dashyan,FK Atyrau,Central Midfield,11,"Nov 20, 1989 (30)",,"1,81m",right,€125k,2020
+520,Vladimir Medved,FK Atyrau,Left Midfield,-,"Nov 4, 1999 (20)",,"1,80m",right,€100k,2020
+521,Asylbek Seytkaliev,FK Atyrau,Attacking Midfield,21,"Feb 29, 1992 (27)",,"1,68m",right,-,2020
+522,Aléx Bruno,FK Atyrau,Left Winger,29,"Oct 7, 1993 (26)",,"1,73m",right,€350k,2020
+523,Aybolat Makuov,FK Atyrau,Left Winger,19,"Feb 16, 1997 (22)",,"1,77m",,€150k,2020
+524,Aleksey Rodionov,FK Atyrau,Right Winger,9,"Mar 29, 1994 (25)",,"1,83m",right,€250k,2020
+525,Mukagali Pangerey,FK Atyrau,Right Winger,-,"Feb 8, 2004 (15)",,"1,81m",right,-,2020
+526,Petar Kunic,FK Atyrau,Centre-Forward,99,"Jul 15, 1993 (26)",,"1,89m",right,€350k,2020
+527,Allef,FK Atyrau,Centre-Forward,-,"Nov 4, 1994 (25)",,"1,74m",right,€300k,2020
+528,Piotr Grzelczak,FK Atyrau,Centre-Forward,10,"Mar 2, 1988 (31)",,"1,86m",right,€200k,2020
+529,Sabit Tastanbekov,FK Atyrau,Centre-Forward,8,"Jun 12, 2000 (19)",,"1,74m",left,-,2020
+530,Viktor Grabko,FK Atyrau,Centre-Forward,55,"Feb 28, 2000 (19)",,"1,86m",right,-,2020
+531,Andrey Pasechenko,FK Turan,Goalkeeper,20,"Aug 9, 1987 (32)",,"1,80m",right,€200k,2020
+532,Stanislav Pavlov,FK Turan,Goalkeeper,1,"May 30, 1994 (25)",,"1,93m",right,€100k,2020
+533,Bekzhan Toktarbay,FK Turan,Goalkeeper,27,"Mar 22, 1997 (22)",,"1,86m",right,-,2020
+534,Kayrat Zhakupbekov,FK Turan,Defender,-,"May 8, 2002 (17)",,-,,-,2020
+535,Olzhas Kerimzhanov,FK Turan,Centre-Back,26,"May 16, 1989 (30)",,"1,89m",right,€500k,2020
+536,Nurlan Dairov,FK Turan,Centre-Back,3,"Jun 26, 1995 (24)",,"1,81m",right,€350k,2020
+537,Yevgen Smirnov,FK Turan,Centre-Back,4,"Apr 16, 1993 (26)",,"1,89m",right,€300k,2020
+538,Tamirlan Kozubaev,FK Turan,Centre-Back,-,"Jul 1, 1994 (25)",,"1,86m",left,€275k,2020
+539,Lionel Adams,FK Turan,Centre-Back,2,"Aug 9, 1994 (25)",,"1,92m",left,€150k,2020
+540,Aleksandr Chizh,FK Turan,Centre-Back,25,"Feb 10, 1997 (22)",,"1,85m",right,€150k,2020
+541,Kasymzhan Taipov,FK Turan,Centre-Back,15,"Feb 19, 1995 (24)",,"1,80m",right,€25k,2020
+542,Gafurzhan Nazarov,FK Turan,Centre-Back,6,"Aug 22, 1996 (23)",,"1,88m",right,-,2020
+543,Kuanysh Kalmuratov,FK Turan,Left-Back,-,"Aug 27, 1996 (23)",,"1,78m",left,€600k,2020
+544,Stefan Zivkovic,FK Turan,Left-Back,22,"Jun 1, 1990 (29)",,"1,84m",left,€300k,2020
+545,Ermek Kuantaev,FK Turan,Right-Back,13,"Oct 13, 1990 (29)",,"1,74m",both,€600k,2020
+546,Andrey Zaleskiy,FK Turan,Right-Back,31,"Jan 20, 1991 (28)",,"1,80m",right,€200k,2020
+547,Bekzat Beysenov,FK Turan,Defensive Midfield,8,"Feb 18, 1987 (32)",,"1,82m",right,€150k,2020
+548,Elsuyer Alpysbay,FK Turan,Defensive Midfield,-,"Sep 1, 2000 (19)",,"1,75m",,-,2020
+549,Branislav Jankovic,FK Turan,Central Midfield,14,"Feb 8, 1992 (27)",,"1,82m",right,€500k,2020
+550,Yevgen Chumak,FK Turan,Central Midfield,-,"Aug 25, 1995 (24)",,"1,82m",left,€275k,2020
+551,Farkhat Musabekov,FK Turan,Central Midfield,-,"Jan 3, 1994 (25)",,"1,75m",both,€200k,2020
+552,Nurgaini Buribaev,FK Turan,Central Midfield,23,"Aug 20, 2002 (17)",,"1,75m",left,€25k,2020
+553,Shynbolat Maksymkhan,FK Turan,Central Midfield,7,"Feb 8, 1993 (26)",,"1,78m",right,-,2020
+554,Nikita Bocharov,FK Turan,Attacking Midfield,69,"Jun 12, 1992 (27)",,"1,84m",right,€700k,2020
+555,Milan Stojanovic,FK Turan,Attacking Midfield,24,"May 10, 1988 (31)",,"1,84m",left,€600k,2020
+556,Pavel Deobald,FK Turan,Attacking Midfield,57,"Jun 25, 1990 (29)",,"1,76m",right,€250k,2020
+557,Nurzhigit Smatov,FK Turan,Left Winger,47,"Jul 11, 1996 (23)",,"1,77m",right,€50k,2020
+558,Bakdaulet Akbergen,FK Turan,Left Winger,-,"Oct 30, 2000 (19)",,"1,72m",left,-,2020
+559,Aliyar Mukhammed,FK Turan,Left Winger,19,"Mar 20, 2001 (18)",,"1,90m",left,-,2020
+560,Gani Suleymen,FK Turan,Left Winger,71,"Apr 22, 2002 (17)",,"1,68m",,-,2020
+561,Mardan Tolebek,FK Turan,Right Winger,17,"Dec 18, 1990 (29)",,"1,74m",left,€500k,2020
+562,Pavel Kriventsev,FK Turan,Right Winger,-,"Jan 16, 1996 (23)",,"1,79m",both,€300k,2020
+563,Bekzhan Alipbekov,FK Turan,Right Winger,5,"May 17, 1990 (29)",,"1,72m",right,-,2020
+564,Temirlan Amirov,FK Turan,Right Winger,9,"Apr 13, 1997 (22)",,"1,78m",right,-,2020
+565,Asylzhan Abbas,FK Turan,Right Winger,11,"Jun 11, 1999 (20)",,"1,73m",both,-,2020
+566,Dinmukhammed Omarov,FK Turan,Right Winger,70,"Feb 14, 2000 (19)",,"1,70m",,-,2020
+567,Tanat Nuserbaev,FK Turan,Centre-Forward,10,"Jan 1, 1987 (32)",,"1,75m",right,€300k,2020
+568,Samir Fazli,FK Turan,Centre-Forward,-,"Apr 22, 1991 (28)",,"1,85m",right,€150k,2020
+569,Stanley,FK Turan,Centre-Forward,99,"Jun 25, 1999 (20)",,"1,82m",both,-,2020
+570,Denis Kavlinov,Zhetysu Taldykorgan,Goalkeeper,70,"Jan 10, 1995 (24)",,"1,91m",right,€200k,2020
+571,Andrey Shabanov,Zhetysu Taldykorgan,Goalkeeper,1,"Nov 17, 1986 (33)",,"1,84m",right,€150k,2020
+572,Mikhail Golubnichiy,Zhetysu Taldykorgan,Goalkeeper,21,"Jan 31, 1995 (24)",,"1,88m",right,€150k,2020
+573,Gleb Malinovskiy,Zhetysu Taldykorgan,Goalkeeper,16,"Oct 5, 2002 (17)",,"1,80m",,-,2020
+574,Darkhan Myrzakhmetov,Zhetysu Taldykorgan,Defender,-,"Mar 21, 1999 (20)",,-,,-,2020
+575,Rizvan Ablitarov,Zhetysu Taldykorgan,Centre-Back,55,"Apr 18, 1989 (30)",,"1,90m",left,€400k,2020
+576,Rafkat Aslan,Zhetysu Taldykorgan,Centre-Back,14,"Feb 2, 1994 (25)",,"1,86m",right,€350k,2020
+577,Temur Partsvaniya,Zhetysu Taldykorgan,Centre-Back,-,"Jul 6, 1991 (28)",,"1,89m",right,€300k,2020
+578,Aleksandr Kislitsyn,Zhetysu Taldykorgan,Centre-Back,5,"Mar 8, 1986 (33)",,"1,89m",right,€300k,2020
+579,Damir Dautov,Zhetysu Taldykorgan,Centre-Back,26,"Mar 3, 1990 (29)",,"1,87m",right,€250k,2020
+580,Aliyu Abubakar,Zhetysu Taldykorgan,Centre-Back,20,"Jun 15, 1996 (23)",,"1,88m",right,€200k,2020
+581,Andrey Shabaev,Zhetysu Taldykorgan,Centre-Back,27,"Feb 15, 1987 (32)",,"1,79m",right,€200k,2020
+582,Rauan Orynbasar,Zhetysu Taldykorgan,Centre-Back,15,"Mar 1, 1998 (21)",,"1,84m",right,€100k,2020
+583,Sanzhar Batyrkhanov,Zhetysu Taldykorgan,Centre-Back,3,"Nov 10, 1999 (20)",,"1,75m",right,€50k,2020
+584,Philip Ipole,Zhetysu Taldykorgan,Centre-Back,12,"Jun 6, 2001 (18)",,"1,87m",right,€50k,2020
+585,Maksim Chalkin,Zhetysu Taldykorgan,Centre-Back,4,"Mar 9, 1996 (23)",,"1,85m",right,€25k,2020
+586,Kalizhan Ilyasov,Zhetysu Taldykorgan,Centre-Back,-,"Nov 5, 2000 (19)",,"1,90m",right,-,2020
+587,Dilshat Musaev,Zhetysu Taldykorgan,Centre-Back,48,"Jan 9, 1995 (24)",,"1,76m",right,-,2020
+588,Askhat Baltabekov,Zhetysu Taldykorgan,Left-Back,23,"Nov 6, 1993 (26)",,"1,75m",left,€50k,2020
+589,Ilya Kolpachuk,Zhetysu Taldykorgan,Left-Back,59,"Oct 9, 1990 (29)",,"1,84m",right,-,2020
+590,Mukhammad Eleusov,Zhetysu Taldykorgan,Left-Back,-,"Nov 22, 2001 (18)",,"1,79m",left,-,2020
+591,Gabriel Enache,Zhetysu Taldykorgan,Right-Back,44,"Aug 18, 1990 (29)",,"1,74m",right,€500k,2020
+592,Temirlan Adilkhanov,Zhetysu Taldykorgan,Right-Back,2,"Mar 28, 1994 (25)",,"1,80m",right,€125k,2020
+593,Sanzhar Tusupbekov,Zhetysu Taldykorgan,Right-Back,-,"Sep 12, 2000 (19)",,-,,-,2020
+594,Artjom Dmitrijev,Zhetysu Taldykorgan,Defensive Midfield,8,"Nov 14, 1988 (31)",,"1,88m",right,€450k,2020
+595,Denis Poyarkov,Zhetysu Taldykorgan,Defensive Midfield,25,"Oct 16, 1989 (30)",,"1,78m",both,€300k,2020
+596,Aslan Dzhanuzakov,Zhetysu Taldykorgan,Defensive Midfield,22,"Jan 6, 1993 (26)",,"1,70m",right,€100k,2020
+597,Vladyslav Okhronchuk,Zhetysu Taldykorgan,Defensive Midfield,-,"Jul 14, 1997 (22)",,"1,90m",right,-,2020
+598,Eldos Maratov,Zhetysu Taldykorgan,Midfielder,-,"Apr 20, 2000 (19)",,-,,-,2020
+599,Madi Khaseyn,Zhetysu Taldykorgan,Defensive Midfield,88,"Dec 17, 2000 (19)",,"1,85m",right,-,2020
+600,Adam Adakhadzhiev,Zhetysu Taldykorgan,Central Midfield,6,"Nov 23, 1998 (21)",,"1,76m",right,€150k,2020
+601,Raul Dzhalilov,Zhetysu Taldykorgan,Attacking Midfield,10,"Jul 20, 1994 (25)",,"1,80m",left,€300k,2020
+602,Tengiz Tsikaridze,Zhetysu Taldykorgan,Attacking Midfield,-,"Dec 21, 1995 (24)",,"1,79m",left,€175k,2020
+603,Aybar Aydarbekuly,Zhetysu Taldykorgan,Attacking Midfield,-,"Mar 2, 2002 (17)",,"1,73m",,-,2020
+604,Akmal Bakhtiyarov,Zhetysu Taldykorgan,Left Winger,77,"Jun 2, 1998 (21)",,"1,69m",right,€200k,2020
+605,Ravil Atykhanov,Zhetysu Taldykorgan,Left Winger,67,"Nov 25, 1999 (20)",,"1,75m",left,-,2020
+606,Ugochukwu Oduenyi,Zhetysu Taldykorgan,Right Winger,-,"Feb 3, 1996 (23)",,"1,93m",left,€50k,2020
+607,Aslan Adil,Zhetysu Taldykorgan,Right Winger,7,"Jan 13, 1998 (21)",,"1,74m",right,-,2020
+608,Nurbergen Nurbol,Zhetysu Taldykorgan,Right Winger,17,"Dec 26, 2000 (19)",,"1,75m",right,-,2020
+609,Bauyrzhan Turysbek,Zhetysu Taldykorgan,Centre-Forward,99,"Oct 15, 1991 (28)",,"1,81m",right,€1.00m,2020
+610,Aybar Zhaksylykov,Zhetysu Taldykorgan,Centre-Forward,9,"Jul 24, 1997 (22)",,"1,84m",right,€350k,2020
+611,Edige Oralbay,Zhetysu Taldykorgan,Centre-Forward,11,"Mar 11, 1997 (22)",,"1,84m",right,€100k,2020
+612,Dias Kalybaev,Zhetysu Taldykorgan,Centre-Forward,29,"Aug 25, 1999 (20)",,"1,85m",left,-,2020
+613,Aleksey Mikhaylov,Zhetysu Taldykorgan,Centre-Forward,79,"Jul 21, 2001 (18)",,"1,82m",both,-,2020

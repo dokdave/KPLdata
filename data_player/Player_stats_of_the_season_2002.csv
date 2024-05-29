@@ -1,0 +1,518 @@
+,Player,Club,Position,Number,Date of Birth,Height,Foot,Joined,Market Value,Season
+0,Yuriy Novikov,Irtysh Pavlodar,Goalkeeper,1,"May 19, 1972 (29)",,-,,-,2002
+1,Kirill Pryadkin,Irtysh Pavlodar,Goalkeeper,16,"Jul 6, 1977 (24)",,"1,85m",right,-,2002
+2,Dmitriy Dralov,Irtysh Pavlodar,Goalkeeper,30,"Jun 22, 1984 (17)",,"1,87m",,-,2002
+3,Bagdat Dostaev,Irtysh Pavlodar,Defender,5,"Jun 6, 1979 (22)",,"1,80m",,-,2002
+4,Tomas Stastka,Irtysh Pavlodar,Defender,23,"Mar 12, 1975 (26)",,"1,82m",,-,2002
+5,Kairat Nurdauletov,Irtysh Pavlodar,Centre-Back,4,"Nov 6, 1982 (19)",,"1,84m",right,-,2002
+6,Vladislav Chernyshov,Irtysh Pavlodar,Centre-Back,13,"Mar 16, 1981 (20)",,"1,86m",right,-,2002
+7,Farkhadbek Irismetov,Irtysh Pavlodar,Centre-Back,14,"Aug 10, 1981 (20)",,"1,83m",right,-,2002
+8,Sergey Timofeev,Irtysh Pavlodar,Left-Back,2,"Mar 5, 1965 (36)",,N/Am,N/A,-,2002
+9,Fevzi Davletov,Irtysh Pavlodar,Left-Back,20,"Sep 20, 1972 (29)",,"1,72m",right,-,2002
+10,Aydar Kumisbekov,Irtysh Pavlodar,Right-Back,3,"Feb 9, 1979 (22)",,"1,77m",right,-,2002
+11,Dias Kamelov,Irtysh Pavlodar,Defensive Midfield,7,"May 29, 1981 (20)",,"1,74m",right,-,2002
+12,Serik Zheylitbaev,Irtysh Pavlodar,Midfielder,17,"Aug 23, 1974 (27)",,"1,77m",,-,2002
+13,Andriy Guzenko,Irtysh Pavlodar,Midfielder,6,"Feb 19, 1973 (28)",,"1,80m",,-,2002
+14,Sergey Kalabukhin,Irtysh Pavlodar,Midfielder,8,"Apr 29, 1972 (29)",,"1,73m",right,-,2002
+15,Andrey Kucheryavykh,Irtysh Pavlodar,Midfielder,9,"Sep 24, 1970 (31)",,"1,77m",,-,2002
+16,Sergey Skorykh,Irtysh Pavlodar,Defensive Midfield,10,"May 25, 1984 (17)",,"1,84m",right,-,2002
+17,Aleksey Zakharov,Irtysh Pavlodar,Midfielder,12,"Apr 27, 1974 (27)",,"1,78m",,-,2002
+18,Evgeniy Meshkov,Irtysh Pavlodar,Defensive Midfield,19,"Sep 3, 1984 (17)",,"1,80m",right,-,2002
+19,Sergey Ivanov,Irtysh Pavlodar,Central Midfield,22,"May 30, 1980 (21)",,"1,78m",right,-,2002
+20,Egidijus Juska,Irtysh Pavlodar,Attacking Midfield,15,"Mar 12, 1975 (26)",,"1,81m",right,-,2002
+21,Igor Chumachenko,Irtysh Pavlodar,Attacking Midfield,22,"Oct 26, 1976 (25)",,"1,84m",both,-,2002
+22,Viktor Zubarev,Irtysh Pavlodar,Centre-Forward,11,"Apr 10, 1973 (28)",,"1,98m",,-,2002
+23,Andrius Velicka,Irtysh Pavlodar,Centre-Forward,11,"Apr 5, 1979 (22)",,"1,83m",right,-,2002
+24,Murat Tleshev,Irtysh Pavlodar,Centre-Forward,18,"Apr 18, 1980 (21)",,"1,88m",right,-,2002
+25,Rustam Usmanov,Irtysh Pavlodar,Striker,21,"Jan 30, 1977 (24)",,-,,-,2002
+26,Muslim Agayev,Irtysh Pavlodar,Striker,24,"Apr 29, 1974 (27)",,"1,77m",,-,2002
+27,David Loria,Zhenis Astana,Goalkeeper,-,"Oct 31, 1981 (20)",,"1,83m",right,-,2002
+28,Igor Gusev,Zhenis Astana,Goalkeeper,1,"Nov 1, 1975 (26)",,"1,87m",,-,2002
+29,Aleksandr Mokin,Zhenis Astana,Goalkeeper,16,"Jun 19, 1981 (20)",,"1,94m",right,-,2002
+30,Pavel Bugalo,Zhenis Astana,Goalkeeper,25,"Aug 21, 1974 (27)",,"1,85m",right,-,2002
+31,Aleksey Musatov,Zhenis Astana,Defender,26,"Oct 17, 1980 (21)",,"1,84m",,-,2002
+32,Goran Dragicevic,Zhenis Astana,Defender,-,"Dec 6, 1974 (27)",,-,,-,2002
+33,Yuri Bordolimow,Zhenis Astana,Defender,5,"Jan 24, 1970 (31)",,"1,70m",,-,2002
+34,Maksim Zhalmagambetov,Zhenis Astana,Centre-Back,-,"Jul 11, 1983 (18)",,"1,95m",right,-,2002
+35,Dmitriy Kishchenko,Zhenis Astana,Centre-Back,-,"Mar 29, 1979 (22)",,"1,84m",,-,2002
+36,Sergey Kirov,Zhenis Astana,Centre-Back,-,"Feb 4, 1978 (23)",,"1,83m",,-,2002
+37,Maksim Zabelin,Zhenis Astana,Centre-Back,2,"Feb 4, 1977 (24)",,"1,87m",left,-,2002
+38,Igor Avdeev,Zhenis Astana,Centre-Back,7,"Jan 10, 1973 (28)",,"1,82m",right,-,2002
+39,Sergiy Krukovets,Zhenis Astana,Centre-Back,17,"Jul 1, 1973 (28)",,"1,85m",right,-,2002
+40,Serghei Secu,Zhenis Astana,Centre-Back,26,"Nov 28, 1972 (29)",,"1,84m",,-,2002
+41,Igor Soloshenko,Zhenis Astana,Left-Back,-,"May 22, 1979 (22)",,"1,81m",left,-,2002
+42,Yuriy Aksenov,Zhenis Astana,Left-Back,12,"Aug 11, 1973 (28)",,"1,74m",,-,2002
+43,Mikhail Shishkin,Zhenis Astana,Left-Back,15,"Sep 4, 1980 (21)",,"1,80m",right,-,2002
+44,Sergey Kozyulin,Zhenis Astana,Right-Back,3,"Aug 2, 1980 (21)",,"1,80m",right,-,2002
+45,Anton Chichulin,Zhenis Astana,Right-Back,14,"Oct 27, 1984 (17)",,"1,82m",right,-,2002
+46,Andrey Travin,Zhenis Astana,Defensive Midfield,-,"Apr 27, 1979 (22)",,"1,76m",left,-,2002
+47,Aleksey Klishin,Zhenis Astana,Midfielder,-,"Jan 1, 1973 (28)",,N/Am,N/A,-,2002
+48,Artur Martens,Zhenis Astana,Midfielder,-,"May 13, 1976 (25)",,"1,82m",,-,2002
+49,Andrey Barsukov,Zhenis Astana,Midfielder,5,"Nov 2, 1973 (28)",,"1,75m",,-,2002
+50,Amiran Gigolaev,Zhenis Astana,Midfielder,6,"Sep 30, 1984 (17)",,"1,75m",,-,2002
+51,Dmitriy Kolesnichenko,Zhenis Astana,Midfielder,24,"May 29, 1986 (15)",,-,,-,2002
+52,Evgeniy Lovchev,Zhenis Astana,Right Midfield,20,"Aug 6, 1975 (26)",,"1,79m",right,-,2002
+53,Ashkat Kadyrkulov,Zhenis Astana,Left Midfield,-,"Nov 14, 1974 (27)",,"1,78m",,-,2002
+54,Igor Yurin,Zhenis Astana,Attacking Midfield,8,"Jul 3, 1982 (19)",,"1,71m",right,-,2002
+55,Nikita Khokhlov,Zhenis Astana,Attacking Midfield,9,"Oct 27, 1983 (18)",,"1,82m",both,-,2002
+56,Evgeniy Lunev,Zhenis Astana,Attacking Midfield,21,"Apr 26, 1976 (25)",,"1,86m",right,-,2002
+57,Tugan Khamkhoev,Zhenis Astana,Left Winger,4,"Mar 4, 1987 (14)",,"1,77m",left,-,2002
+58,Aleksandr Suchkov,Zhenis Astana,Right Winger,18,"Feb 29, 1980 (21)",,"1,77m",right,-,2002
+59,Martin Bielik,Zhenis Astana,Centre-Forward,-,"Apr 14, 1980 (21)",,"1,98m",right,-,2002
+60,Nilton Mendes,Zhenis Astana,Centre-Forward,10,"Jan 7, 1976 (25)",,"1,80m",,-,2002
+61,Arsen Tlekhugov,Zhenis Astana,Centre-Forward,-,"Nov 3, 1976 (25)",,"1,82m",both,-,2002
+62,Ulugbek Asanbaev,Zhenis Astana,Centre-Forward,4,"Sep 13, 1979 (22)",,"1,83m",,-,2002
+63,Aleksandr Shatskikh,Zhenis Astana,Centre-Forward,11,"Jan 21, 1974 (27)",,"1,80m",right,-,2002
+64,Magomed Adiev,Zhenis Astana,Centre-Forward,22,"Jun 30, 1977 (24)",,"1,89m",right,-,2002
+65,Oleg Voskoboynikov,Aktobe-Lento Aktobe,Goalkeeper,1,"Jul 4, 1971 (30)",,-,,-,2002
+66,Evgeniy Ovchinnikov,Aktobe-Lento Aktobe,Goalkeeper,16,"Apr 11, 1985 (16)",,"1,83m",,-,2002
+67,Aleksandr Ganzhenko,Aktobe-Lento Aktobe,Goalkeeper,22,"Mar 21, 1976 (25)",,"1,87m",,-,2002
+68,Erlan Shoytymov,Aktobe-Lento Aktobe,Defender,2,"Apr 6, 1980 (21)",,"1,80m",,-,2002
+69,Zeljko Joksimovic,Aktobe-Lento Aktobe,Defender,4,"Mar 14, 1974 (27)",,"1,80m",,-,2002
+70,Erlan Eleusinov,Aktobe-Lento Aktobe,Defender,5,"Jul 2, 1972 (29)",,"1,81m",,-,2002
+71,Nurmat Mirzabaev,Aktobe-Lento Aktobe,Defender,6,"Nov 11, 1972 (29)",,"1,76m",,-,2002
+72,Yuri Bordolimow,Aktobe-Lento Aktobe,Defender,7,"Jan 24, 1970 (31)",,"1,70m",,-,2002
+73,Viktor Kovalev,Aktobe-Lento Aktobe,Centre-Back,3,"Aug 25, 1980 (21)",,"1,90m",right,-,2002
+74,Sergiy Bezhenar,Aktobe-Lento Aktobe,Centre-Back,4,"Aug 9, 1970 (31)",,"1,83m",right,-,2002
+75,Maksim Samchenko,Aktobe-Lento Aktobe,Left-Back,19,"May 5, 1979 (22)",,"1,80m",left,-,2002
+76,Valeriy Krol,Aktobe-Lento Aktobe,Midfielder,24,"Apr 11, 1985 (16)",,"1,74m",,-,2002
+77,Andrey Barsukov,Aktobe-Lento Aktobe,Midfielder,7,"Nov 2, 1973 (28)",,"1,75m",,-,2002
+78,Oleksandr Mykulyak,Aktobe-Lento Aktobe,Midfielder,8,"Dec 29, 1976 (25)",,"1,82m",,-,2002
+79,Rakhman Asukhanov,Aktobe-Lento Aktobe,Midfielder,10,"May 1, 1973 (28)",,"1,68m",,-,2002
+80,Bakhyt Kyzylbaev,Aktobe-Lento Aktobe,Midfielder,12,"Dec 26, 1976 (25)",,"1,80m",,-,2002
+81,Evgeniy Kostrub,Aktobe-Lento Aktobe,Defensive Midfield,13,"Aug 27, 1982 (19)",,"1,77m",right,-,2002
+82,Vitaliy Kitsak,Aktobe-Lento Aktobe,Midfielder,15,"Oct 16, 1975 (26)",,"1,75m",,-,2002
+83,Vladica Curcic,Aktobe-Lento Aktobe,Midfielder,21,"Jul 18, 1978 (23)",,"1,80m",,-,2002
+84,Evgeniy Danila,Aktobe-Lento Aktobe,Midfielder,25,"Mar 21, 1981 (20)",,"1,78m",,-,2002
+85,Dmitriy Mamonov,Aktobe-Lento Aktobe,Central Midfield,8,"Apr 26, 1978 (23)",,"1,73m",right,-,2002
+86,Dmitriy Byakov,Aktobe-Lento Aktobe,Right Midfield,9,"Apr 9, 1978 (23)",,"1,76m",right,-,2002
+87,Valeriy Kryventsov,Aktobe-Lento Aktobe,Attacking Midfield,21,"Jul 31, 1973 (28)",,"1,77m",,-,2002
+88,Kairat Ashirbekov,Aktobe-Lento Aktobe,Attacking Midfield,18,"Oct 21, 1982 (19)",,"1,72m",left,-,2002
+89,Serik Dosmanbetov,Aktobe-Lento Aktobe,Centre-Forward,-,"Mar 8, 1982 (19)",,"1,78m",right,-,2002
+90,Rafael Urazbakhtin,Aktobe-Lento Aktobe,Centre-Forward,11,"Nov 20, 1978 (23)",,"1,80m",right,-,2002
+91,Emmanuel Obasi,Aktobe-Lento Aktobe,Striker,14,"Aug 24, 1980 (21)",,"1,87m",,-,2002
+92,Vladimir Loginov,Aktobe-Lento Aktobe,Centre-Forward,17,"Jan 5, 1974 (27)",,"1,84m",,-,2002
+93,Igor Abdusheev,Aktobe-Lento Aktobe,Striker,23,"Apr 13, 1985 (16)",,"1,74m",,-,2002
+94,Nikolay Rodionov,Kairat Almaty,Goalkeeper,-,"Aug 4, 1976 (25)",,"1,90m",right,-,2002
+95,Evgeniy Naboychenko,Kairat Almaty,Goalkeeper,1,"May 17, 1970 (31)",,"1,81m",,-,2002
+96,Ilya Yurov,Kairat Almaty,Goalkeeper,18,"Sep 10, 1981 (20)",,"1,88m",right,-,2002
+97,Evgeniy Kravchuk,Kairat Almaty,Defender,-,"Jun 24, 1981 (20)",,"1,78m",,-,2002
+98,Srdjan Vasiljevic,Kairat Almaty,Defender,-,"Apr 1, 1973 (28)",,"1,90m",,-,2002
+99,Nenad Pavlovic,Kairat Almaty,Defender,-,"Dec 14, 1975 (26)",,-,,-,2002
+100,Askar Seit,Kairat Almaty,Defender,-,"Apr 25, 1983 (18)",,-,,-,2002
+101,Kirill Martyanov,Kairat Almaty,Defender,2,"Feb 23, 1982 (19)",,-,,-,2002
+102,Aset Mukhametkarimov,Kairat Almaty,Defender,5,"Feb 12, 1977 (24)",,-,,-,2002
+103,Dilmurat Shayakhmetov,Kairat Almaty,Defender,8,"Jul 16, 1980 (21)",,-,,-,2002
+104,Timur Dyusebaev,Kairat Almaty,Defender,13,"May 5, 1981 (20)",,-,,-,2002
+105,Farkhad Babisekov,Kairat Almaty,Defender,17,"Jun 25, 1981 (20)",,-,,-,2002
+106,Alibi Gubashev,Kairat Almaty,Defender,19,"Sep 12, 1984 (17)",,"1,78m",,-,2002
+107,Vladimir Yakovlev,Kairat Almaty,Centre-Back,16,"Aug 2, 1984 (17)",,"1,82m",right,-,2002
+108,Sergey Kutsov,Kairat Almaty,Centre-Back,20,"Apr 23, 1977 (24)",,"1,91m",right,-,2002
+109,Konstantin Gorovenko,Kairat Almaty,Centre-Back,21,"Jan 10, 1977 (24)",,"1,89m",right,-,2002
+110,Kairat Utabaev,Kairat Almaty,Right-Back,14,"Jul 16, 1980 (21)",,"1,82m",both,-,2002
+111,Aydar Kumisbekov,Kairat Almaty,Right-Back,-,"Feb 9, 1979 (22)",,"1,77m",right,-,2002
+112,Dmitri Protorchin,Kairat Almaty,Right-Back,3,"Jul 2, 1978 (23)",,"1,78m",right,-,2002
+113,Pavel Pishchulin,Kairat Almaty,Right-Back,4,"Nov 23, 1980 (21)",,"1,77m",right,-,2002
+114,Andrey Streltsov,Kairat Almaty,Midfielder,6,"Aug 10, 1976 (25)",,-,,-,2002
+115,Dmitriy Pavlov,Kairat Almaty,Midfielder,7,"Aug 29, 1982 (19)",,"1,75m",,-,2002
+116,Kostyantyn Panin,Kairat Almaty,Midfielder,11,"Dec 8, 1975 (26)",,"1,78m",,-,2002
+117,Pavel Maltsev,Kairat Almaty,Midfielder,14,"Sep 18, 1981 (20)",,"1,74m",,-,2002
+118,Berik Omarbekov,Kairat Almaty,Midfielder,15,"Feb 11, 1980 (21)",,"1,74m",,-,2002
+119,Azizbek Khoshimov,Kairat Almaty,Midfielder,23,"Dec 23, 1977 (24)",,"1,73m",,-,2002
+120,Evgeniy Kim,Kairat Almaty,Midfielder,28,"Feb 4, 1980 (21)",,-,,-,2002
+121,Yuriy Shukanov,Kairat Almaty,Central Midfield,23,"Mar 10, 1971 (30)",,N/Am,N/A,-,2002
+122,Dmitriy Byakov,Kairat Almaty,Right Midfield,-,"Apr 9, 1978 (23)",,"1,76m",right,-,2002
+123,Mark Svets,Kairat Almaty,Right Midfield,15,"Oct 10, 1976 (25)",,"1,79m",right,-,2002
+124,Ashkat Kadyrkulov,Kairat Almaty,Left Midfield,16,"Nov 14, 1974 (27)",,"1,78m",,-,2002
+125,Ali Aliev,Kairat Almaty,Left Midfield,22,"Oct 27, 1980 (21)",,"1,75m",left,-,2002
+126,Ruslan Sakhalbaev,Kairat Almaty,Attacking Midfield,12,"Jun 27, 1984 (17)",,"1,68m",right,-,2002
+127,Mukhtar Kurbonov,Kairat Almaty,Right Winger,11,"Jan 26, 1975 (26)",,"1,70m",,-,2002
+128,Eduard Glazunov,Kairat Almaty,Striker,-,"Sep 19, 1970 (31)",,"1,70m",,-,2002
+129,Avkhat Mingachev,Kairat Almaty,Striker,2,"Feb 11, 1975 (26)",,"1,76m",,-,2002
+130,Ulugbek Asanbaev,Kairat Almaty,Centre-Forward,6,"Sep 13, 1979 (22)",,"1,83m",,-,2002
+131,Arsen Tlekhugov,Kairat Almaty,Centre-Forward,9,"Nov 3, 1976 (25)",,"1,82m",both,-,2002
+132,Alibek Buleshev,Kairat Almaty,Centre-Forward,10,"Apr 9, 1981 (20)",,"1,75m",right,-,2002
+133,Oleg Tarasov,Kairat Almaty,Striker,26,"Jan 9, 1982 (19)",,"1,78m",,-,2002
+134,Dauren Kusainov,Kairat Almaty,Centre-Forward,27,"Apr 10, 1984 (17)",,"1,82m",right,-,2002
+135,Nikolay Rodionov,Elimay Semipalatinsk,Goalkeeper,1,"Aug 4, 1976 (25)",,"1,90m",right,-,2002
+136,Ilya Bayteryakov,Elimay Semipalatinsk,Goalkeeper,25,"Aug 13, 1984 (17)",,"1,90m",right,-,2002
+137,Sergey Boychenko,Elimay Semipalatinsk,Goalkeeper,29,"Sep 27, 1977 (24)",,"1,98m",right,-,2002
+138,Yuriy Mityaev,Elimay Semipalatinsk,Defender,15,"Dec 25, 1976 (25)",,-,,-,2002
+139,Denis Proskurin,Elimay Semipalatinsk,Defender,2,"Apr 3, 1979 (22)",,"1,75m",,-,2002
+140,Dmytro Bogarada,Elimay Semipalatinsk,Defender,6,"Sep 25, 1975 (26)",,"1,85m",,-,2002
+141,Aleksandr Zarutskiy,Elimay Semipalatinsk,Defender,8,"Jan 24, 1969 (32)",,"1,92m",,-,2002
+142,Sergey Kvyatkovskiy,Elimay Semipalatinsk,Defender,13,"Jul 3, 1982 (19)",,"1,77m",,-,2002
+143,Murat Iskakov,Elimay Semipalatinsk,Centre-Back,17,"Jun 28, 1972 (29)",,"1,91m",right,-,2002
+144,Odil Irgashev,Elimay Semipalatinsk,Left-Back,14,"Feb 10, 1977 (24)",,"1,70m",left,-,2002
+145,Sergey Surodeev,Elimay Semipalatinsk,Right-Back,12,"Dec 27, 1969 (32)",,"1,68m",right,-,2002
+146,Dmitriy Peil,Elimay Semipalatinsk,Midfielder,9,"Jul 19, 1980 (21)",,"1,80m",right,-,2002
+147,Yuriy Krotov,Elimay Semipalatinsk,Midfielder,3,"May 12, 1978 (23)",,"1,80m",,-,2002
+148,Roman Vorogovskiy,Elimay Semipalatinsk,Midfielder,4,"Jan 3, 1973 (28)",,"1,70m",,-,2002
+149,Evgeniy Sveshnikov,Elimay Semipalatinsk,Midfielder,5,"Oct 6, 1973 (28)",,N/Am,N/A,-,2002
+150,Oleg Kirimov,Elimay Semipalatinsk,Midfielder,7,"Jul 28, 1968 (33)",,"1,73m",,-,2002
+151,Marat Iskulov,Elimay Semipalatinsk,Midfielder,11,"Apr 11, 1982 (19)",,"1,78m",right,-,2002
+152,Galym Karakenov,Elimay Semipalatinsk,Midfielder,18,"Aug 28, 1984 (17)",,"1,77m",,-,2002
+153,Samat Smakov,Elimay Semipalatinsk,Defensive Midfield,20,"Dec 8, 1978 (23)",,"1,82m",both,-,2002
+154,Andrey Bogomolov,Elimay Semipalatinsk,Attacking Midfield,19,"Apr 11, 1977 (24)",,"1,83m",right,-,2002
+155,Oleg Litvinenko,Elimay Semipalatinsk,Second Striker,10,"Nov 22, 1973 (28)",,"1,71m",,-,2002
+156,Aleksey Gerasimov,Elimay Semipalatinsk,Centre-Forward,7,"Jan 13, 1973 (28)",,"1,74m",right,-,2002
+157,Evgeniy Karyagin,Elimay Semipalatinsk,Striker,18,"Jan 16, 1982 (19)",,"1,80m",,-,2002
+158,Yuriy Kulikov,Elimay Semipalatinsk,Striker,22,"Dec 15, 1984 (17)",,"1,81m",,-,2002
+159,Bayramniyaz Berdiyev,Yesil-Bogatyr Petropavlovsk,Goalkeeper,1,"Sep 13, 1974 (27)",,"1,85m",,-,2002
+160,Denis Solovarenko,Yesil-Bogatyr Petropavlovsk,Goalkeeper,16,"Apr 4, 1979 (22)",,"1,82m",,-,2002
+161,Vladimir Loginovskiy,Yesil-Bogatyr Petropavlovsk,Goalkeeper,22,"Oct 8, 1985 (16)",,"1,93m",right,-,2002
+162,Oleg Chukhleba,Yesil-Bogatyr Petropavlovsk,Defender,6,"Nov 5, 1967 (34)",,"1,75m",,-,2002
+163,Andrey Seliverstov,Yesil-Bogatyr Petropavlovsk,Defender,24,"Feb 2, 1980 (21)",,"1,76m",,-,2002
+164,Evgeniy Loginovskiy,Yesil-Bogatyr Petropavlovsk,Defender,25,"Jan 18, 1981 (20)",,"1,85m",,-,2002
+165,Igor Shvydko,Yesil-Bogatyr Petropavlovsk,Centre-Back,2,"Sep 11, 1971 (30)",,"1,85m",right,-,2002
+166,Rustam Shaymardanov,Yesil-Bogatyr Petropavlovsk,Centre-Back,3,"Sep 4, 1976 (25)",,"1,80m",,-,2002
+167,Kirill Keker,Yesil-Bogatyr Petropavlovsk,Centre-Back,5,"Jun 22, 1979 (22)",,"1,85m",right,-,2002
+168,Aleksey Danaev,Yesil-Bogatyr Petropavlovsk,Left-Back,4,"Sep 1, 1979 (22)",,"1,83m",left,-,2002
+169,Yuriy Chukhleba,Yesil-Bogatyr Petropavlovsk,Midfielder,7,"Sep 27, 1974 (27)",,"1,78m",right,-,2002
+170,Pavel Maltsev,Yesil-Bogatyr Petropavlovsk,Midfielder,8,"Sep 18, 1981 (20)",,"1,74m",,-,2002
+171,Kostyantyn Panin,Yesil-Bogatyr Petropavlovsk,Midfielder,10,"Dec 8, 1975 (26)",,"1,78m",,-,2002
+172,Yuriy Bezuglyi,Yesil-Bogatyr Petropavlovsk,Midfielder,12,"Aug 6, 1973 (28)",,"1,74m",,-,2002
+173,Ildar Khuzhinov,Yesil-Bogatyr Petropavlovsk,Midfielder,13,"May 28, 1970 (31)",,"1,79m",,-,2002
+174,Farkhad Mirsalimbaev,Yesil-Bogatyr Petropavlovsk,Midfielder,14,"Oct 15, 1972 (29)",,"1,77m",,-,2002
+175,Dmitriy Yurist,Yesil-Bogatyr Petropavlovsk,Midfielder,15,"Feb 16, 1972 (29)",,"1,74m",,-,2002
+176,Roman Seliverstov,Yesil-Bogatyr Petropavlovsk,Midfielder,17,"Sep 27, 1981 (20)",,"1,79m",,-,2002
+177,Aleksandr Chepukavichus,Yesil-Bogatyr Petropavlovsk,Midfielder,18,"Aug 31, 1978 (23)",,"1,78m",,-,2002
+178,Nikolay Solomin,Yesil-Bogatyr Petropavlovsk,Midfielder,23,"Apr 6, 1985 (16)",,"1,79m",,-,2002
+179,Oleg Koshelyuk,Yesil-Bogatyr Petropavlovsk,Central Midfield,8,"Sep 7, 1969 (32)",,"1,76m",,-,2002
+180,Evgeniy Averchenko,Yesil-Bogatyr Petropavlovsk,Right Midfield,20,"Apr 6, 1982 (19)",,"1,72m",right,-,2002
+181,Abdukakhkhor Marifaliev,Yesil-Bogatyr Petropavlovsk,Left Midfield,11,"May 10, 1971 (30)",,"1,70m",,-,2002
+182,Viktor Zubarev,Yesil-Bogatyr Petropavlovsk,Centre-Forward,20,"Apr 10, 1973 (28)",,"1,98m",,-,2002
+183,Vasili Prosekov,Yesil-Bogatyr Petropavlovsk,Centre-Forward,6,"Oct 31, 1983 (18)",,"1,77m",right,-,2002
+184,Sergey Kondratskiy,Yesil-Bogatyr Petropavlovsk,Striker,9,"Mar 26, 1967 (34)",,"1,80m",,-,2002
+185,Oleksiy Kosenko,Yesil-Bogatyr Petropavlovsk,Striker,10,"Mar 9, 1975 (26)",,"1,81m",,-,2002
+186,Vyacheslav Koloda,Yesil-Bogatyr Petropavlovsk,Striker,19,"Oct 2, 1971 (30)",,"1,85m",,-,2002
+187,Sergey Yurevich,Yesil-Bogatyr Petropavlovsk,Striker,21,"Sep 11, 1979 (22)",,"1,64m",,-,2002
+188,Valeriy Berezovskiy,Yesil-Bogatyr Petropavlovsk,Striker,25,"Jul 23, 1975 (26)",,"1,85m",,-,2002
+189,Naken Kyrykbaev,Kaysar Kyzylorda,Goalkeeper,25,"Sep 29, 1975 (26)",,"1,83m",right,-,2002
+190,Akhmet Alaydarov,Kaysar Kyzylorda,Goalkeeper,1,"Aug 19, 1983 (18)",,"1,83m",right,-,2002
+191,Aleksandr Korobko,Kaysar Kyzylorda,Goalkeeper,16,"Jan 16, 1970 (31)",,"1,87m",,-,2002
+192,Denis Kobtsev,Kaysar Kyzylorda,Defender,2,"Dec 22, 1977 (24)",,"1,79m",,-,2002
+193,Andriy Pylypenko,Kaysar Kyzylorda,Defender,2,"Apr 6, 1971 (30)",,"1,78m",,-,2002
+194,Kalandar Akhmedov,Kaysar Kyzylorda,Defender,3,"Aug 12, 1968 (33)",,"1,78m",,-,2002
+195,Sultan Abildaev,Kaysar Kyzylorda,Defender,4,"Mar 21, 1970 (31)",,"1,78m",,-,2002
+196,Dmytro Buzhyn,Kaysar Kyzylorda,Defender,5,"Oct 9, 1979 (22)",,"1,78m",,-,2002
+197,Kanat Sherimbetov,Kaysar Kyzylorda,Defender,6,"Oct 23, 1982 (19)",,"1,80m",,-,2002
+198,Oleksandr Vovk,Kaysar Kyzylorda,Defender,7,"Nov 13, 1979 (22)",,"1,70m",,-,2002
+199,Bektas Ertaev,Kaysar Kyzylorda,Defender,8,"Nov 29, 1981 (20)",,"1,72m",,-,2002
+200,Marat Sarsenov,Kaysar Kyzylorda,Defender,9,"Apr 12, 1972 (29)",,"1,80m",,-,2002
+201,Alikhan Kaliev,Kaysar Kyzylorda,Defender,12,"Apr 9, 1981 (20)",,"1,75m",,-,2002
+202,Erlan Makhambediev,Kaysar Kyzylorda,Defender,13,"Mar 30, 1979 (22)",,"1,80m",right,-,2002
+203,Sergey Tarabunov,Kaysar Kyzylorda,Defender,19,"Jul 26, 1982 (19)",,"1,75m",,-,2002
+204,Valentyn Piddubnyi,Kaysar Kyzylorda,Defender,20,"Jul 5, 1974 (27)",,"1,80m",,-,2002
+205,Almat Dusekeev,Kaysar Kyzylorda,Defender,20,"Jan 15, 1981 (20)",,"1,72m",,-,2002
+206,Darkhan Bekishev,Kaysar Kyzylorda,Defender,21,"Jul 6, 1980 (21)",,"1,83m",,-,2002
+207,Kairzhan Abuov,Kaysar Kyzylorda,Defender,23,"Jan 16, 1972 (29)",,"1,72m",,-,2002
+208,Mikhail Trofimov,Kaysar Kyzylorda,Centre-Back,7,"Aug 5, 1974 (27)",,N/Am,N/A,-,2002
+209,Kanat Aliev,Kaysar Kyzylorda,Right-Back,14,"Feb 9, 1985 (16)",,"1,76m",right,-,2002
+210,Serik Sagyndykov,Kaysar Kyzylorda,Right-Back,18,"Jan 9, 1984 (17)",,"1,80m",right,-,2002
+211,Kazbek Kushebin,Kaysar Kyzylorda,Midfielder,12,"Jul 28, 1972 (29)",,"1,74m",,-,2002
+212,Azizbek Khoshimov,Kaysar Kyzylorda,Midfielder,5,"Dec 23, 1977 (24)",,"1,73m",,-,2002
+213,Talgat Syzdykov,Kaysar Kyzylorda,Midfielder,10,"Feb 23, 1978 (23)",,"1,82m",,-,2002
+214,Dmitriy Gaevoy,Kaysar Kyzylorda,Midfielder,17,"Jan 19, 1971 (30)",,"1,86m",,-,2002
+215,Islam Zhunisbekov,Kaysar Kyzylorda,Midfielder,22,"Dec 26, 1981 (20)",,"1,70m",right,-,2002
+216,Maksat Bayzhanov,Kaysar Kyzylorda,Central Midfield,15,"Aug 6, 1984 (17)",,"1,80m",right,-,2002
+217,Nurbol Baymenov,Kaysar Kyzylorda,Striker,11,"Mar 7, 1980 (21)",,"1,72m",,-,2002
+218,Marat Iskakov,Kaysar Kyzylorda,Striker,17,"Jul 30, 1980 (21)",,"1,84m",,-,2002
+219,Medet Koszhanov,Kaysar Kyzylorda,Striker,24,"Mar 12, 1984 (17)",,"1,72m",,-,2002
+220,Viktor Koziy,Kaysar Kyzylorda,Striker,27,"Feb 27, 1980 (21)",,"1,73m",,-,2002
+221,Viktor Raskulov,Ekibastuzets Ekibastuz (-2008),Goalkeeper,1,"Sep 19, 1974 (27)",,"1,83m",,-,2002
+222,Pavel Yurjev,Ekibastuzets Ekibastuz (-2008),Goalkeeper,16,"Apr 22, 1981 (20)",,"1,90m",,-,2002
+223,Ubaydulla Mutaliev,Ekibastuzets Ekibastuz (-2008),Defender,22,"Jul 10, 1972 (29)",,-,,-,2002
+224,Aleksandr Zhiglin,Ekibastuzets Ekibastuz (-2008),Defender,2,"Jan 21, 1983 (18)",,"1,74m",,-,2002
+225,Alevtin Osipov,Ekibastuzets Ekibastuz (-2008),Defender,5,"May 13, 1969 (32)",,"1,78m",,-,2002
+226,Evgeniy Kravchuk,Ekibastuzets Ekibastuz (-2008),Defender,8,"Jun 24, 1981 (20)",,"1,78m",,-,2002
+227,Garik Abdulgazin,Ekibastuzets Ekibastuz (-2008),Defender,13,"Jun 29, 1985 (16)",,-,,-,2002
+228,Aleksandr Sologub,Ekibastuzets Ekibastuz (-2008),Defender,25,"Jul 7, 1983 (18)",,"1,83m",,-,2002
+229,Dmitriy Kishchenko,Ekibastuzets Ekibastuz (-2008),Centre-Back,4,"Mar 29, 1979 (22)",,"1,84m",,-,2002
+230,Denis Shchetkin,Ekibastuzets Ekibastuz (-2008),Centre-Back,6,"Sep 14, 1982 (19)",,"1,85m",right,-,2002
+231,Egor Azovskiy,Ekibastuzets Ekibastuz (-2008),Centre-Back,17,"Jan 10, 1985 (16)",,"1,87m",right,-,2002
+232,Ilya Fomichev,Ekibastuzets Ekibastuz (-2008),Centre-Back,18,"Aug 14, 1982 (19)",,"1,94m",right,-,2002
+233,Maksim Zhalmagambetov,Ekibastuzets Ekibastuz (-2008),Centre-Back,19,"Jul 11, 1983 (18)",,"1,95m",right,-,2002
+234,Aleksey Mikhailyuk,Ekibastuzets Ekibastuz (-2008),Right-Back,20,"Jul 23, 1982 (19)",,"1,76m",right,-,2002
+235,Konstantin Zemtsov,Ekibastuzets Ekibastuz (-2008),Midfielder,3,"Jul 24, 1980 (21)",,"1,82m",,-,2002
+236,Rustam Khodzhaev,Ekibastuzets Ekibastuz (-2008),Midfielder,7,"Jan 2, 1973 (28)",,-,,-,2002
+237,Andriy Guzenko,Ekibastuzets Ekibastuz (-2008),Midfielder,8,"Feb 19, 1973 (28)",,"1,80m",,-,2002
+238,Rinat Ishmakov,Ekibastuzets Ekibastuz (-2008),Midfielder,12,"Feb 3, 1979 (22)",,-,,-,2002
+239,Sergey Labodovskiy,Ekibastuzets Ekibastuz (-2008),Midfielder,23,"Jan 14, 1982 (19)",,"1,94m",,-,2002
+240,Nikita Ovechkin,Ekibastuzets Ekibastuz (-2008),Midfielder,24,"Feb 22, 1982 (19)",,-,,-,2002
+241,Konstantin Fridental,Ekibastuzets Ekibastuz (-2008),Midfielder,29,"May 29, 1969 (32)",,-,,-,2002
+242,Sergey Ivanov,Ekibastuzets Ekibastuz (-2008),Central Midfield,25,"May 30, 1980 (21)",,"1,78m",right,-,2002
+243,Maksim Azovskiy,Ekibastuzets Ekibastuz (-2008),Attacking Midfield,14,"Jun 4, 1986 (15)",,"1,89m",right,-,2002
+244,Konstantin Zarechnyi,Ekibastuzets Ekibastuz (-2008),Left Winger,15,"Feb 14, 1984 (17)",,"1,79m",both,-,2002
+245,Aleksandr Bulgakov,Ekibastuzets Ekibastuz (-2008),Centre-Forward,9,"Aug 9, 1977 (24)",,"1,86m",,-,2002
+246,Vadym Chyzhykov,Ekibastuzets Ekibastuz (-2008),Striker,10,"Dec 21, 1974 (27)",,"1,86m",,-,2002
+247,Sukhrob Khamidov,Ekibastuzets Ekibastuz (-2008),Striker,11,"Aug 14, 1975 (26)",,"1,81m",,-,2002
+248,Ilya Karavan,Ekibastuzets Ekibastuz (-2008),Striker,20,"Jan 16, 1985 (16)",,-,,-,2002
+249,Sergey Mataganov,Ekibastuzets Ekibastuz (-2008),Striker,21,"Sep 10, 1979 (22)",,"1,82m",,-,2002
+250,Oleg Beket,Ekibastuzets Ekibastuz (-2008),Striker,24,"Mar 4, 1984 (17)",,"1,83m",,-,2002
+251,Igor Osipchuk,Esil Kokhetau,Goalkeeper,-,"Aug 2, 1975 (26)",,"1,83m",right,-,2002
+252,David Loria,Esil Kokhetau,Goalkeeper,-,"Oct 31, 1981 (20)",,"1,83m",right,-,2002
+253,Igor Geitsman,Esil Kokhetau,Goalkeeper,-,"Jul 11, 1976 (25)",,"1,93m",right,-,2002
+254,Igor Kudrenko,Esil Kokhetau,Defender,-,"Nov 13, 1978 (23)",,"1,87m",,-,2002
+255,Oleg Semka,Esil Kokhetau,Defender,-,"Jan 15, 1975 (26)",,-,,-,2002
+256,Georgiy Kolpakov,Esil Kokhetau,Defender,-,"Apr 18, 1979 (22)",,"1,85m",,-,2002
+257,Egor Gladkov,Esil Kokhetau,Defender,-,"Feb 17, 1979 (22)",,"1,72m",,-,2002
+258,Evgeniy Valentyukevich,Esil Kokhetau,Defender,-,"Feb 9, 1982 (19)",,"1,83m",,-,2002
+259,Aleksey Lisitsyn,Esil Kokhetau,Defender,-,"Feb 6, 1985 (16)",,"1,74m",,-,2002
+260,Sergey Vasiljev,Esil Kokhetau,Defender,-,"Jun 29, 1980 (21)",,"1,88m",,-,2002
+261,Roman Ganevich,Esil Kokhetau,Defender,-,"Jun 30, 1980 (21)",,-,,-,2002
+262,Gela Koridze,Esil Kokhetau,Defender,-,"Aug 22, 1973 (28)",,-,,-,2002
+263,David Chokheli,Esil Kokhetau,Defender,-,"Apr 26, 1981 (20)",,-,,-,2002
+264,Evgeniy Berun,Esil Kokhetau,Centre-Back,-,"Aug 18, 1982 (19)",,"1,87m",right,-,2002
+265,Oleksandr Stakhiv,Esil Kokhetau,Centre-Back,-,"Jan 13, 1981 (20)",,"1,90m",right,-,2002
+266,Sergey Rastegaev,Esil Kokhetau,Centre-Back,-,"Jan 29, 1972 (29)",,"1,90m",,-,2002
+267,Evgeni Zakharchenko,Esil Kokhetau,Left-Back,-,"Sep 21, 1978 (23)",,"1,77m",left,-,2002
+268,Oleg Blokhin,Esil Kokhetau,Left-Back,-,"Oct 20, 1980 (21)",,"1,83m",left,-,2002
+269,Anatoliy Malkov,Esil Kokhetau,Midfielder,-,"Jul 8, 1981 (20)",,"1,78m",right,-,2002
+270,Anatoliy Bogdanov,Esil Kokhetau,Defensive Midfield,-,"Jun 7, 1981 (20)",,"1,86m",right,-,2002
+271,Sergey Kalyubin,Esil Kokhetau,Defensive Midfield,-,"Jan 14, 1979 (22)",,"1,84m",,-,2002
+272,Roman Babichev,Esil Kokhetau,Midfielder,-,"Aug 18, 1975 (26)",,"1,85m",,-,2002
+273,Oleg Samoilov,Esil Kokhetau,Midfielder,-,"May 1, 1967 (34)",,"1,81m",,-,2002
+274,Aleksandr Chepukavichus,Esil Kokhetau,Midfielder,-,"Aug 31, 1978 (23)",,"1,78m",,-,2002
+275,Arsen Beysenov,Esil Kokhetau,Midfielder,-,"Nov 11, 1979 (22)",,"1,78m",,-,2002
+276,Tugan Khamkhoev,Esil Kokhetau,Left Winger,-,"Mar 4, 1987 (14)",,"1,77m",left,-,2002
+277,Martin Bielik,Esil Kokhetau,Centre-Forward,-,"Apr 14, 1980 (21)",,"1,98m",right,-,2002
+278,Vitaliy Karpov,Esil Kokhetau,Centre-Forward,-,"Jan 24, 1979 (22)",,N/Am,N/A,-,2002
+279,Arsen Tlekhugov,Esil Kokhetau,Centre-Forward,-,"Nov 3, 1976 (25)",,"1,82m",both,-,2002
+280,Vyacheslav Kudrya,Esil Kokhetau,Centre-Forward,-,"Mar 21, 1979 (22)",,"1,85m",,-,2002
+281,Omirzhan Shalabaev,Esil Kokhetau,Striker,-,"Jul 3, 1984 (17)",,"1,77m",,-,2002
+282,Oleg Feoktistov,Esil Kokhetau,Striker,-,"Jan 5, 1980 (21)",,"1,78m",,-,2002
+283,Valeriy Shantalosov,Tobol Kostanay,Goalkeeper,1,"Mar 15, 1966 (35)",,"1,93m",,-,2002
+284,Andrey Nenashev,Tobol Kostanay,Goalkeeper,16,"Dec 12, 1973 (28)",,"1,81m",right,-,2002
+285,Ivan Chentsov,Tobol Kostanay,Goalkeeper,25,"Jan 26, 1982 (19)",,-,,-,2002
+286,Zoran Amidzic,Tobol Kostanay,Defender,2,"Mar 31, 1972 (29)",,"1,84m",,-,2002
+287,Sergey Maslenov,Tobol Kostanay,Defender,2,"Apr 25, 1974 (27)",,-,,-,2002
+288,Sergey Kucheruk,Tobol Kostanay,Defender,8,"Oct 2, 1982 (19)",,"1,78m",,-,2002
+289,Sergey Kurnyavka,Tobol Kostanay,Defender,13,"Oct 18, 1984 (17)",,"1,85m",,-,2002
+290,Abay Amanbaev,Tobol Kostanay,Defender,20,"Dec 15, 1981 (20)",,-,,-,2002
+291,Maksim Chausov,Tobol Kostanay,Defender,24,"Mar 2, 1984 (17)",,"1,79m",,-,2002
+292,Sergey Andreev,Tobol Kostanay,Centre-Back,3,"May 14, 1971 (30)",,"1,83m",,-,2002
+293,Oleg Lotov,Tobol Kostanay,Centre-Back,15,"Nov 21, 1975 (26)",,"1,84m",right,-,2002
+294,Sergey Kaputin,Tobol Kostanay,Centre-Back,17,"Aug 22, 1983 (18)",,"1,85m",,-,2002
+295,Petr Badlo,Tobol Kostanay,Right-Back,5,"May 24, 1976 (25)",,"1,78m",right,-,2002
+296,Andrey Shkurin,Tobol Kostanay,Right-Back,12,"Mar 3, 1972 (29)",,"1,73m",both,-,2002
+297,Daniyar Mukanov,Tobol Kostanay,Right-Back,18,"Sep 26, 1976 (25)",,"1,79m",right,-,2002
+298,Oleg Golovan,Tobol Kostanay,Midfielder,4,"Oct 1, 1974 (27)",,"1,75m",,-,2002
+299,Dmitriy Bolotskikh,Tobol Kostanay,Midfielder,21,"Feb 20, 1983 (18)",,-,,-,2002
+300,Zhasyn Kaypbaev,Tobol Kostanay,Midfielder,23,"Feb 23, 1982 (19)",,"1,72m",,-,2002
+301,Konstantin Kotov,Tobol Kostanay,Central Midfield,6,"Oct 7, 1973 (28)",,"1,72m",,-,2002
+302,Aleksey Kosolapov,Tobol Kostanay,Central Midfield,7,"Mar 17, 1971 (30)",,"1,78m",right,-,2002
+303,Maksim Shevchenko,Tobol Kostanay,Central Midfield,22,"Mar 27, 1980 (21)",,"1,75m",,-,2002
+304,Nurbol Zhumaskaliev,Tobol Kostanay,Attacking Midfield,9,"May 11, 1981 (20)",,"1,76m",left,-,2002
+305,Nurken Mazbaev,Tobol Kostanay,Right Winger,10,"Jun 4, 1972 (29)",,-,,-,2002
+306,Valeriy Garkusha,Tobol Kostanay,Right Winger,14,"Mar 14, 1977 (24)",,-,,-,2002
+307,Evgeniy Tarasov,Tobol Kostanay,Centre-Forward,11,"Mar 25, 1979 (22)",,"1,78m",right,-,2002
+308,Sergey Bogdanov,Tobol Kostanay,Centre-Forward,11,"Mar 11, 1977 (24)",,"1,80m",right,-,2002
+309,Vitaliy Starnovskiy,Tobol Kostanay,Striker,19,"May 7, 1983 (18)",,"1,80m",,-,2002
+310,Oleg Voskoboynikov,FK Atyrau,Goalkeeper,-,"Jul 4, 1971 (30)",,-,,-,2002
+311,Viktor Raskulov,FK Atyrau,Goalkeeper,-,"Sep 19, 1974 (27)",,"1,83m",,-,2002
+312,Vadym Deonas,FK Atyrau,Goalkeeper,1,"Jul 25, 1975 (26)",,"1,87m",,-,2002
+313,Nurlan Aubekerov,FK Atyrau,Goalkeeper,16,"Apr 26, 1982 (19)",,"1,89m",right,-,2002
+314,Nikolay Kolesnikov,FK Atyrau,Goalkeeper,28,"May 11, 1986 (15)",,-,,-,2002
+315,Yuri Bordolimow,FK Atyrau,Defender,-,"Jan 24, 1970 (31)",,"1,70m",,-,2002
+316,Sultan Abildaev,FK Atyrau,Defender,-,"Mar 21, 1970 (31)",,"1,78m",,-,2002
+317,Aleksandr Zhiglin,FK Atyrau,Defender,-,"Jan 21, 1983 (18)",,"1,74m",,-,2002
+318,Andriy Foshchiy,FK Atyrau,Defender,5,"Feb 19, 1981 (20)",,"1,86m",,-,2002
+319,Bekbolat Seytaliev,FK Atyrau,Defender,12,"Apr 10, 1980 (21)",,-,,-,2002
+320,Igor Goryachev,FK Atyrau,Defender,13,"Jul 7, 1975 (26)",,-,,-,2002
+321,Petro Anisim,FK Atyrau,Defender,18,"Jan 31, 1977 (24)",,"1,93m",,-,2002
+322,Radik Aitzhanov,FK Atyrau,Defender,25,"Aug 30, 1986 (15)",,"1,78m",,-,2002
+323,Vyacheslav Sobolev,FK Atyrau,Right-Back,6,"Oct 13, 1984 (17)",,"1,69m",both,-,2002
+324,Valentin Chureev,FK Atyrau,Right-Back,26,"Aug 29, 1986 (15)",,"1,73m",right,-,2002
+325,Sergey Pasko,FK Atyrau,Midfielder,-,"Sep 10, 1966 (35)",,N/Am,N/A,-,2002
+326,Vitaliy Kitsak,FK Atyrau,Midfielder,-,"Oct 16, 1975 (26)",,"1,75m",,-,2002
+327,Rakhman Asukhanov,FK Atyrau,Midfielder,-,"May 1, 1973 (28)",,"1,68m",,-,2002
+328,Oleg Kirimov,FK Atyrau,Midfielder,-,"Jul 28, 1968 (33)",,"1,73m",,-,2002
+329,Vitali Ushakov,FK Atyrau,Midfielder,3,"Aug 12, 1974 (27)",,"1,78m",,-,2002
+330,Marko Filipovic,FK Atyrau,Midfielder,9,"Aug 6, 1978 (23)",,"1,80m",,-,2002
+331,Levan Bajelidze,FK Atyrau,Midfielder,15,"Oct 2, 1978 (23)",,-,,-,2002
+332,Sergey Labodovskiy,FK Atyrau,Midfielder,19,"Jan 14, 1982 (19)",,"1,94m",,-,2002
+333,Konstantin Istomin,FK Atyrau,Midfielder,20,"Nov 3, 1984 (17)",,"1,84m",,-,2002
+334,Vitaliy Vikhlyanov,FK Atyrau,Midfielder,21,"Apr 14, 1974 (27)",,"1,75m",,-,2002
+335,Sergey Kostyuk,FK Atyrau,Central Midfield,2,"Nov 30, 1978 (23)",,"1,77m",right,-,2002
+336,Oleksandr Sobkovych,FK Atyrau,Central Midfield,4,"Feb 11, 1976 (25)",,"1,75m",,-,2002
+337,Denis Rodionov,FK Atyrau,Central Midfield,10,"Jul 26, 1985 (16)",,"1,78m",both,-,2002
+338,Zhiger Kukeev,FK Atyrau,Right Midfield,8,"Aug 9, 1984 (17)",,"1,75m",right,-,2002
+339,Kuanysh Karakulov,FK Atyrau,Right Midfield,17,"Jun 20, 1977 (24)",,"1,73m",right,-,2002
+340,Igor Yurin,FK Atyrau,Attacking Midfield,-,"Jul 3, 1982 (19)",,"1,71m",right,-,2002
+341,Vyacheslav Eremeev,FK Atyrau,Attacking Midfield,24,"Mar 29, 1970 (31)",,"1,83m",right,-,2002
+342,Guram Makaev,FK Atyrau,Centre-Forward,-,"Feb 18, 1970 (31)",,"1,79m",right,-,2002
+343,Plamen Rusinov,FK Atyrau,Striker,-,"Jan 4, 1975 (26)",,"1,73m",right,-,2002
+344,Ivan Korponay,FK Atyrau,Centre-Forward,-,"Feb 13, 1969 (32)",,"1,86m",,-,2002
+345,Vladimir Gurtuev,FK Atyrau,Striker,7,"Jul 2, 1971 (30)",,"1,82m",,-,2002
+346,Redzhepmurad Agabaev,FK Atyrau,Centre-Forward,11,"Aug 1, 1973 (28)",,"1,86m",,-,2002
+347,Serik Koshkarov,FK Atyrau,Centre-Forward,14,"Jun 2, 1973 (28)",,"1,86m",,-,2002
+348,Davit Janashia,FK Atyrau,Striker,20,"Jul 8, 1972 (29)",,"1,79m",,-,2002
+349,Lesbek Dosymov,FK Atyrau,Striker,21,"Jun 28, 1982 (19)",,-,,-,2002
+350,Almat Bekbaev,Ordabasy Shymkent,Goalkeeper,-,"Jul 14, 1984 (17)",,"1,94m",right,-,2002
+351,Igor Glushko,Ordabasy Shymkent,Goalkeeper,-,"Jul 17, 1980 (21)",,"2,00m",,-,2002
+352,Boris Beloshapka,Ordabasy Shymkent,Goalkeeper,-,"Feb 9, 1962 (39)",,"1,84m",,-,2002
+353,Sergey Maksimov,Ordabasy Shymkent,Defender,-,"Sep 8, 1982 (19)",,"1,82m",,-,2002
+354,Valeriy Shapovalov,Ordabasy Shymkent,Defender,-,"Aug 27, 1976 (25)",,"1,84m",,-,2002
+355,Almas Kulshinbaev,Ordabasy Shymkent,Defender,-,"Oct 20, 1975 (26)",,"1,82m",,-,2002
+356,Volodymyr Dychko,Ordabasy Shymkent,Defender,-,"Sep 7, 1972 (29)",,"1,72m",,-,2002
+357,Sergiy Telegin,Ordabasy Shymkent,Defender,-,"May 21, 1977 (24)",,"1,76m",,-,2002
+358,Oleksiy Petrenko,Ordabasy Shymkent,Defender,-,"Apr 12, 1975 (26)",,"1,88m",,-,2002
+359,Dmytro Petrenko,Ordabasy Shymkent,Defender,-,"Feb 4, 1976 (25)",,-,,-,2002
+360,Adylet Eshenkulov,Ordabasy Shymkent,Defender,-,"Mar 18, 1985 (16)",,"1,79m",,-,2002
+361,Makhmud Turakhodzhaev,Ordabasy Shymkent,Defender,-,"Oct 7, 1976 (25)",,"1,73m",,-,2002
+362,Oleg Sabirov,Ordabasy Shymkent,Left-Back,-,"Mar 13, 1978 (23)",,"1,81m",right,-,2002
+363,Nasiru Abdullahi,Ordabasy Shymkent,Midfielder,-,"May 1, 1982 (19)",,-,,-,2002
+364,Maksym Miroshnichenko,Ordabasy Shymkent,Midfielder,-,"Mar 31, 1979 (22)",,-,,-,2002
+365,Andrey Vaganov,Ordabasy Shymkent,Midfielder,-,"Oct 25, 1968 (33)",,"1,80m",,-,2002
+366,Spartak Murtazaev,Ordabasy Shymkent,Midfielder,-,"Oct 3, 1977 (24)",,"1,82m",,-,2002
+367,Berik Omarbekov,Ordabasy Shymkent,Midfielder,-,"Feb 11, 1980 (21)",,"1,74m",,-,2002
+368,Oleksandr Sobkovych,Ordabasy Shymkent,Central Midfield,-,"Feb 11, 1976 (25)",,"1,75m",,-,2002
+369,Fayzulla Urdabaev,Ordabasy Shymkent,Central Midfield,-,"Nov 10, 1966 (35)",,"1,75m",,-,2002
+370,Roman Pakholyuk,Ordabasy Shymkent,Right Midfield,-,"Oct 3, 1979 (22)",,"1,75m",right,-,2002
+371,Eduard Sergienko,Ordabasy Shymkent,Right Winger,-,"Feb 18, 1983 (18)",,"1,81m",both,-,2002
+372,Murat Suyumagambetov,Ordabasy Shymkent,Centre-Forward,-,"Oct 14, 1983 (18)",,"1,81m",right,-,2002
+373,Nurbolat Maimakov,Ordabasy Shymkent,Centre-Forward,-,"Apr 27, 1982 (19)",,"1,73m",right,-,2002
+374,Konstantin Kanin,Ordabasy Shymkent,Centre-Forward,-,"May 29, 1982 (19)",,"1,90m",,-,2002
+375,Yevgen Sonin,Ordabasy Shymkent,Striker,-,"Jun 16, 1974 (27)",,"1,78m",,-,2002
+376,Viktor Koziy,Ordabasy Shymkent,Striker,-,"Feb 27, 1980 (21)",,"1,73m",,-,2002
+377,Nagmatulla Kutybaev,Ordabasy Shymkent,Centre-Forward,-,"Sep 28, 1973 (28)",,"1,75m",,-,2002
+378,Anatoliy Berdyugin,Ordabasy Shymkent,Centre-Forward,-,"Sep 10, 1982 (19)",,"1,76m",,-,2002
+379,Sherzod Nazarov,Ordabasy Shymkent,Striker,-,"Nov 21, 1979 (22)",,-,,-,2002
+380,Viktor Guzj,Zhetysu Taldykorgan,Goalkeeper,1,"Jan 16, 1971 (30)",,"1,85m",,-,2002
+381,Rinat Muftakhov,Zhetysu Taldykorgan,Goalkeeper,16,"Jun 14, 1970 (31)",,"1,77m",,-,2002
+382,Sergey Davydenko,Zhetysu Taldykorgan,Goalkeeper,1,"Oct 9, 1968 (33)",,"1,81m",,-,2002
+383,Dmitriy Dralov,Zhetysu Taldykorgan,Goalkeeper,16,"Jun 22, 1984 (17)",,"1,87m",,-,2002
+384,Igor Kudrenko,Zhetysu Taldykorgan,Defender,-,"Nov 13, 1978 (23)",,"1,87m",,-,2002
+385,Zeljko Joksimovic,Zhetysu Taldykorgan,Defender,-,"Mar 14, 1974 (27)",,"1,80m",,-,2002
+386,Ruslan Gumar,Zhetysu Taldykorgan,Defender,2,"Nov 18, 1973 (28)",,"1,81m",,-,2002
+387,Andrey Tetushkin,Zhetysu Taldykorgan,Defender,3,"Aug 19, 1971 (30)",,"1,82m",right,-,2002
+388,Sergiy Burkovskyi,Zhetysu Taldykorgan,Defender,4,"Sep 8, 1972 (29)",,"1,85m",,-,2002
+389,Aleksandr Burnadze,Zhetysu Taldykorgan,Defender,5,"Jul 26, 1974 (27)",,"1,85m",,-,2002
+390,Konstantin Galchenko,Zhetysu Taldykorgan,Defender,6,"Jun 23, 1974 (27)",,"1,78m",,-,2002
+391,Oleg Shive,Zhetysu Taldykorgan,Defender,20,"Jul 9, 1980 (21)",,"1,78m",,-,2002
+392,Daniyar Turlybaev,Zhetysu Taldykorgan,Defender,22,"May 28, 1984 (17)",,"1,70m",,-,2002
+393,Denis Mamonov,Zhetysu Taldykorgan,Defender,23,"Dec 8, 1981 (20)",,"1,78m",,-,2002
+394,Aleksandr Kirillov,Zhetysu Taldykorgan,Defender,24,"Apr 5, 1982 (19)",,"1,80m",,-,2002
+395,Vyacheslav Bogatyrev,Zhetysu Taldykorgan,Centre-Back,13,"Oct 12, 1977 (24)",,"1,88m",right,-,2002
+396,Sergey Kirov,Zhetysu Taldykorgan,Centre-Back,15,"Feb 4, 1978 (23)",,"1,83m",,-,2002
+397,Sergey Pasko,Zhetysu Taldykorgan,Midfielder,5,"Sep 10, 1966 (35)",,N/Am,N/A,-,2002
+398,Ruslan Dzhamshidov,Zhetysu Taldykorgan,Midfielder,10,"Apr 27, 1980 (21)",,-,right,-,2002
+399,Denis Izmaylov,Zhetysu Taldykorgan,Midfielder,12,"Dec 25, 1977 (24)",,"1,79m",,-,2002
+400,Igoris Kirilovas,Zhetysu Taldykorgan,Midfielder,13,"Apr 14, 1971 (30)",,N/Am,N/A,-,2002
+401,Mykhaylo Somyk,Zhetysu Taldykorgan,Midfielder,14,"Apr 9, 1972 (29)",,"1,72m",,-,2002
+402,Andriy Klymenko,Zhetysu Taldykorgan,Midfielder,18,"Sep 13, 1977 (24)",,"1,77m",,-,2002
+403,Evgeniy Pilipas,Zhetysu Taldykorgan,Midfielder,19,"Jun 19, 1976 (25)",,"1,74m",,-,2002
+404,Dmitriy Mamonov,Zhetysu Taldykorgan,Central Midfield,8,"Apr 26, 1978 (23)",,"1,73m",right,-,2002
+405,Vitaliy Kolesnichenko,Zhetysu Taldykorgan,Left Midfield,7,"Jun 10, 1973 (28)",,N/Am,N/A,-,2002
+406,Valeriy Berezovskiy,Zhetysu Taldykorgan,Striker,7,"Jul 23, 1975 (26)",,"1,85m",,-,2002
+407,Ruslan Akhidzhak,Zhetysu Taldykorgan,Centre-Forward,8,"Mar 8, 1975 (26)",,"1,80m",,-,2002
+408,Evgeni Glukhov,Zhetysu Taldykorgan,Striker,9,"Jun 22, 1974 (27)",,"1,83m",,-,2002
+409,Guram Makaev,Zhetysu Taldykorgan,Centre-Forward,11,"Feb 18, 1970 (31)",,"1,79m",right,-,2002
+410,Yuri Zvonarenko,Zhetysu Taldykorgan,Striker,17,"Jul 27, 1977 (24)",,"1,84m",,-,2002
+411,Andrey Pakhtusov,Zhetysu Taldykorgan,Striker,18,"Sep 10, 1976 (25)",,"1,76m",,-,2002
+412,Arman Birkurmanov,Zhetysu Taldykorgan,Striker,21,"Jan 31, 1982 (19)",,"1,80m",,-,2002
+413,Ayrat Karimov,Shakhter Karaganda,Goalkeeper,-,"May 4, 1971 (30)",,"1,91m",right,-,2002
+414,Daniil Rikhard,Shakhter Karaganda,Goalkeeper,-,"Feb 27, 1974 (27)",,"1,90m",right,-,2002
+415,Andrey Volodin,Shakhter Karaganda,Defender,-,"Apr 25, 1982 (19)",,-,,-,2002
+416,Aleksandr Moskalenko,Shakhter Karaganda,Defender,-,"Sep 18, 1976 (25)",,"1,83m",,-,2002
+417,Oleg Gychay,Shakhter Karaganda,Defender,-,"Apr 5, 1973 (28)",,"1,78m",,-,2002
+418,Artem Kuchin,Shakhter Karaganda,Defender,-,"Dec 15, 1977 (24)",,"1,75m",,-,2002
+419,Oleg Kornienko,Shakhter Karaganda,Centre-Back,-,"May 28, 1973 (28)",,"1,82m",right,-,2002
+420,Sergey Moskalenko,Shakhter Karaganda,Centre-Back,-,"Jun 19, 1980 (21)",,"1,85m",,-,2002
+421,Igor Soloshenko,Shakhter Karaganda,Left-Back,-,"May 22, 1979 (22)",,"1,81m",left,-,2002
+422,Oleg Tomashevskyi,Shakhter Karaganda,Left-Back,-,"Mar 15, 1970 (31)",,"1,76m",,-,2002
+423,Evgeniy Tarasov,Shakhter Karaganda,Right-Back,-,"Apr 16, 1985 (16)",,"1,83m",right,-,2002
+424,Kazbek Kushebin,Shakhter Karaganda,Midfielder,-,"Jul 28, 1972 (29)",,"1,74m",,-,2002
+425,Mikhail Glushko,Shakhter Karaganda,Defensive Midfield,-,"Jan 3, 1984 (17)",,"1,86m",right,-,2002
+426,Aleksey Klishin,Shakhter Karaganda,Midfielder,-,"Jan 1, 1973 (28)",,N/Am,N/A,-,2002
+427,Sergey Egorov,Shakhter Karaganda,Midfielder,-,"Apr 13, 1973 (28)",,"1,90m",,-,2002
+428,Begenchmukhammed Kuliev,Shakhter Karaganda,Midfielder,-,"Apr 4, 1977 (24)",,"1,74m",right,-,2002
+429,Vladimir Kashtanov,Shakhter Karaganda,Central Midfield,-,"Feb 16, 1973 (28)",,"1,79m",,-,2002
+430,Andrey Finonchenko,Shakhter Karaganda,Centre-Forward,-,"Jun 21, 1982 (19)",,"1,77m",right,-,2002
+431,Rimantas Zvingilas,Shakhter Karaganda,Centre-Forward,-,"Sep 3, 1973 (28)",,"1,78m",right,-,2002
+432,Azamat Niyazymbetov,Shakhter Karaganda,Striker,-,"Mar 25, 1974 (27)",,"1,72m",right,-,2002
+433,Rafael Khamidullov,Shakhter Karaganda,Striker,-,"Mar 21, 1976 (25)",,"1,77m",,-,2002
+434,Ruslan Imankulov,Shakhter Karaganda,Striker,-,"Feb 6, 1972 (29)",,-,,-,2002
+435,Rustam Beyzhanov,Shakhter Karaganda,Striker,-,"Jan 30, 1981 (20)",,"1,78m",,-,2002
+436,Naken Kyrykbaev,FK Taraz,Goalkeeper,-,"Sep 29, 1975 (26)",,"1,83m",right,-,2002
+437,Rinat Muftakhov,FK Taraz,Goalkeeper,-,"Jun 14, 1970 (31)",,"1,77m",,-,2002
+438,Igor Mikhailov,FK Taraz,Goalkeeper,-,"Feb 24, 1980 (21)",,"1,77m",,-,2002
+439,Aziz Anarmetov,FK Taraz,Defender,-,"Jul 30, 1982 (19)",,"1,82m",,-,2002
+440,Vladimir Salo,FK Taraz,Defender,-,"Feb 6, 1974 (27)",,"1,75m",right,-,2002
+441,Aleksey Klikunov,FK Taraz,Defender,-,"Apr 27, 1979 (22)",,"1,80m",,-,2002
+442,Samat Nauryzbaev,FK Taraz,Defender,-,"Sep 6, 1982 (19)",,"1,75m",,-,2002
+443,Valeriy Valter,FK Taraz,Defender,-,"Nov 21, 1976 (25)",,-,,-,2002
+444,Marat Dilmukhametov,FK Taraz,Defender,-,"Mar 28, 1975 (26)",,-,,-,2002
+445,Samat Mameshev,FK Taraz,Defender,-,"Mar 8, 1979 (22)",,"1,78m",,-,2002
+446,Aleksandr Mironov,FK Taraz,Defender,-,"Jul 23, 1979 (22)",,-,,-,2002
+447,Denis Murzin,FK Taraz,Defender,-,"Jul 21, 1980 (21)",,"1,76m",,-,2002
+448,Andrey Povalyaev,FK Taraz,Defender,-,"Mar 6, 1982 (19)",,"1,70m",,-,2002
+449,Vladimir Yakovlev,FK Taraz,Centre-Back,-,"Aug 2, 1984 (17)",,"1,82m",right,-,2002
+450,Kanatbek Musataev,FK Taraz,Centre-Back,-,"Jun 6, 1970 (31)",,"1,86m",,-,2002
+451,Dmytro Yakovenko,FK Taraz,Right-Back,-,"May 6, 1971 (30)",,"1,78m",both,-,2002
+452,Denis Popov,FK Taraz,Midfielder,-,"Mar 11, 1983 (18)",,"1,69m",,-,2002
+453,Vitaliy Evstigneev,FK Taraz,Defensive Midfield,-,"Aug 8, 1985 (16)",,"1,86m",both,-,2002
+454,Rustam Khaydaraliev,FK Taraz,Midfielder,-,"Apr 21, 1971 (30)",,"1,78m",,-,2002
+455,Aleksandr Sklyarov,FK Taraz,Defensive Midfield,-,"Nov 18, 1971 (30)",,"1,82m",,-,2002
+456,Sergey Pak,FK Taraz,Midfielder,-,"Oct 3, 1973 (28)",,-,,-,2002
+457,Evgeniy Kim,FK Taraz,Midfielder,-,"Feb 4, 1980 (21)",,-,,-,2002
+458,Dauren Otepbergenov,FK Taraz,Midfielder,-,"Feb 5, 1984 (17)",,"1,76m",,-,2002
+459,Dilmurad Nazarov,FK Taraz,Left Winger,-,"Apr 12, 1976 (25)",,"1,75m",,-,2002
+460,Ruslan Burdeynyi,FK Taraz,Striker,-,"Jul 29, 1980 (21)",,-,,-,2002
+461,Vyacheslav Pryanishnikov,FK Taraz,Striker,-,"Aug 4, 1976 (25)",,-,,-,2002
+462,Kairat Aubakirov,FK Taraz,Centre-Forward,-,"Mar 8, 1971 (30)",,"1,80m",,-,2002
+463,Anvar Anarmetov,FK Taraz,Striker,-,"Nov 5, 1983 (18)",,"1,70m",,-,2002
+464,Samat Derbisbaev,FK Taraz,Striker,-,"Jan 16, 1973 (28)",,"1,69m",,-,2002
+465,Nikolay Kalyabin,Vostok Oskemen,Goalkeeper,-,"Dec 7, 1969 (32)",,"1,89m",,-,2002
+466,Gennadiy Kirik,Vostok Oskemen,Goalkeeper,-,"Oct 28, 1975 (26)",,"1,89m",,-,2002
+467,Kostyantyn Lemishko,Vostok Oskemen,Defender,-,"May 8, 1974 (27)",,"1,69m",,-,2002
+468,Andrey Afelchenko,Vostok Oskemen,Defender,-,"Jul 2, 1968 (33)",,"1,78m",,-,2002
+469,Sergey Konovalenko,Vostok Oskemen,Defender,-,"Sep 2, 1974 (27)",,"1,74m",,-,2002
+470,Youssef Meskini,Vostok Oskemen,Defender,-,"May 4, 1975 (26)",,"1,86m",,-,2002
+471,Roman Pulter,Vostok Oskemen,Defender,-,"Nov 14, 1978 (23)",,"1,77m",,-,2002
+472,Igor Chesnokov,Vostok Oskemen,Defender,-,"Feb 3, 1972 (29)",,"1,71m",,-,2002
+473,Pavel Yakupov,Vostok Oskemen,Defender,-,"Aug 18, 1978 (23)",,"1,76m",,-,2002
+474,Eugen Galca,Vostok Oskemen,Defender,-,"Dec 7, 1976 (25)",,"1,74m",,-,2002
+475,Ramiz Allakhverdiev,Vostok Oskemen,Defender,-,"Apr 12, 1980 (21)",,-,,-,2002
+476,Aurel Nelipovschi,Vostok Oskemen,Defender,-,"May 7, 1977 (24)",,-,,-,2002
+477,Sergey Saliy,Vostok Oskemen,Defender,-,"Dec 6, 1967 (34)",,"1,73m",,-,2002
+478,Renat Abdulin,Vostok Oskemen,Centre-Back,-,"Apr 14, 1982 (19)",,"1,85m",right,-,2002
+479,Dinu Caras,Vostok Oskemen,Midfielder,-,"May 2, 1974 (27)",,-,,-,2002
+480,Pavel Evteev,Vostok Oskemen,Defensive Midfield,-,"Jun 28, 1967 (34)",,"1,77m",,-,2002
+481,Oleg Soimu,Vostok Oskemen,Midfielder,-,"Oct 1, 1975 (26)",,-,,-,2002
+482,Talgat Baysufinov,Vostok Oskemen,Defensive Midfield,-,"Sep 4, 1968 (33)",,"1,84m",,-,2002
+483,Daulet Nurasylov,Vostok Oskemen,Midfielder,-,"Nov 3, 1984 (17)",,"1,74m",,-,2002
+484,Rinat Aizatullov,Vostok Oskemen,Midfielder,-,"Dec 3, 1978 (23)",,"1,70m",,-,2002
+485,Andrey Matytsin,Vostok Oskemen,Midfielder,-,"Jan 14, 1979 (22)",,"1,80m",,-,2002
+486,Kuanysh Sadykov,Vostok Oskemen,Midfielder,-,"May 19, 1980 (21)",,"1,77m",,-,2002
+487,Pavel Udalov,Vostok Oskemen,Centre-Forward,-,"Jan 25, 1983 (18)",,"1,82m",right,-,2002
+488,Aleksandr Antropov,Vostok Oskemen,Striker,-,"Jul 20, 1973 (28)",,"1,76m",,-,2002
+489,Kostyantyn Shevchenko,Batys Uralsk,Goalkeeper,-,"Apr 12, 1979 (22)",,"1,80m",,-,2002
+490,Eduard Stolboviy,Batys Uralsk,Goalkeeper,-,"May 5, 1972 (29)",,"1,88m",,-,2002
+491,Sergey Maslenov,Batys Uralsk,Defender,-,"Apr 25, 1974 (27)",,-,,-,2002
+492,Paata Gamtsemlidze,Batys Uralsk,Defender,-,"Jan 6, 1974 (27)",,"1,76m",,-,2002
+493,Daniyar Mikhramov,Batys Uralsk,Defender,-,"Feb 9, 1984 (17)",,-,,-,2002
+494,Vladimir Redkin,Batys Uralsk,Defender,-,"Jan 6, 1978 (23)",,-,,-,2002
+495,Mukhan Baskhanbaev,Batys Uralsk,Defender,-,"Jan 31, 1981 (20)",,-,,-,2002
+496,Ruslan Kulzhabaev,Batys Uralsk,Defender,-,"Apr 3, 1980 (21)",,-,,-,2002
+497,Stanislav Markovskiy,Batys Uralsk,Defender,-,"Mar 22, 1982 (19)",,-,,-,2002
+498,Tolegen Tyumenev,Batys Uralsk,Defender,-,"Dec 13, 1978 (23)",,"1,81m",,-,2002
+499,Aleksey Mikhailyuk,Batys Uralsk,Right-Back,-,"Jul 23, 1982 (19)",,"1,76m",right,-,2002
+500,Mikhail Konopelko,Batys Uralsk,Midfielder,-,"Sep 9, 1973 (28)",,-,,-,2002
+501,Bakhva Ambidze,Batys Uralsk,Midfielder,-,"Dec 4, 1967 (34)",,"1,81m",,-,2002
+502,Aleksandr Sedov,Batys Uralsk,Midfielder,-,"Feb 5, 1976 (25)",,"1,80m",,-,2002
+503,Denis Bachurin,Batys Uralsk,Midfielder,-,"May 1, 1984 (17)",,"1,74m",,-,2002
+504,Kairat Baymakhanov,Batys Uralsk,Midfielder,-,"Mar 30, 1981 (20)",,"1,78m",,-,2002
+505,Vitaliy Buyakov,Batys Uralsk,Midfielder,-,"Feb 25, 1981 (20)",,-,,-,2002
+506,Anton Nazarikov,Batys Uralsk,Midfielder,-,"Jul 2, 1980 (21)",,"1,76m",,-,2002
+507,Manar Nuftiev,Batys Uralsk,Midfielder,-,"Mar 9, 1972 (29)",,-,,-,2002
+508,Ruslan Silin,Batys Uralsk,Midfielder,-,"Mar 3, 1981 (20)",,"1,75m",,-,2002
+509,Kakhaber Gogoladze,Batys Uralsk,Centre-Forward,-,"Feb 4, 1968 (33)",,"1,81m",,-,2002
+510,Vyacheslav Kholosha,Batys Uralsk,Striker,-,"Jun 15, 1972 (29)",,"1,86m",,-,2002
+511,Artur Avakyants,Batys Uralsk,Striker,-,"Sep 30, 1972 (29)",,"1,71m",,-,2002
+512,Anatoliy Vishnichenko,Batys Uralsk,Striker,-,"Apr 20, 1975 (26)",,"1,92m",,-,2002
+513,Sergey Danilov,Batys Uralsk,Striker,-,"Nov 17, 1984 (17)",,"1,76m",,-,2002
+514,Roman Lukin,Batys Uralsk,Striker,-,"Dec 12, 1979 (22)",,"1,78m",,-,2002
+515,Aleksandr Maksimenko,Batys Uralsk,Striker,-,"Apr 2, 1974 (27)",,"1,75m",,-,2002
+516,Aleksey Yashchenko,Batys Uralsk,Striker,-,"Jul 31, 1983 (18)",,-,,-,2002
